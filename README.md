@@ -1,4 +1,4 @@
-# Coral-Reef-Mapping-Drone
+# Coral Reef Mapping Drone
 ## An open source ocean water drone used for mapping and analyzing the health of coral reefs
 
 Coral reefs are the most vital ecosystem on this planet but are quickly deteriorating. 
