@@ -18,11 +18,11 @@ Our goal is to make coral reef mapping
 - 10x more accurate
 - 10x cheaper than state of the art
 
+![Photo of Mustard seed](https://images.squarespace-cdn.com/content/v1/588c5e468419c2ec3fced0c0/1550258199216-EWPQCILYKOOI7MGPXO5F/ke17ZwdGBToddI8pDm48kBZw6jF4_OvU-ddo_vwqGhp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ub61YCrK70I7JIpWiI8ho4Yi1WvVNQtDE81xuRbL1MFKm0sD-Bab7E9MY8W31A7zMQ/33230060508_aa5fc9a347_k.jpg?format=1500w)
+
 ![Photo of 3d coral mapping](https://images.squarespace-cdn.com/content/v1/588c5e468419c2ec3fced0c0/1530466231826-FNW4LDAH7XH30ZFNJJAH/ke17ZwdGBToddI8pDm48kLm-eDV0ETPZElAUOuRm5LoUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dozICiKierPdirwma1lhz985X3tnvptEZXlQK7_WXsWuOpYghpI-Ha_TwZsqqmJXng/25114424537_f4074ea83e_o.jpg?format=2500w)
 
 [18.0 Scoutbot Mustard](https://www.scoutbots.com/protei#/18-scoutbot-mustard/) is a semi-autonomous boat that is targeted to map coral reefs. It has both remote control (RC) capacity as well as route planning using the Pixhawk microcontroller. This prototype has back function and can rotate on itself: it is highly maneuverable and can navigate in narrow and shallow areas
-
-![Photo of Mustard seed](https://images.squarespace-cdn.com/content/v1/588c5e468419c2ec3fced0c0/1550258199216-EWPQCILYKOOI7MGPXO5F/ke17ZwdGBToddI8pDm48kBZw6jF4_OvU-ddo_vwqGhp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ub61YCrK70I7JIpWiI8ho4Yi1WvVNQtDE81xuRbL1MFKm0sD-Bab7E9MY8W31A7zMQ/33230060508_aa5fc9a347_k.jpg?format=1500w)
 
 ### Specifications
 
