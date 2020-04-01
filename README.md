@@ -56,5 +56,15 @@ Thanks to Kamakshi Ajoy Bhavnani for the coral reef artwork and Thomas Williams 
 
 ![photo of mustard in the water](https://images.squarespace-cdn.com/content/v1/588c5e468419c2ec3fced0c0/1550257296501-II5UUJ2HHY6U9GGWNO5A/ke17ZwdGBToddI8pDm48kBZw6jF4_OvU-ddo_vwqGhp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ub61YCrK70I7JIpWiI8ho4Yi1WvVNQtDE81xuRbL1MFKm0sD-Bab7E9MY8W31A7zMQ/46178779444_b65c54a0cc_k.jpg?format=1500w)
 
+# Sub Teams
+## Hardware / Mechanical, 3D printing
+Michael, Paul, Ming
 
+## Electric, Electronics
+Jacques, Cesar, Matthew
 
+## IT, Software, UX/UI
+Adel, Matthew, Celine, Philippe
+
+## AI, Biology 
+Sanjeew, Maxine
