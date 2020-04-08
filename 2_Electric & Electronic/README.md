@@ -2,7 +2,7 @@
 This folder contains the specifications of the Drone's electronic  & electrical hardware.
 
 # Electronic assembly diagram
-![Diagram of functions](Assembly Diagram.png)
+![Diagram of functions](Assembly_Diagram.png)
 
 ![Diagram of functions](20200401_Diagram.png)
 
