@@ -2,7 +2,7 @@
 This folder contains the specifications of the Drone's electronic  & electrical hardware.
 We chose to present the electrical assembly as a diagram, in order to facilitate understanding. A PDF file with annotated pictures is also available in this folder.
 # New assembly
-We are considering a new assembly, allowing to put batteries in the bottom, for a more stable drone. Here's zhat it would look like
+We are considering a new assembly, allowing to put batteries in the bottom, for a more stable drone. Here's what it would look like
 ![New assembly](New-Assembly.png)
 
 # Electronic assembly diagram
