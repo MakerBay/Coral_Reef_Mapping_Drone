@@ -58,13 +58,13 @@ Thanks to Kamakshi Ajoy Bhavnani for the coral reef artwork and Thomas Williams 
 
 # Sub Teams
 ## Hardware / Mechanical, 3D printing
-Michael, Paul, Ming
+Michael, Paul, Ming, Brad, Abbas 
 
 ## Electric, Electronics
-Jacques, Cesar, Matthew
+Jacques, Cesar, Matthew, Alvaro 
 
 ## IT, Software, UX/UI
 Adel, Matthew, Celine, Philippe
 
 ## AI, Biology 
-Sanjeew, Maxine
+Sanjeew, Maxine, Kamakshi, Nicholas
