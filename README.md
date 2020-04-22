@@ -5,13 +5,13 @@ Coral reefs are the most vital ecosystem on this planet but are quickly deterior
 In 2016 alone, 93% of the Australia Great Coral Reef Barrier bleached, 22% died. [Mike Slezak, The Guardian April 19th 2016](https://www.theguardian.com/environment/2016/apr/19/great-barrier-reef-93-of-reefs-hit-by-coral-bleaching)
 
 Current coral reef survey methods include :
-- Divers: provide high resolution but are too slow, expensive and dangerous. Result: covering few areas, infrequently.
-- Satellite: and aerial drones provide low resolution do not permit to identify coral species. Result: data is incomplete, and can literally only the “big picture” but not a fine understanding. 
+* Divers: provide high resolution but are too slow, expensive and dangerous. Result: covering few areas, infrequently.
+* Satellite: and aerial drones provide low resolution do not permit to identify coral species. Result: data is incomplete, and can literally only the “big picture” but not a fine understanding. 
 
-Our inventions:
-#1 Diver -> Ocean Surface Drone
-#2 Mechanical Quadrat -> Laser quadrat
-#3 Manual mapping -> Integrated workflow from imaging, map, to data
+Our innovations:
+* #1 Diver -> Ocean Surface Drone
+* #2 Mechanical Quadrat -> Laser quadrat
+* #3 Manual mapping -> Integrated workflow from imaging, map, to data
 
 Our goal is to make coral reef mapping
 - 10x faster
