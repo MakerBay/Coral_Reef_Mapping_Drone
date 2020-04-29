@@ -4,8 +4,12 @@
 ### What we're doing ? 
 We are designing a Coral Reef Mapping Drone
 
+![WhatsApp Image 2020-04-27 at 12 22 57 PM](https://user-images.githubusercontent.com/58210744/80584254-fb31ac80-8a43-11ea-9531-ff5efe6a73f9.jpeg)
+
 ### But, what exactly is this? 
 Basically, we want to design and fabricate an ocean robot, think remote control boat but that has high quality cameras for capturing what's under the surface and then the ability to set it to autonomous cruise mode and our sailing robot will return after 3 hours with lots of images of coral reefs for scientists to analyse. Whats' more is that our robot will be able to analyse the coral itself with onboard A.I features. 
+
+![Photo of 3d coral mapping](https://images.squarespace-cdn.com/content/v1/588c5e468419c2ec3fced0c0/1530466231826-FNW4LDAH7XH30ZFNJJAH/ke17ZwdGBToddI8pDm48kLm-eDV0ETPZElAUOuRm5LoUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dozICiKierPdirwma1lhz985X3tnvptEZXlQK7_WXsWuOpYghpI-Ha_TwZsqqmJXng/25114424537_f4074ea83e_o.jpg?format=2500w)
 
 ### Why are we doing this? 
 
@@ -14,21 +18,21 @@ Climate change is the biggest threat to the world’s coral reefs, causing mass 
 
 Office for Coastal Management, National Oceanic and Atmospheric Administration
 
-https://coast.noaa.gov/states/fast-facts/coral-reefs.html
+Source: https://coast.noaa.gov/states/fast-facts/coral-reefs.html
 
 ![Coral Reefs](https://user-images.githubusercontent.com/58210744/80578411-fe746a80-8a3a-11ea-8785-430a610e751d.JPG)
 
 The third global bleaching event, from 2014 to 2017, brought mass bleaching-level heat stress to more than 75 percent of global reefs; nearly 30 percent also suffered mortality level stress. This bleaching event was the longest, most widespread, and most destructive on record. 
 
-https://www.ametsoc.net/sotc2017/StateoftheClimate2017_lowres.pdf
+Source: https://www.ametsoc.net/sotc2017/StateoftheClimate2017_lowres.pdf
 
 “There are efforts to use drones or satellites to collect this information, but you cannot get the high resolution needed to assess the vital complex architecture of reefs unless you are in the water,” 
 Joleah Lamb 
 World Economic Forum
 
-https://www.weforum.org/agenda/2019/08/what-a-million-corals-in-2-500-reefs-tell-us-about-saving-them
+Source: https://www.weforum.org/agenda/2019/08/what-a-million-corals-in-2-500-reefs-tell-us-about-saving-them
 
-### What are our objectives ? 
+### What are our targets ? 
 
 **Goal:** we map coral reefs + we collect metadata
 *10x faster than current methods
@@ -50,7 +54,6 @@ Firstly we are 100% open source, so that means we will publish all plans, CAD fi
 Secondly we are conducting something that we call “Social RnD” in which we invite talented and enthusiastic professionals from the community and collaborate 
 
 ![WhatsApp Image 2020-04-25 at 10 07 13 PM](https://user-images.githubusercontent.com/58210744/80579317-66778080-8a3c-11ea-812e-37b142bca529.jpeg)
-Looks like fun, right? So come and join us. 
 
 Not everyone has the same skill sets or interests, so depending on your skills and in which area you would like to contribute we are spitting up into teams. 
 
@@ -102,8 +105,6 @@ Social Media ??
 https://www.facebook.com/hkoceanyouth/
 https://www.instagram.com/hkoceanyouth/
 
-Here are some projects that completed by some of our team that are like the ancestor project. 
-
 Youtube
 Mustard Testing
 Midorobot
@@ -120,6 +121,7 @@ PPT of HKOY ???
 For a global context of the problem you can even watch the movie Chasing Corals 
 https://www.youtube.com/watch?v=b6fHA9R2cKI
 The third step is to join our next meeting either in person or online / build day / saturday- link to a calendar ??
+
 
 Other relevant links: 
 
