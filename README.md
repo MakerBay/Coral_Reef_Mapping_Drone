@@ -95,6 +95,9 @@ Coral Classifier
 Coral identification
 Environmental Data Collection 
 
+![WhatsApp Image 2020-04-17 at 6 41 33 PM](https://user-images.githubusercontent.com/58210744/80579151-21ebe500-8a3c-11ea-88cc-8fb528878877.jpeg)
+
+
 ### How can you contribute and participate ? 
 
 The first step is to create a user account on Github and send it to michael@makerbay.org or contact@makerbay.org and we will add you to the Github team. 
