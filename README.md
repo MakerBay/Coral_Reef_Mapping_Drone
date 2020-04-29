@@ -1,12 +1,37 @@
 # Coral Reef Mapping Drone
 ## An open source ocean water drone used for mapping and analyzing the health of coral reefs
 
-Coral reefs are the most vital ecosystem on this planet but are quickly deteriorating. 
-In 2016 alone, 93% of the Australia Great Coral Reef Barrier bleached, 22% died. [Mike Slezak, The Guardian April 19th 2016](https://www.theguardian.com/environment/2016/apr/19/great-barrier-reef-93-of-reefs-hit-by-coral-bleaching)
+# What we're doing ? 
+We are Designing a Coral Reef Mapping Drone
 
-Current coral reef survey methods include :
-* Divers: provide high resolution but are too slow, expensive and dangerous. Result: covering few areas, infrequently.
-* Satellite: and aerial drones provide low resolution do not permit to identify coral species. Result: data is incomplete, and can literally only the “big picture” but not a fine understanding. 
+# But, what exactly is this? 
+Basically, we want to design and fabricate an ocean robot, think remote control boat but that has high quality cameras for capturing what's under the surface and then the ability to set it to autonomous cruise mode and our sailing robot will return after 3 hours with lots of images of coral reefs for scientists to analyse. Whats more is that our robot will be able to analyse the coral itself with onboard A.I features. 
+
+# Why are we doing this? 
+
+Coral reefs are essential to healthy coasts and vibrant economies, playing a critical role in everything from protecting lives and property to supporting thousands of businesses.
+Climate change is the biggest threat to the world’s coral reefs, causing mass bleaching, among other things. 
+
+Office for Coastal Management, National Oceanic and Atmospheric Administration
+
+https://coast.noaa.gov/states/fast-facts/coral-reefs.html
+
+! [Coral Reef date image from NOA] (https://drive.google.com/drive/folders/1pXe8e5yRKJEjRXpZvbHnNLRLgVJu99Ym)
+
+
+
+The third global bleaching event, from 2014 to 2017, brought mass bleaching-level heat stress to more than 75 percent of global reefs; nearly 30 percent also suffered mortality level stress. This bleaching event was the longest, most widespread, and most destructive on record. 
+
+https://www.ametsoc.net/sotc2017/StateoftheClimate2017_lowres.pdf
+
+“There are efforts to use drones or satellites to collect this information, but you cannot get the high resolution needed to assess the vital complex architecture of reefs unless you are in the water,” 
+Joleah Lamb 
+World Economic Forum
+
+https://www.weforum.org/agenda/2019/08/what-a-million-corals-in-2-500-reefs-tell-us-about-saving-them
+
+
+
 
 Our innovations:
 * #1 Diver -> Ocean Surface Drone
