@@ -28,12 +28,8 @@ World Economic Forum
 
 https://www.weforum.org/agenda/2019/08/what-a-million-corals-in-2-500-reefs-tell-us-about-saving-them
 
-![WhatsApp Image 2020-04-25 at 10 07 13 PM](https://user-images.githubusercontent.com/58210744/80579317-66778080-8a3c-11ea-812e-37b142bca529.jpeg)
+### What are our objectives ? 
 
-
-### What are our targets ? 
-
- 
 **Goal:** we map coral reefs + we collect metadata
 *10x faster than current methods
 *10x more accurate than current methods 
@@ -53,7 +49,8 @@ Firstly we are 100% open source, so that means we will publish all plans, CAD fi
 
 Secondly we are conducting something that we call “Social RnD” in which we invite talented and enthusiastic professionals from the community and collaborate 
 
-
+![WhatsApp Image 2020-04-25 at 10 07 13 PM](https://user-images.githubusercontent.com/58210744/80579317-66778080-8a3c-11ea-812e-37b142bca529.jpeg)
+Looks like fun, right? So come and join us. 
 
 Not everyone has the same skill sets or interests, so depending on your skills and in which area you would like to contribute we are spitting up into teams. 
 
@@ -105,6 +102,8 @@ Social Media ??
 https://www.facebook.com/hkoceanyouth/
 https://www.instagram.com/hkoceanyouth/
 
+Here are some projects that completed by some of our team that are like the ancestor project. 
+
 Youtube
 Mustard Testing
 Midorobot
@@ -122,7 +121,6 @@ For a global context of the problem you can even watch the movie Chasing Corals
 https://www.youtube.com/watch?v=b6fHA9R2cKI
 The third step is to join our next meeting either in person or online / build day / saturday- link to a calendar ??
 
-
 Other relevant links: 
 
 AI and Photogrammetry 
@@ -135,22 +133,6 @@ https://www.opendronemap.org/
 
 Cloud storage 
 https://aws.amazon.com/lightsail/
-
-
-![Photo of 3d coral mapping](https://images.squarespace-cdn.com/content/v1/588c5e468419c2ec3fced0c0/1530466231826-FNW4LDAH7XH30ZFNJJAH/ke17ZwdGBToddI8pDm48kLm-eDV0ETPZElAUOuRm5LoUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dozICiKierPdirwma1lhz985X3tnvptEZXlQK7_WXsWuOpYghpI-Ha_TwZsqqmJXng/25114424537_f4074ea83e_o.jpg?format=2500w)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # Sub Teams
