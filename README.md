@@ -12,11 +12,13 @@ Basically, we want to design and fabricate an ocean robot, think remote control 
 
 ![WhatsApp Image 2020-04-27 at 12 22 57 PM](https://user-images.githubusercontent.com/58210744/80584254-fb31ac80-8a43-11ea-9531-ff5efe6a73f9.jpeg)
 
-This collection of complicated stuff on the table will coalesce into a ocean robot that will be able to produce imgags of coral reefs like this 
+This collection of complicated stuff on the table will coalesce into a ocean robot that will be able to produce imgage of coral reefs just like the one here. 
 
 ![Photo of 3d coral mapping](https://images.squarespace-cdn.com/content/v1/588c5e468419c2ec3fced0c0/1530466231826-FNW4LDAH7XH30ZFNJJAH/ke17ZwdGBToddI8pDm48kLm-eDV0ETPZElAUOuRm5LoUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dozICiKierPdirwma1lhz985X3tnvptEZXlQK7_WXsWuOpYghpI-Ha_TwZsqqmJXng/25114424537_f4074ea83e_o.jpg?format=2500w)
 
 ### Why are we doing this? 
+
+**Well, cause coral reefs are awesome, thats it. Do you need any more convincing, ok ok**
 
 Coral reefs are essential to healthy coasts and vibrant economies, playing a critical role in everything from protecting lives and property to supporting thousands of businesses.
 Climate change is the biggest threat to the world’s coral reefs, causing mass bleaching, among other things. 
@@ -37,7 +39,7 @@ World Economic Forum
 
 Source: https://www.weforum.org/agenda/2019/08/what-a-million-corals-in-2-500-reefs-tell-us-about-saving-them
 
-### What are our targets ? 
+### What are we aiming for? 
 
 **Goal:** we map coral reefs + we collect metadata
 *10x faster than current methods
