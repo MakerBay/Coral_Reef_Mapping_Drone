@@ -108,14 +108,14 @@ Environmental Data Collection
 
 ### How can you contribute and participate ? 
 
-## Step 1: Sign Up 
+## Step 1: Sign-Up 
 Create a user account on Github and send your user name to: 
 michael@makerbay.org 
 and or 
 contact@makerbay.org 
 and we will add you to the Github team.
 
-## Step 2: Read Up
+## Step 2: Read-Up
 Do a little background research. 
 Don’t worry it's not too much, just to get you up to speed, we have prepared some links for you to browse through. 
 
@@ -136,13 +136,13 @@ This is a forebearer project made by some of our team.
 
 [Midorobots](https://youtu.be/jOu1lOi_OgA). This is another forebearer project made by some of our team. 
 
-[Instructables:Scoutbot Kuching Robotic Boat](https://www.instructables.com/id/Scoutbot-Kuching-Robotic-Boat/). Urm yeah, This is another one !
+[Instructables:Scoutbot Kuching Robotic Boat](https://www.instructables.com/id/Scoutbot-Kuching-Robotic-Boat/). Urm yeah, this is another one.
 
 [Instructables:Laser Quadrat for Coral Reef Mapping](https://www.instructables.com/id/Laser-Quadrat-for-Coral-Reef-Mapping/). Yup, this was also us. 
 
 Shout out to Eddie Yung, Ken Chew, Sidhant Gupta and Cesar Jung-Harada who are the creators of aforementioned projects. 
 
-### Step 3: Show Up
+### Step 3: Show-Up
 The third step is to join our next meeting either in person or online / build day / saturday- link to a calendar ??
 
 
