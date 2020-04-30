@@ -3,21 +3,20 @@
 Website: https://makerbay.github.io/Coral_Reef_Mapping_Drone/
 
 ### What are we doing ? 
-We are designing a Coral Reef Mapping Drone
 
-[![DIY Droner Video](https://user-images.githubusercontent.com/58210744/80672253-c0308700-8ade-11ea-85f6-8148ad620c6a.JPG)](https://www.youtube.com/watch?v=DFU3hAdd2QQ)
-
+[![DIY Droner Video](https://user-images.githubusercontent.com/58210744/80672253-c0308700-8ade-11ea-85f6-8148ad620c6a.JPG)](https://www.youtube.com/watch?v=DFU3hAdd2QQ "Click Me - Watch Me")
 
 ### But, what exactly is this? 
 Basically, we want to design and fabricate an ocean robot, think remote control boat but that has high quality cameras for capturing what's under the surface and then the ability to set it to autonomous cruise mode and our sailing robot will return after 3 hours with lots of images of coral reefs for scientists to analyse. Whats' more is that our robot will be able to analyse the coral itself with onboard A.I features. 
 
-![WhatsApp Image 2020-04-27 at 12 22 57 PM](https://user-images.githubusercontent.com/58210744/80584254-fb31ac80-8a43-11ea-9531-ff5efe6a73f9.jpeg)
+![WhatsApp Image 2020-04-27 at 12 22 57 PM](https://user-images.githubusercontent.com/58210744/80584254-fb31ac80-8a43-11ea-9531-ff5efe6a73f9.jpeg "Prototype V2 in pieces")
 
-This collection of complicated stuff on the table will coalesce into a ocean robot that will be able to produce imgage of coral reefs just like the one here. 
+This collection of complicated stuff on the table will coalesce into an ocean robot that will be able to produce images of coral reefs just like the one you can see here. 
 
 ![Photo of 3d coral mapping](https://images.squarespace-cdn.com/content/v1/588c5e468419c2ec3fced0c0/1530466231826-FNW4LDAH7XH30ZFNJJAH/ke17ZwdGBToddI8pDm48kLm-eDV0ETPZElAUOuRm5LoUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dozICiKierPdirwma1lhz985X3tnvptEZXlQK7_WXsWuOpYghpI-Ha_TwZsqqmJXng/25114424537_f4074ea83e_o.jpg?format=2500w)
 
-<img src="Wiki/images/FINAL 20200430 Updated Workflow Diagram README.JPG">
+[![Photo of 3d coral mapping](https://images.squarespace-cdn.com/content/v1/588c5e468419c2ec3fced0c0/1530466231826-FNW4LDAH7XH30ZFNJJAH/ke17ZwdGBToddI8pDm48kLm-eDV0ETPZElAUOuRm5LoUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dozICiKierPdirwma1lhz985X3tnvptEZXlQK7_WXsWuOpYghpI-Ha_TwZsqqmJXng/25114424537_f4074ea83e_o.jpg?format=2500w)](https://flickr.com/photos/27703797@N06/sets/72157691104484754 "Ancestral project: Mindorobots")
+
 
 ### Why are we doing this? 
 
@@ -32,9 +31,9 @@ Climate change is the biggest threat to the world’s coral reefs, causing mass 
 
 * **So far the human race (yes that includes you) has done a pretty good job of destroying nearly all of the earth's coral reefs.       Don't beleive me? Read on.**
 
-The third global bleaching event, from 2014 to 2017, brought mass bleaching-level heat stress to more than 75 percent of global reefs; nearly 30 percent also suffered mortality level stress. This bleaching event was the longest, most widespread, and most destructive on record. 
+The third global bleaching event, from 2014 to 2017, brought mass bleaching-level heat stress to more than 75 percent of global reefs; nearly 30 percent also suffered mortality level stress. This bleaching event was the longest, most widespread, and most destructive on record. [State of the Climate 2017](https://www.ametsoc.net/sotc2017/StateoftheClimate2017_lowres.pdf)
 
-[State of the Climate 2017](https://www.ametsoc.net/sotc2017/StateoftheClimate2017_lowres.pdf)
+* **Of course we are not the first to think of this, far from it, but we are apporaching the problem from a unique "angle".**
 
 “There are efforts to use drones or satellites to collect this information, but you cannot get the high resolution needed to assess the vital complex architecture of reefs unless you are in the water,” 
 [Joleah Lamb -World Economic Forum](https://www.weforum.org/agenda/2019/08/what-a-million-corals-in-2-500-reefs-tell-us-about-saving-them)
