@@ -1,1 +1,12 @@
-Sample
+###  relevant links: 
+
+AI and Photogrammetry 
+https://segments.ai/
+https://www.agisoft.com/
+https://cloud.annotations.ai/login
+
+Drone Navigation 
+https://www.opendronemap.org/
+
+Cloud storage 
+https://aws.amazon.com/lightsail/
