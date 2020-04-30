@@ -67,46 +67,26 @@ Secondly we are conducting something that we call “Social RnD” in which we i
 
 Not everyone has the same skill sets or interests, so depending on your skills and in which area you would like to contribute we are spitting up into working groups. 
 
-### The 5 main design areas are: 
+## 5 design areas: 
 
-1. Product Design 
-2. Electronic Design 
-3. Software Design 
-4. Artificial Intelligence 
-5. Marine Biology
+#### **1. Product Design:** 
+Mechanical design - Fabrication - Manufacturing - 3D printing - Laser Cutting
+
+#### **2. Electronic Design**
+Optics - Sourcing of hardware components - Testing hardware - Hardware integration - Soldering
+
+#### **3. Software Design**
+Coding -I.T - U.I - U.X
+
+#### **4. Artificial Intelligence**
+Machine Learning - Computer Vision - Coral Classifier 
+
+#### **5. Marine Biology**
+Coral identification - Environmental Data Collection 
 
 So, depending what you want to learn or how you want to contribute you should join one of these working groups. Below the design areas are expenaded into varios skills and sub areas that we will be focusing on. 
 
-**1. Product Design**
-* Mechanical design 
-* Fabrication
-* Manufacturing
-* 3D printing
-* Laser Cutting
-
-**2. Electronic Design**
-* Optics 
-* Sourcing of hardware components 
-* Testing hardware
-* Hardware integration
-
-**3. Software Design**
-* Coding
-* Information Technology
-* User Interface 
-* User Experience
-
-**4. Artificial Intelligence**
-* Machine Learning 
-* Computer Vision
-* Coral Classifier 
-
-**5. Marine Biology**
-* Coral identification
-* Environmental Data Collection 
-
 ![SNORKELLING GROUP AT HHW](https://user-images.githubusercontent.com/58210744/80579151-21ebe500-8a3c-11ea-88cc-8fb528878877.jpeg "Our DIY Droner group collecting Coral Images at Hoi Ha Wan marine reserve in Sai Kung, Hong Kong")
-
 
 ### How can you contribute and participate ? 
 
@@ -142,23 +122,24 @@ This is a forebearer project made by some of our team.
 
 [Instructables:Laser Quadrat for Coral Reef Mapping](https://www.instructables.com/id/Laser-Quadrat-for-Coral-Reef-Mapping/). Yup, this was also us. 
 
-Shout out to Eddie Yung, Ken Chew, Sidhant Gupta and Cesar Jung-Harada who are the creators of aforementioned projects. 
+**"Shout out"** to Eddie Yung, Ken Chew, Sidhant Gupta and Cesar Jung-Harada who are the creators of aforementioned projects. 
 
 [Learn some of the basics on GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-### Step 3: Show-Up
+## Step 3: Show-Up
 
 The third step is to join our next meeting either in person or online.
 
 **3 PM - MakerBay - Every Saturday**
 
-Every Saturday from now untill Septemeber 2020 we will be hosting "DIY Droner Saturady sessions" at our MakerBay HQ in Tsuen Wan, Hong Kong. These sesssions it will be very hands-on, dynamic and fun. 
+Every Saturday from now untill Septemeber 2020 we will be hosting "DIY Droner Saturady sessions" at our MakerBay HQ in Tsuen Wan, Hong Kong. These sesssions it will be very hands-on, dynamic and fun.
 
-**Cant come in person?**  We will also be hosting these sessions online so email us and will give you the ZOOM link
+[Find us here](https://www.makerbay.org/pages/contact-1)
+
+[![HOW TO GET TO MAKERBAY VIDEO](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Makerbay%20How%20to%20get%20here.JPG)](https://youtu.be/G8wYsETPPe0 "Click Me - Watch Me")
+
+**Can't join us offline?**  We will also be hosting these sessions online so email us and will give you the meeting link
 contact@makerbay.org 
-
-[How to get here](https://www.makerbay.org/pages/contact-1)
-
 
 
 # Sub Teams
