@@ -14,7 +14,7 @@ Basically, we want to design and fabricate an ocean robot, think remote control 
 
 This collection of complicated stuff on the table will coalesce into an ocean robot that will be able to produce images of coral reefs just like the one you can see here. 
 
-[![Photo of 3d coral mapping](https://images.squarespace-cdn.com/content/v1/588c5e468419c2ec3fced0c0/1530466231826-FNW4LDAH7XH30ZFNJJAH/ke17ZwdGBToddI8pDm48kLm-eDV0ETPZElAUOuRm5LoUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dozICiKierPdirwma1lhz985X3tnvptEZXlQK7_WXsWuOpYghpI-Ha_TwZsqqmJXng/25114424537_f4074ea83e_o.jpg?format=2500w)](https://flickr.com/photos/27703797@N06/sets/72157691104484754 "Ancestral project: Mindorobots")
+[![PHOTO OF CORAL MAPPING](https://images.squarespace-cdn.com/content/v1/588c5e468419c2ec3fced0c0/1530466231826-FNW4LDAH7XH30ZFNJJAH/ke17ZwdGBToddI8pDm48kLm-eDV0ETPZElAUOuRm5LoUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dozICiKierPdirwma1lhz985X3tnvptEZXlQK7_WXsWuOpYghpI-Ha_TwZsqqmJXng/25114424537_f4074ea83e_o.jpg?format=2500w)](https://flickr.com/photos/27703797@N06/sets/72157691104484754 "Ancestral project: Mindorobots")
 
 
 ### Why are we doing this? 
@@ -54,6 +54,8 @@ The third global bleaching event, from 2014 to 2017, brought mass bleaching-leve
 **Usability:** deployable from the beach with an autonomy >90 minutes
 
 **Target users:** ocean scientist, citizen scientist, coastal community, Marine protected area manager
+
+![FLOW DIAGRAM OF WORK](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/FINAL%2020200430%20Updated%20Workflow%20Diagram%20README.JPG)
 
 ### How are we doing it? 
 
