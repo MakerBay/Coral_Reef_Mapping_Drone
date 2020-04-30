@@ -72,7 +72,7 @@ Not everyone has the same skill sets or interests, so depending on your skills a
 4. Artificial Intelligence 
 5. Marine Biology
 
-So, depending what you want to learn or how you want to contribute you should join one of these working groups when we start to get down to work, below the design areas are expenaded into varios skills and sub areas that we will be focusing on. 
+So, depending what you want to learn or how you want to contribute you should join one of these working groups, below the design areas are expenaded into varios skills and sub areas that we will be focusing on. 
 
 **1. Product Design**
 Mechanical design 
