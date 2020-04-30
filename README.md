@@ -1,13 +1,18 @@
 # Coral Reef Mapping Drone
 ## An open source ocean water drone used for mapping and analyzing the health of coral reefs
 
-### What we're doing ? 
+### What are we doing ? 
 We are designing a Coral Reef Mapping Drone
 
-![WhatsApp Image 2020-04-27 at 12 22 57 PM](https://user-images.githubusercontent.com/58210744/80584254-fb31ac80-8a43-11ea-9531-ff5efe6a73f9.jpeg)
+[![DIY Droner Video](https://user-images.githubusercontent.com/58210744/80672253-c0308700-8ade-11ea-85f6-8148ad620c6a.JPG)](https://www.youtube.com/watch?v=DFU3hAdd2QQ)
+
 
 ### But, what exactly is this? 
 Basically, we want to design and fabricate an ocean robot, think remote control boat but that has high quality cameras for capturing what's under the surface and then the ability to set it to autonomous cruise mode and our sailing robot will return after 3 hours with lots of images of coral reefs for scientists to analyse. Whats' more is that our robot will be able to analyse the coral itself with onboard A.I features. 
+
+![WhatsApp Image 2020-04-27 at 12 22 57 PM](https://user-images.githubusercontent.com/58210744/80584254-fb31ac80-8a43-11ea-9531-ff5efe6a73f9.jpeg)
+
+This collection of complicated stuff on the table will coalesce into a ocean robot that will be able to produce imgags of coral reefs like this 
 
 ![Photo of 3d coral mapping](https://images.squarespace-cdn.com/content/v1/588c5e468419c2ec3fced0c0/1530466231826-FNW4LDAH7XH30ZFNJJAH/ke17ZwdGBToddI8pDm48kLm-eDV0ETPZElAUOuRm5LoUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dozICiKierPdirwma1lhz985X3tnvptEZXlQK7_WXsWuOpYghpI-Ha_TwZsqqmJXng/25114424537_f4074ea83e_o.jpg?format=2500w)
 
