@@ -17,11 +17,9 @@ This collection of complicated stuff on the table will coalesce into a ocean rob
 
 ![Photo of 3d coral mapping](https://images.squarespace-cdn.com/content/v1/588c5e468419c2ec3fced0c0/1530466231826-FNW4LDAH7XH30ZFNJJAH/ke17ZwdGBToddI8pDm48kLm-eDV0ETPZElAUOuRm5LoUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dozICiKierPdirwma1lhz985X3tnvptEZXlQK7_WXsWuOpYghpI-Ha_TwZsqqmJXng/25114424537_f4074ea83e_o.jpg?format=2500w)
 
-<img src="Wiki/images/FINAL_20200430_Updated_Workflow_Diagram_README.JPG">
-
 ### Why are we doing this? 
 
-* **Well, because coral reefs are majestic, beautiful and cruical to our planet, thats it. Do you need any more convincing? ok ok, how about you read on then**
+* **Well, because coral reefs are majestic, beautiful and cruical to our planet, that's it! Do you need any more convincing? Oh, you do?Ok ok, how about you read on then.**
 
 Coral reefs are essential to healthy coasts and vibrant economies, playing a critical role in everything from protecting lives and property to supporting thousands of businesses.
 Climate change is the biggest threat to the world’s coral reefs, causing mass bleaching, among other things. 
@@ -30,25 +28,24 @@ Climate change is the biggest threat to the world’s coral reefs, causing mass 
 
 ![Coral Reefs](https://user-images.githubusercontent.com/58210744/80578411-fe746a80-8a3a-11ea-8785-430a610e751d.JPG "Office for Coastal Management, National Oceanic and Atmospheric Administration")
 
-
-
+* **So far the human race (yes that includes you) has done a pretty good job of destroying nearly all of the earth's coral reefs.       Don't beleive me? Read on.**
 
 The third global bleaching event, from 2014 to 2017, brought mass bleaching-level heat stress to more than 75 percent of global reefs; nearly 30 percent also suffered mortality level stress. This bleaching event was the longest, most widespread, and most destructive on record. 
 
-Source: https://www.ametsoc.net/sotc2017/StateoftheClimate2017_lowres.pdf
+[State of the Climate 2017](https://www.ametsoc.net/sotc2017/StateoftheClimate2017_lowres.pdf)
 
 “There are efforts to use drones or satellites to collect this information, but you cannot get the high resolution needed to assess the vital complex architecture of reefs unless you are in the water,” 
-Joleah Lamb 
-World Economic Forum
+[Joleah Lamb -World Economic Forum](https://www.weforum.org/agenda/2019/08/what-a-million-corals-in-2-500-reefs-tell-us-about-saving-them)
 
-Source: https://www.weforum.org/agenda/2019/08/what-a-million-corals-in-2-500-reefs-tell-us-about-saving-them
-
-### What are we aiming for? 
+### What exactly are we aiming for? 
 
 **Goal:** we map coral reefs + we collect metadata
-*10x faster than current methods
-*10x more accurate than current methods 
-*10x cheaper than state of the art
+
+* 10x faster than current methods
+
+* 10x more accurate than current methods 
+
+* 10x cheaper than state of the art
 
 **Subject:** we focus on shallow water coral reef <10m depth
 
