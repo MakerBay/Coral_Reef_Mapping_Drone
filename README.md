@@ -90,6 +90,8 @@ So, depending what you want to learn or how you want to contribute you should jo
 
 ### How can you contribute and participate ? 
 
+####  Sign Up - Read Up - Show Up 
+
 ## Step 1: Sign-Up 
 Create a user account on [GitHub Join](https://github.com/join) and send your user name us: 
 michael@makerbay.org 
@@ -128,7 +130,7 @@ This is a forebearer project made by some of our team.
 
 ## Step 3: Show-Up
 
-The third step is to join our next meeting either in person or online.
+The third and final step is to join our next meeting either in person or on the world wide web! 
 
 **3 PM - MakerBay - Every Saturday**
 
