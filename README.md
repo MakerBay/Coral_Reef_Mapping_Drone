@@ -1,6 +1,5 @@
 # Coral Reef Mapping Drone
 ## An open source ocean water drone used for mapping and analyzing the health of coral reefs
-Website: https://makerbay.github.io/Coral_Reef_Mapping_Drone/
 
 ### What are we doing ? 
 
@@ -9,7 +8,7 @@ Website: https://makerbay.github.io/Coral_Reef_Mapping_Drone/
 ### But, what exactly is this? 
 Basically, we want to design and fabricate an ocean robot, think remote control boat but that has high quality cameras for capturing what's under the surface and then the ability to set it to autonomous cruise mode and our sailing robot will return after 3 hours with lots of images of coral reefs for scientists to analyse. Whats' more is that our robot will be able to analyse the coral itself with onboard A.I features. 
 
-![WhatsApp Image 2020-04-27 at 12 22 57 PM](https://user-images.githubusercontent.com/58210744/80584254-fb31ac80-8a43-11ea-9531-ff5efe6a73f9.jpeg "Prototype V2 in pieces")
+![V2 PROTOTYPE ON DESK](https://user-images.githubusercontent.com/58210744/80584254-fb31ac80-8a43-11ea-9531-ff5efe6a73f9.jpeg "Prototype V2 in pieces")
 
 This collection of complicated stuff on the table will coalesce into an ocean robot that will be able to produce images of coral reefs just like the one you can see here. 
 
@@ -107,47 +106,44 @@ Environmental Data Collection
 
 ### How can you contribute and participate ? 
 
-## Step 1 
+## Step 1: Sign Up 
 Create a user account on Github and send your user name to: 
 michael@makerbay.org 
 and or 
 contact@makerbay.org 
 and we will add you to the Github team.
 
-## Step 2
+## Step 2: Read Up
 Do a little background research. 
 Don’t worry it's not too much, just to get you up to speed, we have prepared some links for you to browse through. 
 
 [Our latest release on GitHub](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/releases)
 Check out our current prototype so you know exactly what stage we are up to. 
 
-[Hong Kong Ocean Youth](https://www.makerbay.org/pages/hk-ocean-youth)
-This Ocean Drone is part of broader community project that we are also running.
+[Hong Kong Ocean Youth](https://www.makerbay.org/pages/hk-ocean-youth).
+For a bit of context this Ocean Drone project is part of broader community program that we are also running.
 
-[Scoutbots](https://www.scoutbots.com/devices#/coral-reef-mapping-drone/)
-This is a forebearer project made by some of our team. 
-
-[Chasing Coral Trailer](https://youtu.be/b6fHA9R2cKI)
+[Chasing Coral Trailer](https://youtu.be/b6fHA9R2cKI).
 For a global context of the problem you can even watch the movie Chasing Coral
 
-[Chasing Coral Full Feature Film](https://youtu.be/aGGBGcjdjXA)
-If you're lucky YouTube may still be streaming the feature length film for free
+[Chasing Coral Full Feature Film](https://youtu.be/aGGBGcjdjXA).
+If you're lucky YouTube may still be streaming the feature length film for free !
 
-[Midorobots](https://youtu.be/jOu1lOi_OgA): This is the forebearer project made by some of our team. 
+[Scoutbots](https://www.scoutbots.com/devices#/coral-reef-mapping-drone/).
+This is a forebearer project made by some of our team. 
 
-https://www.instructables.com/id/Laser-Quadrat-for-Coral-Reef-Mapping/
+[Midorobots](https://youtu.be/jOu1lOi_OgA). This is another forebearer project made by some of our team. 
 
-https://www.instructables.com/id/Scoutbot-Kuching-Robotic-Boat/
+[Instructables:Scoutbot Kuching Robotic Boat](https://www.instructables.com/id/Scoutbot-Kuching-Robotic-Boat/). Urm yeah, This is another one !
 
+[Instructables:Laser Quadrat for Coral Reef Mapping](https://www.instructables.com/id/Laser-Quadrat-for-Coral-Reef-Mapping/). Yup, this was also us. 
 
+Shout out to Eddie Yung, Ken Chew, Sidhant Gupta and Cesar Jung-Harada who are the creators of aforementioned projects. 
 
-
-
-
-
-
-### 3 
+### Step 3: Show Up
 The third step is to join our next meeting either in person or online / build day / saturday- link to a calendar ??
+
+
 
 ### Other relevant links: 
 
