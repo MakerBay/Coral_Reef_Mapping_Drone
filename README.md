@@ -144,6 +144,8 @@ This is a forebearer project made by some of our team.
 
 Shout out to Eddie Yung, Ken Chew, Sidhant Gupta and Cesar Jung-Harada who are the creators of aforementioned projects. 
 
+[Learn some of the basics on GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 ### Step 3: Show-Up
 The third step is to join our next meeting either in person or online / build day / saturday- link to a calendar ??
 
