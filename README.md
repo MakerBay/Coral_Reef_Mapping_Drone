@@ -17,6 +17,8 @@ This collection of complicated stuff on the table will coalesce into a ocean rob
 
 ![Photo of 3d coral mapping](https://images.squarespace-cdn.com/content/v1/588c5e468419c2ec3fced0c0/1530466231826-FNW4LDAH7XH30ZFNJJAH/ke17ZwdGBToddI8pDm48kLm-eDV0ETPZElAUOuRm5LoUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dozICiKierPdirwma1lhz985X3tnvptEZXlQK7_WXsWuOpYghpI-Ha_TwZsqqmJXng/25114424537_f4074ea83e_o.jpg?format=2500w)
 
+<img src="Wiki/images/FINAL 20200430 Updated Workflow Diagram README.JPG">
+
 ### Why are we doing this? 
 
 * **Well, because coral reefs are majestic, beautiful and cruical to our planet, that's it! Do you need any more convincing? Oh, you do?Ok ok, how about you read on then.**
