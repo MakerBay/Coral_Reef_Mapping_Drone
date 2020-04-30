@@ -18,16 +18,17 @@ This collection of complicated stuff on the table will coalesce into a ocean rob
 
 ### Why are we doing this? 
 
-**Well, cause coral reefs are awesome, thats it. Do you need any more convincing, ok ok**
+* **Well, because coral reefs are majestic, beautiful and cruical to our planet, thats it. Do you need any more convincing? ok ok, how about you read on then**
 
 Coral reefs are essential to healthy coasts and vibrant economies, playing a critical role in everything from protecting lives and property to supporting thousands of businesses.
 Climate change is the biggest threat to the world’s coral reefs, causing mass bleaching, among other things. 
 
-Office for Coastal Management, National Oceanic and Atmospheric Administration
+[Office for Coastal Management, National Oceanic and Atmospheric Administration](https://coast.noaa.gov/states/fast-facts/coral-reefs.html)
 
-Source: https://coast.noaa.gov/states/fast-facts/coral-reefs.html
+![Coral Reefs](https://user-images.githubusercontent.com/58210744/80578411-fe746a80-8a3a-11ea-8785-430a610e751d.JPG "Office for Coastal Management, National Oceanic and Atmospheric Administration")
 
-![Coral Reefs](https://user-images.githubusercontent.com/58210744/80578411-fe746a80-8a3a-11ea-8785-430a610e751d.JPG)
+
+
 
 The third global bleaching event, from 2014 to 2017, brought mass bleaching-level heat stress to more than 75 percent of global reefs; nearly 30 percent also suffered mortality level stress. This bleaching event was the longest, most widespread, and most destructive on record. 
 
