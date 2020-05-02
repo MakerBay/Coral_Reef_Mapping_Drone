@@ -126,7 +126,9 @@ This is a forebearer project made by some of our team.
 
 **"Shout out"** to Eddie Yung, Ken Chew, Sidhant Gupta and Cesar Jung-Harada who are the creators of aforementioned projects. 
 
-[Learn some of the basics on GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Learn some of the basics on GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Check out this link for some quick cheats on how to use and document on GitHub. 
+
+[Project managment](https://docs.google.com/spreadsheets/d/1fuoXyMHSuvo87rrXIIrsM-g60LUAh8bwrJWMOnM1X2o/edit#gid=1437098180). Browse our internal project managment doccument for thins like Road-Map Feature List, Timeline, Purchasing List, Components wich list, etc. 
 
 ## Step 3: Show-Up
 
