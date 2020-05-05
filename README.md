@@ -5,7 +5,7 @@ Website: https://makerbay.github.io/Coral_Reef_Mapping_Drone/
 
 ### What are we doing ? 
 
-[![DIY Droner Video](https://user-images.githubusercontent.com/58210744/80672253-c0308700-8ade-11ea-85f6-8148ad620c6a.JPG)](https://www.youtube.com/watch?v=DFU3hAdd2QQ "Click Me - Watch Me")
+[![DIY Droner Video](https://user-images.githubusercontent.com/58210744/80672253-c0308700-8ade-11ea-85f6-8148ad620c6a.JPG)](https://youtu.be/pVi1wDQTGOw "Click Me - Watch Me")
 
 ### But, what exactly is this? 
 Basically, we want to design and fabricate an ocean robot, think remote control boat but that has high quality cameras for capturing what's under the surface and then the ability to set it to autonomous cruise mode and our sailing robot will return after 3 hours with lots of images of coral reefs for scientists to analyse. Whats' more is that our robot will be able to analyse the coral itself with onboard A.I features. 
