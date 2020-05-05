@@ -134,9 +134,11 @@ This is a forebearer project made by some of our team.
 
 The third and final step is to join our next meeting either in person or on the world wide web! 
 
-**3 PM - MakerBay - Every Saturday**
+**3 PM - 6 PM - MakerBay - Every Saturday**
 
-Every Saturday from now untill Septemeber 2020 we will be hosting "DIY Droner Saturady sessions" at our MakerBay HQ in Tsuen Wan, Hong Kong. These sesssions it will be very hands-on, dynamic and fun.
+Every Saturday from now, April 2020, untill Septemeber 2020 we will be hosting "DIY Droner Saturday sessions" at our MakerBay HQ in Tsuen Wan, Hong Kong. These sesssions it will be very hands-on, dynamic and fun.
+
+Every "DIY Droner Saturday session" may be a little unique depending what stage of the design process, however typically we will start at 3 PM sharp and have 30 minute meeting with the online participants, after this we will split into sub teams and get practical o the tasks dicussed in the meeting. At 5.30 PM we re-group and share the progress made, then if you want to hang around for then we can alll try to insert the 'Social' into 'Soical RnD'. 
 
 [Find us here](https://www.makerbay.org/pages/contact-1)
 
