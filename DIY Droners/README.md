@@ -17,3 +17,12 @@ Weekly workshop 4 PM -6 PM
 
 <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/1.jpeg?raw=true" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/2.jpeg?raw=true" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/3.jpeg?raw=true" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/4.jpeg?raw=true" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/5.jpeg?raw=true" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/6.jpeg?raw=true" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/7.jpeg?raw=true" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/8.jpeg?raw=true" width=400>
 
+To do before next DIY Droner Saturday Session
+* **All:** [Create profile for GITHUB](https://github.com/join)
+* **Adel + Maxine:** Pepare for Polygon / Coral Idenhtifaication Workshop
+* **Brad + Michael:** Waterproof the 4 Inch Underwater housing tube and test 
+* **Dietmar:** Bring various tools and supplies for electircal assembly (and receipts) 
+* **Alvaro:** 
+* **Cesar:** 
+
+
