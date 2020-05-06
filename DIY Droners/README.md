@@ -19,9 +19,9 @@ Weekly workshop 4 PM -6 PM
 
 To do before next DIY Droner Saturday Session
 * **All:** [Create profile for GITHUB](https://github.com/join)
-* **Adel + Maxine:** Pepare for Polygon / Coral Idenhtifaication Workshop
+* **Adel + Maxine:** Prepare for Polygon / Coral Idenhtifaication Workshop
 * **Brad + Michael:** Waterproof the 4 Inch Underwater housing tube and test 
-* **Dietmar:** Bring various tools and supplies for electircal assembly (and receipts) 
+* **Dietmar:** Bring various tools and supplies for electircal assembly (and receipts!) 
 * **Alvaro:** 
 * **Cesar:** 
 
