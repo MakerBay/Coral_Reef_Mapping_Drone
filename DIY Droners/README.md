@@ -4,20 +4,15 @@
 
 Weekly workshop
 4 PM - 5.45PM. Adel Image correction / polygon corals / machine learning alalgorithm. 
-4 PM - 5.45PM.  Break out Mechanical / Electrical / Optics group. 
+4 PM - 5.45PM.  Break out Mechanical / Electrical / group. 
 
 Weekly Updates 
- 
+* **Maxine:** Gave an excellent presentation on marine biology / corals. 
+* **Adel:** Conducted the workshop of labelling corals with polygon for machine learning
 * **Michael:** Fixed the pink foam pontoon, silcone seal on the 4 inch tube / waterproof housing, Github meeting minutes = new norm. 
-* **Brad:** 
-* **Dietmar:** 
-* **Maxine:** 
-* **Adel:** 
-* **Paul:** 
-* **Sanjeew:** 
-* **Alvaro:**
-* **Chikcy:** 
-
+* **Brad:** Made a mini testing pool for the drone 
+* **Paul:** Assembled the drone for bouyancy test, initial waterproofing tests and bouyancy test complete. 
+* **Sanjeew:** On the online meeting, will call adel later to share progress, has receieved 40 applications for the HKU phiipines trip. 
 
 
 To do before next DIY Droner Saturday Session
