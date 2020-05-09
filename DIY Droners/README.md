@@ -1,3 +1,30 @@
+### DIY Droners #8 : 09 May 2020
+
+3 PM - 4 PM. Coral Presentation by Maxine
+
+Weekly workshop
+4 PM - 5.45PM. Adel Image correction / polygon corals / machine learning alalgorithm. 
+4 PM - 5.45PM.  Break out Mechanical / Electrical / Optics group. 
+
+Weekly Updates 
+ 
+* **Michael:** Fixed the pink foam pontoon, silcone seal on the 4 inch tube / waterproof housing, Github meeting minutes = new norm. 
+* **Brad:** 
+* **Dietmar:** 
+* **Maxine:** 
+* **Adel:** 
+* **Paul:** 
+* **Sanjeew:** 
+* **Alvaro:**
+* **Chikcy:** 
+
+
+
+To do before next DIY Droner Saturday Session
+* **All:** [Create profile for GITHUB](https://github.com/join)
+
+
+
 ### DIY Droners #7 : 5 May 2020
 
 Weekly Updates 3 PM - 4 PM. 
