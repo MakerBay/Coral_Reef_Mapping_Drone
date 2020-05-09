@@ -4,6 +4,7 @@
 
 Weekly workshop
 4 PM - 5.45PM. Adel Image correction / polygon corals / machine learning alalgorithm. 
+
 4 PM - 5.45PM.  Break out Mechanical / Electrical / group. 
 
 Weekly Updates 
