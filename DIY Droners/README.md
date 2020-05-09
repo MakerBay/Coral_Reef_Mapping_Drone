@@ -12,19 +12,12 @@ Weekly Updates
 * **Michael:** Fixed the pink foam pontoon, silcone seal on the 4 inch tube / waterproof housing, Github meeting minutes = new norm. 
 * **Brad:** Made a mini testing pool for the drone 
 * **Paul:** Assembled the drone for bouyancy test, initial waterproofing tests and bouyancy test complete. 
-* **Sanjeew:** On the online meeting, will call adel later to share progress, has receieved 40 applications for the HKU phiipines trip. 
+* **Sanjeew:** On the online meeting, will call adel later to share progress, has receieved 40 applications for the HKU philippines trip. 
 
+<img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/9%20may%202.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/9%20may%203.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/9%20may%204.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/9%20may%205.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/9%20may%206.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/9%20may%207.JPG" width=400> 
 
 To do before next DIY Droner Saturday Session
 * **All:** [Create profile for GITHUB](https://github.com/join)
-
-<img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/9%20may%202.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/9%20may%203.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/9%20may%204.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/9%20may%205.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/9%20may%206.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/9%20may%207.JPG" width=400>  
-
-
-
-
-
-<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/1.jpeg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/2.jpeg?raw=true" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/3.jpeg?raw=true" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/4.jpeg?raw=true" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/5.jpeg?raw=true" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/6.jpeg?raw=true" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/7.jpeg?raw=true" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/8.jpeg?raw=true" width=400>
 
 ### DIY Droners #7 : 5 May 2020
 
@@ -43,7 +36,7 @@ Maxine and adel will give a intro and video explanation and slide show of what i
 
 Weekly workshop 4 PM -6 PM 
 
-
+<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/1.jpeg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/2.jpeg?raw=true" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/3.jpeg?raw=true" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/4.jpeg?raw=true" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/5.jpeg?raw=true" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/6.jpeg?raw=true" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/7.jpeg?raw=true" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/8.jpeg?raw=true" width=400>
 
 To do before next DIY Droner Saturday Session
 * **All:** [Create profile for GITHUB](https://github.com/join)
@@ -54,5 +47,4 @@ To do before next DIY Droner Saturday Session
 * **Cesar:** 
 
 
-<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/1.jpeg?raw=true" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/9%20may%202.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/9%20may%203.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/9%20may%204.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/9%20may%205.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/9%20may%206.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/9%20may%207.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/9%20may%208.JPG" width=400>
 
