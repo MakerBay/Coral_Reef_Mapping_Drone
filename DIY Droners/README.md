@@ -8,13 +8,17 @@ Weekly Update
 Weekly Updates
 
 * **Adel:** Needs the submissions of work from last weeks workshop 
+* **Roberto:**
 * **Michael:** Github realease of Prototype V2.0 -see here- its a work in progress- https://github.com/MakerBay/Coral_Reef_Mapping_Drone/releases/tag/v2.0
 Need to make a "how to Github" readme / cheatsheet 
 * **Brad:**
 * **Paul:**
 * **Sanjeew:** HKU Group status ? 
 * **Alvaro:** 
-* **Philipe:** HKU Group status ? 
+* **Philipe:**
+* **Jeremy**
+* **Ken:** 
+* **Sirah??:**
 * **Ming**
 
 * Create Github profile if haven't already. 
