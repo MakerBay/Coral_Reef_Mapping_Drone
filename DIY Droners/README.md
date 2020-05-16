@@ -8,24 +8,23 @@ Weekly Update
 Weekly Updates
 
 * **Adel:** Needs the submissions of work from last weeks workshop 
-* **Roberto:**
+* **Roberto:** Is here and filming all our hard work ! 
 * **Michael:** Github realease of Prototype V2.0 -see here- its a work in progress- https://github.com/MakerBay/Coral_Reef_Mapping_Drone/releases/tag/v2.0
-Need to make a "how to Github" readme / cheatsheet 
+next week Michael will try and  a "how to Github" readme / cheatsheet to make it easier for documentatio. 
 * **Brad:** Member at makerbay- we know brad ! 
 * **Paul:** Part of Team , interest in manufacturring 
-* **Sanjeew:** HKU Group status
-* **Alvaro:** not presentn but working from his lab
-* **Philipe:**
-* **Jeremy** Studies in The US, Economics, HKOY
-* **Ken:** HKU universtity student, mechanical engineer HKOY 
-* **Shraa:** High School student, loves STEM and robotics 
-* **Ming**
-* **Cesar** Our founder of Makerbay 
-* **Alastair** Studies in the UK, Finanical Math, 
+* **Alvaro:** not present but working from his lab
+* **Philipe:** present and last week in HK before heading to Manila
+* **Jeremy** Studying in the US, Economics, HKOY Volunteer 
+* **Ken:** HKU universtity student, mechanical engineer, HKOY participant
+* **Shraa:** High School student, loves STEM and robotics, HKOY participant
+* **Ming** Still cool 
+* **Cesar** Our dear founder...  of Makerbay 
+* **Alastair** Studies in the UK, Finanical Math, HKOY 
 * **Varun** HK Kayaker, background in Insurance, trained in Mechanical Engineer 
-* **Chicky** CEO of Makerbay
-* **Tristan** CITYU University Student, Aerospace interest, 
-* **Desiree** VET student at CITYU and interested in Marine conservation
+* **Chicky** Our leader .... CEO of Makerbay
+* **Tristan** CITYU University Student, interested in Aerospace and robotics
+* **Desiree** VET student at CITYU and interested in Marine conservation, HKOY 
 
 
 * Create Github profile if haven't already. 
