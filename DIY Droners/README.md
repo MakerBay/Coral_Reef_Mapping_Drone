@@ -7,7 +7,7 @@ Weekly Update
 
 Weekly workshop
 3.30 PM - 5.45PM. 
-* Assemble the brain and insert into waterproo housing 
+* Assemble the 'brain' all electronics and insert into waterproof housing 
 
 Weekly Updates
 * **Alvaro:**
