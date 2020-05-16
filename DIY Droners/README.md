@@ -3,19 +3,30 @@
 Weekly Update
 3 PM - 3:30 PM. Online and offline 
 
-* Create Github profile if haven't already. 
-
-Weekly workshop
-3.30 PM - 5.45PM. 
-* Assemble the 'brain' all electronics and insert into waterproof housing 
-
 Weekly Updates
 * **Alvaro:**
 * **Adel:** Needs the submissions of work from last weeks workshop 
-* **Michael:** Github realease of Prototype V2.0 
+* **Michael:** Github realease of Prototype V2.0 -see here- its a work in progress - https://github.com/MakerBay/Coral_Reef_Mapping_Drone/releases/tag/v2.0
 * **Brad:**
 * **Paul:**
 * **Sanjeew:**
+
+* Create Github profile if haven't already. 
+* Take photos as you work
+
+Weekly workshop
+3.30 PM - 5.45PM. 
+TO DO 
+* **Electrical:** Assemble the 'brain' all electronics and insert into waterproof housing 
+* **Mechanical:** Fix the ballast structure and 4 inch tube holder 
+* **Software:** Chase up files needed from last weeks polygon workshop 
+* **Documentation:** Join togther videos of Paul explaining last weeks work - put on YouTube and link to GitHub https://drive.google.com/drive/u/0/folders/16IH0SyRTwI9ZjMDwhnSufXWUXKpTWUkB
+
+
+
+
+
+
 
 
 ### DIY Droners #8 : 09 May 2020
