@@ -2,11 +2,10 @@
 
 Weekly Update
 3 PM - 3:30 PM. Online and offline 
-
 Weekly Updates
 * **Alvaro:**
 * **Adel:** Needs the submissions of work from last weeks workshop 
-* **Michael:** Github realease of Prototype V2.0 -see here- its a work in progress - https://github.com/MakerBay/Coral_Reef_Mapping_Drone/releases/tag/v2.0
+* **Michael:** Github realease of Prototype V2.0 -see here- its a work in progress- https://github.com/MakerBay/Coral_Reef_Mapping_Drone/releases/tag/v2.0
 * **Brad:**
 * **Paul:**
 * **Sanjeew:**
