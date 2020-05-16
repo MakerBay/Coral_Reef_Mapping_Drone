@@ -11,15 +11,22 @@ Weekly Updates
 * **Roberto:**
 * **Michael:** Github realease of Prototype V2.0 -see here- its a work in progress- https://github.com/MakerBay/Coral_Reef_Mapping_Drone/releases/tag/v2.0
 Need to make a "how to Github" readme / cheatsheet 
-* **Brad:**
-* **Paul:**
-* **Sanjeew:** HKU Group status ? 
-* **Alvaro:** 
+* **Brad:** Member at makerbay- we know brad ! 
+* **Paul:** Part of Team , interest in manufacturring 
+* **Sanjeew:** HKU Group status
+* **Alvaro:** not presentn but working from his lab
 * **Philipe:**
-* **Jeremy**
-* **Ken:** 
-* **Sirah??:**
+* **Jeremy** Studies in The US, Economics, HKOY
+* **Ken:** HKU universtity student, mechanical engineer HKOY 
+* **Shraa:** High School student, loves STEM and robotics 
 * **Ming**
+* **Cesar** Our founder of Makerbay 
+* **Alastair** Studies in the UK, Finanical Math, 
+* **Varun** HK Kayaker, background in Insurance, trained in Mechanical Engineer 
+* **Chicky** CEO of Makerbay
+* **Tristan** CITYU University Student, Aerospace interest, 
+* **Desiree** VET student at CITYU and interested in Marine conservation
+
 
 * Create Github profile if haven't already. 
 * Take photos as you work
