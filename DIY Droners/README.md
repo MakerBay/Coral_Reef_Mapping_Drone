@@ -2,13 +2,20 @@
 
 Weekly Update
 3 PM - 3:30 PM. Online and offline 
+
+* link to meeting https://hku.zoom.us/j/964500620
+
 Weekly Updates
-* **Alvaro:**
+
 * **Adel:** Needs the submissions of work from last weeks workshop 
 * **Michael:** Github realease of Prototype V2.0 -see here- its a work in progress- https://github.com/MakerBay/Coral_Reef_Mapping_Drone/releases/tag/v2.0
+Need to make a "how to Github" readme / cheatsheet 
 * **Brad:**
 * **Paul:**
-* **Sanjeew:**
+* **Sanjeew:** HKU Group status ? 
+* **Alvaro:** 
+* **Philipe:** HKU Group status ? 
+* **Ming**
 
 * Create Github profile if haven't already. 
 * Take photos as you work
@@ -17,7 +24,7 @@ Weekly workshop
 3.30 PM - 5.45PM. 
 TO DO 
 * **Electrical:** Assemble the 'brain' all electronics and insert into waterproof housing 
-* **Mechanical:** Fix the ballast structure and 4 inch tube holder 
+* **Mechanical:** Fix the ballast structure and 4 inch tube holder, set up the pool on roof 
 * **Software:** Chase up files needed from last weeks polygon workshop 
 * **Documentation:** Join togther videos of Paul explaining last weeks work - put on YouTube and link to GitHub https://drive.google.com/drive/u/0/folders/16IH0SyRTwI9ZjMDwhnSufXWUXKpTWUkB
 
