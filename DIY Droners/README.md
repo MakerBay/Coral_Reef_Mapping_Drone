@@ -8,17 +8,14 @@ Weekly Update
 Weekly workshop
 3.30 PM - 5.45PM. 
 * Assemble the brain and insert into waterproo housing 
-*  
 
-* **Alvaro:** 
+Weekly Updates
+* **Alvaro:**
 * **Adel:** Needs the submissions of work from last weeks workshop 
 * **Michael:** Github realease of Prototype V2.0 
-* **Brad:** 
-* **Paul:**  
-* **Sanjeew:**  
-
-
-
+* **Brad:**
+* **Paul:**
+* **Sanjeew:**
 
 
 ### DIY Droners #8 : 09 May 2020
