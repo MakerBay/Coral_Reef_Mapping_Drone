@@ -38,8 +38,7 @@ TO DO
 * **Software:** Chase up files needed from last weeks polygon workshop 
 * **Documentation:** Join togther videos of Paul explaining last weeks work - put on YouTube and link to GitHub https://drive.google.com/drive/u/0/folders/16IH0SyRTwI9ZjMDwhnSufXWUXKpTWUkB
 
-<img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%201.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%202.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%203.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%204.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%20Robot.jpeg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%20team.jpeg>
-
+<img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%201.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%202.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%203.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%204.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%20Robot.jpeg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%20team.jpeg" width=400>  
 
 * **Welcome to our new HKOY'ers (Hong Kong Ocean Youth) Engineering Team*
 
