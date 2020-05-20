@@ -45,9 +45,11 @@
 
 # Insert a video link with a screenshot
 
+[![DIY Droner Video](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/How%20to%20Github/How%20to%20GitHub%20Images/4.%20Video%20screenshot.JPG)](https://www.youtube.com/watch?v=HUBNt18RFbo)
+
+# Insert a video link with a screenshot and a caption on image
+
 [![DIY Droner Video](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/How%20to%20Github/How%20to%20GitHub%20Images/4.%20Video%20screenshot.JPG)](https://www.youtube.com/watch?v=HUBNt18RFbo "Click Me - Watch Me")
-
-
 
 Paste a link
 Paste an image 
