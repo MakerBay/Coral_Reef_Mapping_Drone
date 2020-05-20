@@ -13,6 +13,11 @@
 
 * dot point for list is a single asterix 
 
+# Embed a link 
+
+[Another cheatsheet for learning MarkDown for using on GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Name of the link in the square brackets and actual link in the round brackets. 
+
+
 # Insert an image with no sizing requirements
 - i.e the image will appear as per original image size
 
@@ -37,6 +42,10 @@
 
 <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/How%20to%20Github/How%20to%20GitHub%20Images/3.%20makerbay%20logo.png" width=100>
 
+
+# Insert a video link with a screenshot
+
+[![DIY Droner Video](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/How%20to%20Github/How%20to%20GitHub%20Images/4.%20Video%20screenshot.JPG)](https://www.youtube.com/watch?v=HUBNt18RFbo "Click Me - Watch Me")
 
 
 
