@@ -9,7 +9,7 @@ Weekly Updates
 * **Adel:** Needs the submissions of work from last weeks workshop 
 * **Roberto:** Is here and filming all our hard work ! 
 * **Michael:** Github realease of Prototype V2.0 -see here- its a work in progress- https://github.com/MakerBay/Coral_Reef_Mapping_Drone/releases/tag/v2.0
-next week Michael will try and  a "how to Github" readme / cheatsheet to make it easier for documentatio. 
+next week Michael will try and  a "how to Github" readme / cheatsheet to make it easier for documentation. 
 * **Brad:** Member at makerbay- we know brad ! 
 * **Paul:** Part of Team , interest in manufacturring 
 * **Alvaro:** not present but working from his CityU lab
@@ -40,7 +40,7 @@ TO DO
 
 <img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%201.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%202.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%203.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%204.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%20Robot.jpeg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%20team.jpeg" width=400>  
 
-* **Welcome to our new HKOY'ers (Hong Kong Ocean Youth) Engineering Team*
+* **Welcome to our new HKOY'ers (Hong Kong Ocean Youth) Engineering Team**
 
 <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%20Desiree.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%20Jeremy.JPG" width=400>
 <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%20Ken.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%20Shra.JPG" width=400>
