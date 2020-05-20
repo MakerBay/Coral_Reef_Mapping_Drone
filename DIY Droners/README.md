@@ -6,29 +6,29 @@ Weekly Update
 * link to meeting https://hku.zoom.us/j/964500620
 
 Weekly Updates
-
 * **Adel:** Needs the submissions of work from last weeks workshop 
 * **Roberto:** Is here and filming all our hard work ! 
 * **Michael:** Github realease of Prototype V2.0 -see here- its a work in progress- https://github.com/MakerBay/Coral_Reef_Mapping_Drone/releases/tag/v2.0
 next week Michael will try and  a "how to Github" readme / cheatsheet to make it easier for documentatio. 
 * **Brad:** Member at makerbay- we know brad ! 
 * **Paul:** Part of Team , interest in manufacturring 
-* **Alvaro:** not present but working from his lab
+* **Alvaro:** not present but working from his CityU lab
 * **Philipe:** present and last week in HK before heading to Manila
-* **Jeremy** Studying in the US, Economics, HKOY Volunteer 
+* **Ming** Still cool 
+* **Varun** HK Kayaker, background in Insurance, trained in Mechanical Engineer 
+* **Cesar** Our dear founder...  of Makerbay
+* **Chicky** Our leader .... CEO of Makerbay
+* **Tristan** CITYU University Student, interested in aerospace and robotics
+* **New HK Ocean Youth**
 * **Ken:** HKU universtity student, mechanical engineer, HKOY participant
 * **Shraa:** High School student, loves STEM and robotics, HKOY participant
-* **Ming** Still cool 
-* **Cesar** Our dear founder...  of Makerbay 
 * **Alastair** Studies in the UK, Finanical Math, HKOY 
-* **Varun** HK Kayaker, background in Insurance, trained in Mechanical Engineer 
-* **Chicky** Our leader .... CEO of Makerbay
-* **Tristan** CITYU University Student, interested in Aerospace and robotics
 * **Desiree** VET student at CITYU and interested in Marine conservation, HKOY 
+* **Jeremy** Studying in the US, Economics, HKOY Volunteer 
 
+Create Github profile if haven't already. 
 
-* Create Github profile if haven't already. 
-* Take photos as you work
+Take photos as you work
 
 Weekly workshop
 3.30 PM - 5.45PM. 
@@ -38,10 +38,14 @@ TO DO
 * **Software:** Chase up files needed from last weeks polygon workshop 
 * **Documentation:** Join togther videos of Paul explaining last weeks work - put on YouTube and link to GitHub https://drive.google.com/drive/u/0/folders/16IH0SyRTwI9ZjMDwhnSufXWUXKpTWUkB
 
+<img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%201.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%202.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%203.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%204.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%20Robot.jpeg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%20team.jpeg>
 
 
+* **Welcome to our new HKOY'ers (Hong Kong Ocean Youth) Engineering Team*
 
-
+<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%20Desiree.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%20Jeremy.JPG" width=400>
+<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%20Ken.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%20Shra.JPG" width=400>
+<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/16%20May%20Tristan.JPG" width=400>  
 
 
 
