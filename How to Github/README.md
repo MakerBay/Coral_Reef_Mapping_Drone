@@ -47,18 +47,17 @@
 
 [![what is github](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/How%20to%20Github/How%20to%20GitHub%20Images/5.%20Video%20screenshot%20What%20is%20Guthub.JPG)](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
-[![What is Github Video]("https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/How%20to%20Github/How%20to%20GitHub%20Images/5.%20Video%20screenshot.JPG")](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
 # Insert a video link with a screenshot and a caption on image
 
 [![Markdown Crash Course](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/How%20to%20Github/How%20to%20GitHub%20Images/4.%20Video%20screenshot.JPG)](https://www.youtube.com/watch?v=HUBNt18RFbo "Click Me - Watch Me")
 
 
-# Insert a video link with a screenshot and edit the size of image
+# Insert a video link with a screenshot and edit the size of the image
 
 <a href="https://www.youtube.com/watch?v=pVi1wDQTGOw&feature=youtu.be
 " target="_blank"><img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/How%20to%20Github/How%20to%20GitHub%20Images/6.%20Video%20screenshot%20MakerBay.JPG" 
-alt="MAKERBAY DIY DRONER VIDEO" width="240" height="180" border="10" /></a>
+alt="MAKERBAY DIY DRONER VIDEO" width="300" height="180" border="10" /></a>
 
 
 
