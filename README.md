@@ -132,7 +132,6 @@ This is a forebearer project made by some of our team.
 
 [Project managment](https://docs.google.com/spreadsheets/d/1fuoXyMHSuvo87rrXIIrsM-g60LUAh8bwrJWMOnM1X2o/edit#gid=1437098180). Browse our internal project managment doccument for things like a Road-Map / Feature List, Timeline, Purchasing List, Components Wish-list, etc.
 
-[![Coral Reef Mapping Drone on Github Intro Video](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Coral%20Reef%20Mapping%20Drone%20on%20Gituhub.JPG)](https://youtu.be/z5mwKT3y7e4)
 
 ## Step 3: Show-Up
 
@@ -150,6 +149,10 @@ Every "DIY Droner Saturday session" may be a little unique depending what stage 
 
 **Can't join us offline?**  We will also be hosting these sessions online so email us and will give you the meeting link
 contact@makerbay.org 
+
+## Project Overview
+
+[![Coral Reef Mapping Drone on Github Intro Video](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Coral%20Reef%20Mapping%20Drone%20on%20Gituhub.JPG)](https://youtu.be/z5mwKT3y7e4 "Click Me - Watch Me")
 
 
 # Sub Teams
