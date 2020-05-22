@@ -5,10 +5,6 @@ Website: https://makerbay.github.io/Coral_Reef_Mapping_Drone/
 
 ### What are we doing ? 
 
-[![Coral Reef Mapping Drone on Github Intro Video](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Coral%20Reef%20Mapping%20Drone%20on%20Gituhub.JPG)](https://youtu.be/z5mwKT3y7e4)
-
-### Promotional Video 
-
 [![DIY Droner Video](https://user-images.githubusercontent.com/58210744/80672253-c0308700-8ade-11ea-85f6-8148ad620c6a.JPG)](https://youtu.be/pVi1wDQTGOw "Click Me - Watch Me")
 
 ### But, what exactly is this? 
@@ -134,7 +130,9 @@ This is a forebearer project made by some of our team.
 
 [GitHub Readme Images Tutorial](https://www.youtube.com/watch?v=hHbWF1Bvgf4&t=128s). Look at this video for how to place images and size them in Github README files.
 
-[Project managment](https://docs.google.com/spreadsheets/d/1fuoXyMHSuvo87rrXIIrsM-g60LUAh8bwrJWMOnM1X2o/edit#gid=1437098180). Browse our internal project managment doccument for things like a Road-Map / Feature List, Timeline, Purchasing List, Components Wish-list, etc. 
+[Project managment](https://docs.google.com/spreadsheets/d/1fuoXyMHSuvo87rrXIIrsM-g60LUAh8bwrJWMOnM1X2o/edit#gid=1437098180). Browse our internal project managment doccument for things like a Road-Map / Feature List, Timeline, Purchasing List, Components Wish-list, etc.
+
+[![Coral Reef Mapping Drone on Github Intro Video](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Coral%20Reef%20Mapping%20Drone%20on%20Gituhub.JPG)](https://youtu.be/z5mwKT3y7e4)
 
 ## Step 3: Show-Up
 
