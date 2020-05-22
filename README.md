@@ -5,6 +5,10 @@ Website: https://makerbay.github.io/Coral_Reef_Mapping_Drone/
 
 ### What are we doing ? 
 
+[![Coral Reef Mapping Drone on Github Intro Video](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Coral%20Reef%20Mapping%20Drone%20on%20Gituhub.JPG)](https://youtu.be/z5mwKT3y7e4)
+
+### Promotional Video 
+
 [![DIY Droner Video](https://user-images.githubusercontent.com/58210744/80672253-c0308700-8ade-11ea-85f6-8148ad620c6a.JPG)](https://youtu.be/pVi1wDQTGOw "Click Me - Watch Me")
 
 ### But, what exactly is this? 
