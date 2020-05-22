@@ -22,7 +22,7 @@
 # Insert an image with no sizing requirements
 - i.e the image will appear as per original image size
 
-![Logo of Makebay](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/How%20to%20Github/How%20to%20GitHub%20Images/3.%20makerbay%20logo.png)
+![Photo od drone](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/7.%20Coral%20Reef%20Mapping%20Drone%20in%20pool.jpeg)
 
 
 # Insert an image with different sizes 
