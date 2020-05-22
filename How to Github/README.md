@@ -1,13 +1,16 @@
 
 # How to document on README with MarkDown on Github
 
+[![How to document on Github Video](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/How%20to%20document%20on%20Gituhub%20for%20Ocean%20Drone.JPG)](https://www.youtube.com/watch?v=6xLTasGyATc&t=4s)
+
+
+
+
+
 # Largest Heading
 ## Large Heading 
 ### Medium Heading 
 #### Small Heading
-
-
-
 
 **Bold text with 2 asterix eitherside of text**
 
@@ -61,8 +64,3 @@
 alt="MAKERBAY DIY DRONER VIDEO" width="300" height="180" border="10" /></a>
 
 
-
-Paste a link
-Paste an image 
-Paste an image and edit the size
-Paste a link to a video with screenshot of video 
