@@ -18,6 +18,7 @@
 [Another cheatsheet for learning MarkDown for using on GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Name of the link in the square brackets and actual link in the round brackets. 
 
 
+
 # Insert an image with no sizing requirements
 - i.e the image will appear as per original image size
 
