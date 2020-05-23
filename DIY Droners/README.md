@@ -1,3 +1,42 @@
+### DIY Droners #10 : 23 May 2020
+
+Weekly Update
+3 PM - 3:30 PM. Online and offline 
+
+* link to meeting https://hku.zoom.us/j/964500620
+
+* **Brad:** 
+* **Paul:** 
+* **Alvaro:** 
+* **Adel:** 
+* **aaa:** 
+* **aaa:**
+* **Roberto:** Is here and filming all our hard work ! 
+* **Michael:** Made two small videos: https://github.com/MakerBay/Coral_Reef_Mapping_Drone/tree/master/How%20to%20Github
+https://github.com/MakerBay/Coral_Reef_Mapping_Drone
+
+* **HK Ocean Youth**
+* **Ken:** 
+* **Shraa:** 
+* **Alastair** 
+* **Desiree** 
+* **Jeremy** 
+
+Weekly workshop
+3.30 PM - 5.45PM. 
+TO DO 
+* **Electrical / Optcial :** Led by Alvaro, connect camera to the system, and test in pool. Reaseach FPV systems. 
+* **Mechanical / Electrical:** Reaserch and solve the thrusters direction issue. 
+* **Mechanical / Design:** Analyze 'ritual of use' and identify problems in system lay out
+* **Software:** Chase up files needed from Adels polygon coral identification workshop
+Download mission planner https://firmware.ardupilot.org/ 
+Learn how to set a way point mission on Ardupilot, and run simulations. 
+https://www.youtube.com/watch?v=rui2Trps2yc
+* **Documentation:** Learn how to to write MarkDown on Github
+Join togther videos of past few weeks work - put on YouTube and link to GitHub https://drive.google.com/drive/u/0/folders/16IH0SyRTwI9ZjMDwhnSufXWUXKpTWUkB
+
+
+
 ### DIY Droners #9 : 16 May 2020
 
 Weekly Update
