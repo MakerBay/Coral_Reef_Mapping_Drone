@@ -14,7 +14,6 @@ Weekly Update
 * **Roberto:** Is here and filming all our hard work ! 
 * **Michael:** Made two small videos: https://github.com/MakerBay/Coral_Reef_Mapping_Drone/tree/master/How%20to%20Github
 https://github.com/MakerBay/Coral_Reef_Mapping_Drone
-
 * **HK Ocean Youth**
 * **Ken:** 
 * **Shraa:** 
