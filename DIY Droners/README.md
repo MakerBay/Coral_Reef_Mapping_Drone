@@ -5,18 +5,19 @@ Weekly Update
 
 * link to meeting https://hku.zoom.us/j/964500620
 
-* **Brad:** 
-* **Paul:** 
-* **Alvaro:** 
-* **Adel:** 
-* **Duy:** 
-* **Kim:**
-* **:**
+* **Brad:** Here are always, Mech design points: it was a bit back heavy and some other user issues
+* **Alastair:** downloaded ardupilot on PC 
+* **Paul:** no new updates, waiting on optics
+* **Alvaro:** Arriving at 4 pm
+* **Cesar:** Arriving at 4 pm
+* **Kim:** new member, athlete, starting to learn some coding, and interested in Robotics
+* **Varun:** online and will find us a place to test the bot in AFCD maps. We should have object detection and AI feature / sensor will do some research 
+* **Cesar:**
 * **Roberto:** Is here and filming all our hard work ! 
 * **Michael:** Made two small videos: https://github.com/MakerBay/Coral_Reef_Mapping_Drone/tree/master/How%20to%20Github
 https://github.com/MakerBay/Coral_Reef_Mapping_Drone
 * **HK Ocean Youth**
-* **Alastair:** 
+
 
 
 
