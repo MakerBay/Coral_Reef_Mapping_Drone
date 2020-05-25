@@ -8,12 +8,12 @@ Weekly Update
 * **Brad:** Here as always, Mech design points: it was a bit back heavy and some other user issues
 * **Alastair:** downloaded ardupilot on PC, will research Ardupliot settings, will find other HKOY in 
 * **Paul:**  waiting on optics, brainstormed with brad new boat design 
-* **Alvaro:** experimented with a range of cameras assemblies 
-* **Cesar:** Arriving at 4 pm
+* **Alvaro:** experimented with a range of cameras assemblies
+* **Cesar:** Brainstormed a new "boat" design. The "tent pole with 5 cameras" solution. (Will upload skecthes) 
 * **Kim:** new member, athlete, starting to learn some coding, and interested in Robotics
 * **Varun:** online and will find us a place to test the bot in AFCD maps. We should have object detection and AI feature / sensor will do some research on this
-* **Roberto:** Is here and filming all our hard work ! 
-* **Michael:** Made two small videos: https://github.com/MakerBay/Coral_Reef_Mapping_Drone/tree/master/How%20to%20Github
+* **Roberto:** Is here and filming all our hard work!
+* **Michael:** Made two small videos for explaining the project and using github: https://github.com/MakerBay/Coral_Reef_Mapping_Drone/tree/master/How%20to%20Github
 https://github.com/MakerBay/Coral_Reef_Mapping_Drone
 
 Weekly workshop
