@@ -5,27 +5,22 @@ Weekly Update
 
 * link to meeting https://hku.zoom.us/j/964500620
 
-* **Brad:** Here are always, Mech design points: it was a bit back heavy and some other user issues
-* **Alastair:** downloaded ardupilot on PC 
-* **Paul:** no new updates, waiting on optics
-* **Alvaro:** Arriving at 4 pm
+* **Brad:** Here as always, Mech design points: it was a bit back heavy and some other user issues
+* **Alastair:** downloaded ardupilot on PC, will research Ardupliot settings, will find other HKOY in 
+* **Paul:**  waiting on optics, brainstormed with brad new boat design 
+* **Alvaro:** experimented with a range of cameras assemblies 
 * **Cesar:** Arriving at 4 pm
 * **Kim:** new member, athlete, starting to learn some coding, and interested in Robotics
-* **Varun:** online and will find us a place to test the bot in AFCD maps. We should have object detection and AI feature / sensor will do some research 
-* **Cesar:**
+* **Varun:** online and will find us a place to test the bot in AFCD maps. We should have object detection and AI feature / sensor will do some research on this
 * **Roberto:** Is here and filming all our hard work ! 
 * **Michael:** Made two small videos: https://github.com/MakerBay/Coral_Reef_Mapping_Drone/tree/master/How%20to%20Github
 https://github.com/MakerBay/Coral_Reef_Mapping_Drone
-* **HK Ocean Youth**
-
-
-
 
 Weekly workshop
 3.30 PM - 5.45PM. 
 TO DO 
 * **Electrical / Optcial :** Led by Alvaro, connect camera to the system, and test in pool. Reaseach FPV systems. 
-* **Mechanical / Electrical:** Reaserch and solve the thrusters direction issue. 
+* **Mechanical / Electrical:** Reaserch and solve the thrusters direction issue. Brad and Paul fixed this ! 
 * **Mechanical / Design:** Analyze 'ritual of use' and identify problems in system lay out
 * **Software:** Chase up files needed from Adels polygon coral identification workshop
 Download mission planner https://firmware.ardupilot.org/ 
@@ -34,7 +29,7 @@ https://www.youtube.com/watch?v=rui2Trps2yc
 * **Documentation:** Learn how to to write MarkDown on Github
 Join togther videos of past few weeks work - put on YouTube and link to GitHub https://drive.google.com/drive/u/0/folders/16IH0SyRTwI9ZjMDwhnSufXWUXKpTWUkB
 
-
+<img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/23%20May%201.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/23%20May%202.JPG" width=400>
 
 ### DIY Droners #9 : 16 May 2020
 
