@@ -1,3 +1,39 @@
+### DIY Droners #10 : 30 May 2020
+
+Weekly Update
+3 PM - 3:30 PM. Online and offline 
+
+* link to meeting https://hku.zoom.us/j/964500620
+
+* **Alastair:**
+* **Ken:**
+* **Christy:**
+* **Brad:** 
+* **Paul:**  
+* **Jose:**  
+* **Duy:**  
+* **Varun:**  
+* **Mathew:**  
+* **Michael:**  HKOY group R-Pi Camera and GitHub, HKU Group joinging next week. 
+* **Ceasr:**  
+
+Weekly workshop
+3.30 PM - 5.45PM. 
+TO DO 
+* **Electrical:** Integrate R-Pi Camera into lower 4 inch tube and 
+* **Mechanical / Electrical:** 
+* **Mechanical / Design:** 
+* **Software:** Chase up files needed from Adels polygon coral identification workshop
+Download mission planner https://firmware.ardupilot.org/ 
+Learn how to set a way point mission on Ardupilot, and run simulations.
+https://www.youtube.com/watch?v=rui2Trps2yc
+* **Documentation:** Learn how to to write MarkDown on Github
+Join togther videos of past few weeks work - put on YouTube and link to GitHub https://drive.google.com/drive/u/0/folders/16IH0SyRTwI9ZjMDwhnSufXWUXKpTWUkB
+
+
+
+
+
 ### DIY Droners #10 : 23 May 2020
 
 Weekly Update
