@@ -16,9 +16,9 @@
 
 ### Coding Steps
 taking a photo: rapistill -o image.jpg
-take a 10 seconds video : raspivid -o video.h264 -t 10000
+* take a 10 seconds video : raspivid -o video.h264 -t 10000
 
 ### Tips
 "image" is the name of the photo 
-"10000" is in miliseconds so 10000 is 10 seconds
-"video.h264" is the name of the video
+* "10000" is in miliseconds so 10000 is 10 seconds
+* "video.h264" is the name of the video
