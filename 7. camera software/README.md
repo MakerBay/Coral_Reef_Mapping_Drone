@@ -15,7 +15,7 @@
 [![coding for camera](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/7.%20camera%20software/cam%20code%20raspberry%20pi4.PNG)](https://www.youtube.com/watch?v=T8T6S5eFpqE&t=172s")
 
 ### Coding Steps
-taking a photo: rapistill -o image.jpg
+* taking a photo: rapistill -o image.jpg
 * take a 10 seconds video : raspivid -o video.h264 -t 10000
 
 ### Tips
