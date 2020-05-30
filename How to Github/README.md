@@ -57,6 +57,11 @@
 [![Markdown Crash Course](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/How%20to%20Github/How%20to%20GitHub%20Images/4.%20Video%20screenshot.JPG)](https://www.youtube.com/watch?v=HUBNt18RFbo "Click Me - Watch Me")
 
 
+# Video about R-PI 4 camera set up 
+
+[![R-pi 4 Video](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/How%20to%20Github/How%20to%20GitHub%20Images/7.R-Pi%204%20Video.JPG)](https://youtu.be/0hrF8Wq8SSQ)
+
+
 # Insert a video link with a screenshot and edit the size of the image
 
 <a href="https://www.youtube.com/watch?v=pVi1wDQTGOw&feature=youtu.be
