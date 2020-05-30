@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=rui2Trps2yc
 * **Documentation:** Learn how to to write MarkDown on Github
 Join togther videos of past few weeks work - put on YouTube and link to GitHub https://drive.google.com/drive/u/0/folders/16IH0SyRTwI9ZjMDwhnSufXWUXKpTWUkB
 
-
+<img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/30%20May%20%231.jpeg" width=400>
 
 
 
