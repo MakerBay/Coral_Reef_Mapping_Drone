@@ -5,24 +5,28 @@ Weekly Update
 
 * link to meeting https://hku.zoom.us/j/964500620
 
-* **Alastair:**
-* **Ken:**
-* **Christy:**
-* **Brad:** 
-* **Paul:**  
-* **Jose:**  
-* **Duy:**  
-* **Varun:**  
-* **Mathew:**  
-* **Michael:**  HKOY group R-Pi Camera and GitHub, HKU Group joinging next week. 
-* **Ceasr:**  
+* **Alastair:** is working on navigation software Ardupilot and simulation software 
+* **Ken:** Mech engineering and set up Rasperry PI 4 
+* **Christy:** Environmental Science and computer science and set up Rasperry PI 4 
+* **Brad:** Working on repackaging 3 modules: telemetry, radio receiver, and GPS. 
+* **Paul:**  Working on repackaging 3 modules: telemetry, radio receiver, and GPS. 
+* **Kimberly:** Is an athlete and interetsing in coding and robots and working on set up Rasperry PI 4 
+* **Varun:**  uploaded GPS app for reef and will find what sensors we need need
+https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/6_Biology/HK%20reef%20GPS%20coordinatesand  
+will find what sensors we need need and add to this component wish list 
+https://docs.google.com/spreadsheets/d/1fuoXyMHSuvo87rrXIIrsM-g60LUAh8bwrJWMOnM1X2o/edit#gid=2024275050
+* **Mathew:** Will lead a navigation group with Michael and Alastair. transferred lost of tutorial documents 
+* **Michael:** HKOY group R-Pi Camera and GitHub, HKU Group joinging next week. 
+* **Ceasr:**  will work on the new design concept and buy the cameras and "harvest" some of the electronics from 
+* **Jose:** newbie and Sci fi lover and drone enthusiast, will work on new boat design with cesar
+* **Mathis:** Product designer and helping on Cesars new boat design idea
 
 Weekly workshop
 3.30 PM - 5.45PM. 
 TO DO 
-* **Electrical:** Integrate R-Pi Camera into lower 4 inch tube and 
-* **Mechanical / Electrical:** 
-* **Mechanical / Design:** 
+* **Electrical:** Integrate R-Pi Camera into lower 4 inch tube and cables needed 
+* **Mechanical / Electrical:** New design idea led by cesar, Mathis and Jose. 
+* **Mechanical / Design:** Brad and paul working on repackaging task 
 * **Software:** Chase up files needed from Adels polygon coral identification workshop
 Download mission planner https://firmware.ardupilot.org/ 
 Learn how to set a way point mission on Ardupilot, and run simulations.
