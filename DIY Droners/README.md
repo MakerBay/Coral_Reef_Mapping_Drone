@@ -11,10 +11,8 @@ Weekly Update
 * **Brad:** Working on repackaging 3 modules: telemetry, radio receiver, and GPS. 
 * **Paul:**  Working on repackaging 3 modules: telemetry, radio receiver, and GPS. 
 * **Kimberly:** Is an athlete and interetsing in coding and robots and working on set up Rasperry PI 4 
-* **Varun:**  uploaded GPS app for reef and will find what sensors we need need
-https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/6_Biology/HK%20reef%20GPS%20coordinatesand  
-will find what sensors we need need and add to this component wish list 
-https://docs.google.com/spreadsheets/d/1fuoXyMHSuvo87rrXIIrsM-g60LUAh8bwrJWMOnM1X2o/edit#gid=2024275050
+* **Varun:**  uploaded GPS app for reef and will find what sensors we need and add [here](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/6_Biology/HK%20reef%20GPS%20coordinates) 
+and will find what sensors we need for object detection and add to this component wish list [here](https://docs.google.com/spreadsheets/d/1fuoXyMHSuvo87rrXIIrsM-g60LUAh8bwrJWMOnM1X2o/edit#gid=2024275050)
 * **Mathew:** Will lead a navigation group with Michael and Alastair. transferred lost of tutorial documents 
 * **Michael:** HKOY group R-Pi Camera and GitHub, HKU Group joinging next week. 
 * **Ceasr:**  will work on the new design concept and buy the cameras and "harvest" some of the electronics from 
