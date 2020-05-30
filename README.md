@@ -126,7 +126,7 @@ This is a forebearer project made by some of our team.
 
 **"Shout out"** to Eddie Yung, Ken Chew, Sidhant Gupta and Cesar Jung-Harada who are the creators of aforementioned projects. 
 
-[Learn some of the basics on GitHub](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/tree/master/How%20to%20Github) This README was specifically made to know how to document this project on Github
+[How to "Github"](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/tree/master/How%20to%20Github) This README was specifically made to know how to document this project on Github
 
 [Learn some of the basics on GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Check out this link for some quick cheats on how to use and document on GitHub. 
 
