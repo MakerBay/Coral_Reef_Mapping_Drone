@@ -42,8 +42,8 @@ is_zero() - If returns true, all vector fields=0
 
 is_inf() - if reurns true, vector contains any infinity members
 
-+ : Adds two vectos by components
-- : Subtacts two vectors by components
+"+" : Adds two vectos by components
+"-" : Subtacts two vectors by components
 
 
 
@@ -67,8 +67,8 @@ is_zero() - If returns true, all vector fields=0
 
 is_inf() - if reurns true, vector contains any infinity members
 
-+ : Adds three vectos by components
-- : Subtacts three vectors by components
+"+" : Adds three vectos by components
+"-" : Subtacts three vectors by components
 
 
 
