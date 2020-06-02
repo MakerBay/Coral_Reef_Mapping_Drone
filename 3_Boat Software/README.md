@@ -11,7 +11,7 @@ lat( [new_lat] ) - If there's no argument, returns curretn latitude in degree as
 
 lng( [new_lng] ) - If there's no argument, return current longitude in degree as integer. If there's one argument, it will assign value to the longtitude
 
-relative_alt( [is_relative]) - If returns as true, location is planned as relative to home. If return as boolean value(T/F) then it will set relative altitude
+relative_alt( [is_relative] ) - If returns as true, location is planned as relative to home. If return as boolean value(T/F) then it will set relative altitude
 
 origin_alt( [is_origin] ) - If returns true, location is planned in absolute altitude relative to mean sea level. If return boolean value(T/F) then it  will set the altitude to be relative to mean sea level.
 
