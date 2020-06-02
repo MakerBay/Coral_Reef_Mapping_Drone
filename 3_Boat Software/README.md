@@ -89,7 +89,7 @@ arm() - Attempts to arm the vehicle. If successful then returns as true
 
 num_instances() - return nmber of battery instances currently available
 
-healthy( instance ) - If requested battery instance is healthy, it will return true. Healthy means that ArduPilot able to monitor the battery
+healthy( instance ) - If requested battery instance is healthy, it will return true. *Healthy means that ArduPilot able to monitor the battery*
 
 capacity_remaining_pct( instance ) - Returns remaining percentage of battery (0-100)
 
