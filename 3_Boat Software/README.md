@@ -3,7 +3,7 @@
 https://ardupilot.org/copter/docs/common-lua-scripts.html
 
 
-# Codes that is being used
+# Codes that are being used
 
 ## Location
 Location() - Allocate an empty location object
