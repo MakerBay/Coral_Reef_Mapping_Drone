@@ -1,3 +1,88 @@
+### DIY Droners #11: HKU Gallant Ho Group  06 June 2020
+
+Introductions slides from Sanjeew 
+https://docs.google.com/presentation/d/1hG_wmvLGKJy04nseDqMUr2UWn9EACY6sUKYPFRUC6fM/edit?usp=sharing
+Introductions of team – name- specialization- interests
+Git-hub overview
+HKU team needs a Git-hub user ID
+HKU Team needs to learn how to use github and document on Git-hub (learn Markdown)
+Overview of different teams: SLIDE 22 
+Mechanical: industrial design. First we need to get results from V3 Design Direction.
+Electrical: integrating different hardware- wiring, connectors usability)
+Marine Biology: Coral Identification, environmental sensors
+Camera and Optics:  is the most crucial part of this project and we are the furthest behind.
+Software Navigation: Ardu-pilot
+Software:  AI Coral Classifier
+Sanjeew update on Coral pre-trained model. Where are we on this task and where is it on Github
+HKU Team needs to commit a number of hours per week- not just on saturday. 
+Yes some of these hours will be “home-work” but it would be much more beneficial if these hours are committed to onsite at maker bay Tsuen Wan workshop. 1. With others and 2. In front of the hardware
+
+ALL OF THE HKU GROUP NEED GITHUB USER NAME
+
+Software 
+Tagging the images 
+Coding for the R-Pi 
+
+Rajat will pick up "projects" on Github. 
+
+* **Alastair:** busy working on the navigation software / ardupilot 
+* **Justin:** R-Pi programming 
+* **Ken:** R-Pi camera programming
+* **Shraa :** will join camera gruop
+* **Christie:** Camera R-pi 4 gruop
+* **Michael OB:** will 
+* **Ceasr:** 
+* **Mathis:** in the mechanical team 
+
+# Software:
+
+## Software: A.I Computer Vision
+
+* **Sanjeew:** Camera caliberation, 4 hous. AI Model. Get it on to GitHub, Communicate with Adel. Figure out pipeline. Will add every HKU team member to Gituhub project
+* **Rajat:** Camera caliberation, 4 hous. AI Model. Get it on to GitHub
+* **Abi:**  Camera caliberation, 4 hous. AI Model. Get it on to GitHub
+
+## Software: Navigation / Ardupilot 
+* **Alastair:** Downloaded "LUA" script and will test on Tuesday. 
+
+## Biology
+
+Please look at this dcoument and tranalte this into Github
+https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/6_Biology/HK%20Corals%20ID%20-%20Maxine%20Cutracci.pdf
+Will find potencial locations that we can map when in the Philipines 
+* **Natasha:** Will make a database of Philipines Coral Species -Link to drive- but then transfer to Github
+* **Sabrina:** 
+* **Joan:** 
+* **Vincent:** 
+* **Christie HKOY:** Tag the list for common corals in Philipines and HK. Making a table for classifying. 
+
+## Electrionics: Hardware and Circuit Design
+
+* **Abi:** Will come into MB office tuesday night , and meet "robot" with Michael 
+* **Priyank:** Will come into MB office tuesday night , and meet "robot" with Michael 
+
+## Electrionics Rpi-Camera 
+
+Tutorials (Sanjeew paste Python tutorials here) 
+* **Mike:** Writing script for R-Pi for Camera Scheduler. 
+* **Justin:** Will do Python tutorials 
+* **Shraa:** Will do Python tutorials 
+* **Ken:** Will buy 64 SD card Makerbay will reimburse you
+* **Kimberly:** Will do Python tutorials 
+
+## Mechanical
+
+* **Mathis:** Ideation of "camera wings" for robot. 
+* **Duy:**
+* **Paul:** 
+* **Brad:** 
+* **Sidhant:** 
+* **Cesar:** Planning logistcis on the Philipines trip with Philipe 
+
+* link to meeting https://hku.zoom.us/j/964500620
+
+
+
 ### DIY Droners #10 : 30 May 2020
 
 Weekly Update
