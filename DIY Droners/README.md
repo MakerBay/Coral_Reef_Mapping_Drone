@@ -1,4 +1,6 @@
 ### DIY Droners #11: HKU Gallant Ho Group  06 June 2020
+HKU group introduction. 
+2 PM - 3 PM. Online and offline 
 
 Introductions slides from Sanjeew 
 https://docs.google.com/presentation/d/1hG_wmvLGKJy04nseDqMUr2UWn9EACY6sUKYPFRUC6fM/edit?usp=sharing
@@ -17,30 +19,20 @@ Sanjeew update on Coral pre-trained model. Where are we on this task and where i
 HKU Team needs to commit a number of hours per week- not just on saturday. 
 Yes some of these hours will be “home-work” but it would be much more beneficial if these hours are committed to onsite at maker bay Tsuen Wan workshop. 1. With others and 2. In front of the hardware
 
-ALL OF THE HKU GROUP NEED GITHUB USER NAME
-
-Software 
-Tagging the images 
-Coding for the R-Pi 
-
-Rajat will pick up "projects" on Github. 
+ALL OF THE HKU GROUP NEED GITHUB USER NAME and email Michael their usernames. 
 
 * **Alastair:** busy working on the navigation software / ardupilot 
 * **Justin:** R-Pi programming 
 * **Ken:** R-Pi camera programming
 * **Shraa :** will join camera gruop
 * **Christie:** Camera R-pi 4 gruop
-* **Michael OB:** will 
-* **Ceasr:** 
 * **Mathis:** in the mechanical team 
-
-# Software:
 
 ## Software: A.I Computer Vision
 
 * **Sanjeew:** Camera caliberation, 4 hous. AI Model. Get it on to GitHub, Communicate with Adel. Figure out pipeline. Will add every HKU team member to Gituhub project
-* **Rajat:** Camera caliberation, 4 hous. AI Model. Get it on to GitHub
-* **Abi:**  Camera caliberation, 4 hous. AI Model. Get it on to GitHub
+* **Rajat:** Camera caliberation, 4 hous. AI Model. Get it on to GitHub, also will pick up "projects" on Github 
+* **Abi:**  Will buy a Mirco SD for R-PI and set up R-pi, Camera caliberation, 4 hous. AI Model. Get it on to GitHub
 
 ## Software: Navigation / Ardupilot 
 * **Alastair:** Downloaded "LUA" script and will test on Tuesday. 
@@ -51,15 +43,15 @@ Please look at this dcoument and tranalte this into Github
 https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/6_Biology/HK%20Corals%20ID%20-%20Maxine%20Cutracci.pdf
 Will find potencial locations that we can map when in the Philipines 
 * **Natasha:** Will make a database of Philipines Coral Species -Link to drive- but then transfer to Github
-* **Sabrina:** 
-* **Joan:** 
-* **Vincent:** 
+* **Sabrina:** Will make a database of Philipines Coral Species -Link to drive- but then transfer to Github
+* **Joan:** Will make a database of Philipines Coral Species -Link to drive- but then transfer to Github
+* **Vincent:** Will make a database of Philipines Coral Species -Link to drive- but then transfer to Github
 * **Christie HKOY:** Tag the list for common corals in Philipines and HK. Making a table for classifying. 
 
 ## Electrionics: Hardware and Circuit Design
 
 * **Abi:** Will come into MB office tuesday night , and meet "robot" with Michael 
-* **Priyank:** Will come into MB office tuesday night , and meet "robot" with Michael 
+* **Priyank:** Will come into MB office Saturday 13 june , and meet "robot" with Michael 
 
 ## Electrionics Rpi-Camera 
 
@@ -73,13 +65,15 @@ Tutorials (Sanjeew paste Python tutorials here)
 ## Mechanical
 
 * **Mathis:** Ideation of "camera wings" for robot. 
-* **Duy:**
-* **Paul:** 
-* **Brad:** 
-* **Sidhant:** 
+* **Duy:** Working on mechanical desig, GPS and telemetry housing
+* **Paul:** Will work on blender new mechanical design concept
+* **Brad:** Working on mechanical desig, GPS and telemetry housing
+* **Sidhant:** fixed connector and wiring on 
 * **Cesar:** Planning logistcis on the Philipines trip with Philipe 
 
 * link to meeting https://hku.zoom.us/j/964500620
+
+<img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2003%20June/IMG_20200606_165744.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2003%20June/IMG_20200606_165753.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2003%20June/IMG_20200606_173313.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2003%20June/IMG_20200606_173334.jpg" width=400>
 
 
 
