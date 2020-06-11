@@ -25,7 +25,7 @@
 # Insert an image with no sizing requirements
 - i.e the image will appear as per original image size
 
-![Photo od drone](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/7.%20Coral%20Reef%20Mapping%20Drone%20in%20pool.jpeg)
+![Photo of drone](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/7.%20Coral%20Reef%20Mapping%20Drone%20in%20pool.jpeg)
 
 
 # Insert an image with different sizes 
