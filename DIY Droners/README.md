@@ -19,13 +19,17 @@ HKU group introduction.
 - HKU Team needs to commit a number of hours per week- not just on saturday. 
 - Yes, some of these hours will be “home-work” but it would be much more beneficial if these hours are committed to onsite at Makerbay     Tsuen Wan workshop. 1. With others and 2. In front of the hardware
 
-ALL OF THE HKU GROUP NEED GITHUB USER NAME and email their user names. michael@makerbay.org
+- **ALL OF THE HKU GROUP NEED GITHUB USER NAME and email their user names. michael@makerbay.org**
+- **HKU Team needs to learn the basics of Github documentantion and start to build thier respective team folders**
+- **[Look here for some help](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/tree/master/How%20to%20Github)**
+
+## Weekly Updates 
 
 * **Alastair:** busy working on the navigation software / ardupilot 
 * **Justin:** R-Pi programming 
 * **Ken:** R-Pi camera programming
-* **Shraa :** will join camera gruop
-* **Christie:** Camera R-pi 4 gruop
+* **Shraa :** will join camera group
+* **Christie:** Camera R-pi 4 group
 * **Mathis:** in the mechanical team 
 
 ## Software: A.I Computer Vision
