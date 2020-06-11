@@ -2,6 +2,8 @@
 HKU group introduction. 
 2 PM - 3 PM. Online and offline 
 
+* link to meeting https://hku.zoom.us/j/964500620
+
 * **ALL OF THE HKU GROUP NEED GITHUB USER NAME and email their user names. michael@makerbay.org**
 * **HKU Team needs to learn the basics of Github documentantion and start to build thier respective team folders**
 * **[Look here for some help getting started](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/tree/master/How%20to%20Github)**
@@ -75,8 +77,6 @@ Tutorials **(Sanjeew paste Python tutorials here)**
 * **Brad:** Working on mechanical desig, GPS and telemetry housing
 * **Sidhant:** fixed connector and wiring on 
 * **Cesar:** Planning logistcis on the Philipines trip with Philipe 
-
-* link to meeting https://hku.zoom.us/j/964500620
 
 <img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2003%20June/IMG_20200606_165744.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2003%20June/IMG_20200606_165753.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2003%20June/IMG_20200606_173313.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2003%20June/IMG_20200606_173334.jpg" width=400>
 
