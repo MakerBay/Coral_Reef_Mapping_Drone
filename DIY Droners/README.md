@@ -2,6 +2,10 @@
 HKU group introduction. 
 2 PM - 3 PM. Online and offline 
 
+* **ALL OF THE HKU GROUP NEED GITHUB USER NAME and email their user names. michael@makerbay.org**
+* **HKU Team needs to learn the basics of Github documentantion and start to build thier respective team folders**
+* **[Look here for some help getting started](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/tree/master/How%20to%20Github)**
+
 - Introductions slides from Sanjeew 
   https://docs.google.com/presentation/d/1hG_wmvLGKJy04nseDqMUr2UWn9EACY6sUKYPFRUC6fM/edit?usp=sharing
 - Introductions of team – name- specialization- interests
@@ -19,11 +23,8 @@ HKU group introduction.
 - HKU Team needs to commit a number of hours per week- not just on saturday. 
 - Yes, some of these hours will be “home-work” but it would be much more beneficial if these hours are committed to onsite at Makerbay     Tsuen Wan workshop. 1. With others and 2. In front of the hardware
 
-- **ALL OF THE HKU GROUP NEED GITHUB USER NAME and email their user names. michael@makerbay.org**
-- **HKU Team needs to learn the basics of Github documentantion and start to build thier respective team folders**
-- **[Look here for some help](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/tree/master/How%20to%20Github)**
-
 ## Weekly Updates 
+3 PM - 3:30 PM. Online and offline 
 
 * **Alastair:** busy working on the navigation software / ardupilot 
 * **Justin:** R-Pi programming 
