@@ -2,24 +2,24 @@
 HKU group introduction. 
 2 PM - 3 PM. Online and offline 
 
-Introductions slides from Sanjeew 
-https://docs.google.com/presentation/d/1hG_wmvLGKJy04nseDqMUr2UWn9EACY6sUKYPFRUC6fM/edit?usp=sharing
-Introductions of team – name- specialization- interests
-Git-hub overview
-HKU team needs a Git-hub user ID
-HKU Team needs to learn how to use github and document on Git-hub (learn Markdown)
-Overview of different teams: SLIDE 22 
-Mechanical: industrial design. First we need to get results from V3 Design Direction.
-Electrical: integrating different hardware- wiring, connectors usability)
-Marine Biology: Coral Identification, environmental sensors
-Camera and Optics:  is the most crucial part of this project and we are the furthest behind.
-Software Navigation: Ardu-pilot
-Software:  AI Coral Classifier
-Sanjeew update on Coral pre-trained model. Where are we on this task and where is it on Github
-HKU Team needs to commit a number of hours per week- not just on saturday. 
-Yes some of these hours will be “home-work” but it would be much more beneficial if these hours are committed to onsite at maker bay Tsuen Wan workshop. 1. With others and 2. In front of the hardware
+- Introductions slides from Sanjeew 
+  https://docs.google.com/presentation/d/1hG_wmvLGKJy04nseDqMUr2UWn9EACY6sUKYPFRUC6fM/edit?usp=sharing
+- Introductions of team – name- specialization- interests
+- Git-hub overview
+- HKU team needs a Git-hub user ID
+- HKU Team needs to learn how to use github and document on Git-hub (learn Markdown)
+- Overview of different teams: SLIDE 22 
+- Mechanical: industrial design. First we need to get results from V2 before V3 Design Direction.
+- Electrical: integrating different hardware- wiring, connectors usability)
+- Marine Biology: Coral Identification, environmental sensors
+- Camera and Optics:  is the most crucial part of this project and we are the furthest behind.
+- Software Navigation: Ardu-pilot
+- Software:  AI Coral Classifier
+- Sanjeew update on Coral pre-trained model. Where are we on this task and where is it on Github
+- HKU Team needs to commit a number of hours per week- not just on saturday. 
+- Yes, some of these hours will be “home-work” but it would be much more beneficial if these hours are committed to onsite at Makerbay     Tsuen Wan workshop. 1. With others and 2. In front of the hardware
 
-ALL OF THE HKU GROUP NEED GITHUB USER NAME and email Michael their usernames. 
+ALL OF THE HKU GROUP NEED GITHUB USER NAME and email their user names. michael@makerbay.org
 
 * **Alastair:** busy working on the navigation software / ardupilot 
 * **Justin:** R-Pi programming 
@@ -34,7 +34,7 @@ ALL OF THE HKU GROUP NEED GITHUB USER NAME and email Michael their usernames.
 * **Rajat:** Camera caliberation, 4 hous. AI Model. Get it on to GitHub, also will pick up "projects" on Github 
 * **Abi:**  Will buy a Mirco SD for R-PI and set up R-pi, Camera caliberation, 4 hous. AI Model. Get it on to GitHub
 
-## Software: Navigation / Ardupilot 
+## Software: Navigation / Ardupilot  
 * **Alastair:** Downloaded "LUA" script and will test on Tuesday. 
 
 ## Biology
@@ -55,11 +55,11 @@ Will find potencial locations that we can map when in the Philipines
 
 ## Electrionics Rpi-Camera 
 
-Tutorials (Sanjeew paste Python tutorials here) 
+Tutorials **(Sanjeew paste Python tutorials here)**
 * **Mike:** Writing script for R-Pi for Camera Scheduler. 
 * **Justin:** Will do Python tutorials 
 * **Shraa:** Will do Python tutorials 
-* **Ken:** Will buy 64 SD card Makerbay will reimburse you
+* **Ken:** Will buy 1x 64 SD card Makerbay will reimburse you
 * **Kimberly:** Will do Python tutorials 
 
 ## Mechanical
