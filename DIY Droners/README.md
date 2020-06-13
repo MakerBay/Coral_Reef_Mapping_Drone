@@ -1,3 +1,61 @@
+### DIY Droners #12: 13 June 2020
+ 
+## Weekly Updates 
+3 PM - 3:30 PM. Online and offline 
+
+## Software: A.I Computer Vision
+
+* **Sanjeew:** research, move the google doc onto github. New member 
+* **Abhi:**  
+* **Priyank:** 
+
+## Software: Navigation / Ardupilot  
+
+* **Alastair:** 
+* **Mark:** 
+
+## Electrionics Rpi-Camera 
+
+* **Mike:**  the camera is broken. 
+* **Justin:** 
+* **Shraa:** 
+* **Ken:** 
+* **Kimberly:** 
+
+## Biology
+Need to to print of pictures of corals and a color chart
+
+* **Natasha:** 
+* **Sabrina:** 
+* **Joan:** 
+* **Vincent:** 
+* **Christie HKOY:** 
+
+## Electrionics: Hardware and Circuit Design
+
+* **Abi:** 
+* **Dietmar:** 
+* **Priyank:** 2 components, will revise all the cables and connectors, 
+
+
+
+## Mechanical
+
+* **Mathis:** 
+* **Duy:** 
+* **Paul:** 
+* **Brad:** 
+* **Michael:** New CAD model, and started new mechanical test model. 
+
+
+
+
+
+
+
+
+
+
 ### DIY Droners #11: HKU Gallant Ho Group  06 June 2020
 HKU group introduction. 
 2 PM - 3 PM. Online and offline 
