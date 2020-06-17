@@ -1,3 +1,34 @@
+### DIY Droners #13: 20 June 2020
+
+pool dimenions 180com x 3m 
+Get the V step down
+get the card reader
+buy camera pi 4 
+think about webacam - ask abhi what cam he metinoned 
+Sanjeew will write shpping list
+Snj share the team 
+Coral team will print and laminate photos - Snj will chase 
+set up the gimbal - snj talk to mike about how long that will take 
+
+SAT afternoon get to approach beach 
+test camera 
+test way point point mission 
+second beach little palm nect weekend 
+
+10 am 
+fix lower tube bracket 
+intergrate V step down 
+get gimbal working 
+intergrate card reader 
+water proof the telemetry '
+coral photos in pool and test 
+way point tuning 
+ 
+ lunch 
+ 
+ 3 pm taxi to beach 
+
+
 ### DIY Droners #12: 13 June 2020
  
 ## Weekly Updates 
