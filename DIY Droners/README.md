@@ -35,6 +35,7 @@ For this Saturday Session we would like to spilt the HKOY up: 1 or 2 per team an
 - Laser cut new [electronics tray](https://bluerobotics.com/store/watertight-enclosures/4-series/wte4-etray-r1/) for 4 inch tube, 5 mm / wood. This is to fit the new Logitech webcam if needed. 
 - Water proof the telemerty housuing. 
 - Make prototype V3 ['paul' variation](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/issues/52)
+- Michael purchased new components and ordered the RPI SONY lens camera 
 
 ## Biology Team
 ### Natasha, Sabrina, Joan, Vincent, Christie 
@@ -54,6 +55,9 @@ For this Saturday Session we would like to spilt the HKOY up: 1 or 2 per team an
  
 ## Weekly Updates 
 3 PM - 3:30 PM. Online and offline 
+
+* **Tested the V.20 prototype with R-Pi camera scheduling photos everything 3 seconds in the test pool**
+- [Test photos stored here](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/tree/master/9_Camera%20images/13-Jun-20)
 
 ## Software: A.I Computer Vision
 ### Sanjeew, Abhi, Priyank
@@ -168,7 +172,7 @@ Tutorials **(Sanjeew paste Python tutorials here)**
 * **Sidhant:** fixed connector and wiring on 
 * **Cesar:** Planning logistcis on the Philipines trip with Philipe 
 
-<img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2003%20June/IMG_20200606_165744.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2003%20June/IMG_20200606_165753.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2003%20June/IMG_20200606_173313.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2003%20June/IMG_20200606_173334.jpg" width=400>
+<img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2013%20June/IMG_20200613_183130.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2013%20June/IMG_20200613_181808.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2013%20June/IMG_20200613_181656.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2013%20June/IMG_20200613_181341.jpg" width=400>
 
 
 
