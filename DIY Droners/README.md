@@ -6,6 +6,7 @@
 * **12 am - 1 pm:** Pool test / prpeare for beach trip 
 * **1 am - 2 pm:** Lunch Break
 * **3 am - 6 pm:** Beach trip to [Approach beach](https://www.google.com/maps/place/Approach+Beach/@22.3674087,114.0842736,17z/data=!3m1!4b1!4m5!3m4!1s0x3403f91871ddc579:0xaea5bea2d3a23a3b!8m2!3d22.3674554!4d114.0860115)
+* **6 am - 7 pm:** Pack up de-brief at Makerbay 
 
 For this Saturday Session we would like to spilt the HKOY up: 1 or 2 per team and pair up with a mentor.
 
@@ -19,12 +20,17 @@ For this Saturday Session we would like to spilt the HKOY up: 1 or 2 per team an
 
 ## Rpi and Camera Team 
 ### Mike, Justin, Shraa, Ken, Kimberly
+- [Look at these issues](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/issues)
 - Set up gimbal 
 - Set up r-pi camera for pool test and beach test OR intergrate 
 - Python tutorials for HKOY 
 
+## Software: Navigation / Ardupilot  
+### Sanjeew, Alastair, 
+- Set Way point mission for [Approach beach](https://www.google.com/maps/place/Approach+Beach/data=!4m2!3m1!1s0x3403f91871ddc579:0xaea5bea2d3a23a3b?sa=X&ved=2ahUKEwja0pnN243qAhWEw4sBHU4XBa8Q8gEwEnoECA4QBg)
+
 ## Mechanical Team 
-### Brad, Paul, Duy 
+### Brad, Paul, Duy, Michael
 - Fix lower tube bracket for 4 inch  
 - Laser cut new [electronics tray](https://bluerobotics.com/store/watertight-enclosures/4-series/wte4-etray-r1/) for 4 inch tube, 5 mm / wood. This is to fit the new Logitech webcam if needed. 
 - Water proof the telemerty housuing. 
@@ -39,9 +45,6 @@ For this Saturday Session we would like to spilt the HKOY up: 1 or 2 per team an
 - Find and water proof a torch for testing at the beach
 
 
-## Software: Navigation / Ardupilot  
-### Sanjeew, Alastair, 
-- Set Way point mission for [Approach beach](https://www.google.com/maps/place/Approach+Beach/data=!4m2!3m1!1s0x3403f91871ddc579:0xaea5bea2d3a23a3b?sa=X&ved=2ahUKEwja0pnN243qAhWEw4sBHU4XBa8Q8gEwEnoECA4QBg)
 
 
 
@@ -53,50 +56,30 @@ For this Saturday Session we would like to spilt the HKOY up: 1 or 2 per team an
 3 PM - 3:30 PM. Online and offline 
 
 ## Software: A.I Computer Vision
-
-* **Sanjeew:** research, move the google doc onto github.
-* **Abhi:**  
-* **Priyank:** 
+### Sanjeew, Abhi, Priyank
+Will research, move everthing from the google doc onto github.
 
 ## Software: Navigation / Ardupilot  
-
-* **Alastair:** 
-* **Mark:** 
+### Alastair
+Has been research lua script, need to ask Mike and Sanjeew about Lua and Ardupilot
 
 ## Electrionics Rpi-Camera 
-
-* **Mike:**  the camera is broken. 
-* **Justin:** 
-* **Shraa:** 
-* **Ken:** 
-* **Kimberly:** 
-
+### Mike, Justin, Shraa, Ken, Kimberly
+Mike fixed the Rpi camera by exchanging cables 
+ 
 ## Biology
+### Natasha, Sabrina, Joan, Vincent, Christie 
 Need to to print of pictures of corals and a color chart
 
-* **Natasha:** 
-* **Sabrina:** 
-* **Joan:** 
-* **Vincent:** 
-* **Christie HKOY:** 
-
 ## Electrionics: Hardware and Circuit Design
-
-* **Abhi:** 
-* **Dietmar:** 
-* **Priyank:** 2 components, will revise all the cables and connectors, 
-
-
+### Abhi, Dietmar, Priyank
+- 2 components need to spec to give to michael to buy, will revise all the cables and connectors, 
 
 ## Mechanical
+### Mathis, Duy, Paul, Brad, Michael
+- Paul made new mechanical options for Prototype V3.0 and started to make sketch models, Michael aslo made new CAD model
 
-* **Mathis:** 
-* **Duy:** 
-* **Paul:** 
-* **Brad:** 
-* **Michael:** New CAD model, and started new mechanical test model. 
-
-
+<img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2003%20June/IMG_20200606_165744.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2003%20June/IMG_20200606_165753.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2003%20June/IMG_20200606_173313.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2003%20June/IMG_20200606_173334.jpg" width=400>
 
 
 
