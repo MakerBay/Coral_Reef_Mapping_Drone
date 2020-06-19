@@ -1,4 +1,4 @@
-### DIY Droners #13: 20 June 2020
+# DIY Droners #13: 20 June 2020
 
 ## Agenda 
 
@@ -51,7 +51,14 @@ For this Saturday Session we would like to spilt the HKOY up: 1 or 2 per team an
 
 
 
-### DIY Droners #12: 13 June 2020
+
+
+
+
+
+
+
+# DIY Droners #12: 13 June 2020
  
 ## Weekly Updates 
 3 PM - 3:30 PM. Online and offline 
@@ -83,16 +90,13 @@ Need to to print of pictures of corals and a color chart
 ### Mathis, Duy, Paul, Brad, Michael
 - Paul made new mechanical options for Prototype V3.0 and started to make sketch models, Michael aslo made new CAD model
 
-<img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2003%20June/IMG_20200606_165744.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2003%20June/IMG_20200606_165753.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2003%20June/IMG_20200606_173313.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2003%20June/IMG_20200606_173334.jpg" width=400>
+<img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2013%20June/IMG_20200613_183130.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2013%20June/IMG_20200613_181808.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2013%20June/IMG_20200613_181656.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2013%20June/IMG_20200613_181341.jpg" width=400> <img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2013%20June/IMG_20200613_181337.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2013%20June/IMG_20200613_175232.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2013%20June/IMG_20200613_170855.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2013%20June/IMG_20200613_170847.jpg" width=400> <img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2013%20June/IMG_20200613_165710.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2013%20June/IMG_20200613_165546.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2013%20June/IMG_20200613_155627.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2013%20June/IMG_20200613_155231.jpg" width=400> <img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2013%20June/Cad%20model%20paul%2020200613.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2013%20June/Cad%20model%2020200613.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2013%20June/Cad%20model%20front%2020200613.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2013%20June/Cad%20model%20side%2020200613.JPG" width=400>
 
 
 
 
 
-
-
-
-### DIY Droners #11: HKU Gallant Ho Group  06 June 2020
+# DIY Droners #11: HKU Gallant Ho Group  06 June 2020
 HKU group introduction. 
 2 PM - 3 PM. Online and offline 
 
@@ -172,11 +176,12 @@ Tutorials **(Sanjeew paste Python tutorials here)**
 * **Sidhant:** fixed connector and wiring on 
 * **Cesar:** Planning logistcis on the Philipines trip with Philipe 
 
-<img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2013%20June/IMG_20200613_183130.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2013%20June/IMG_20200613_181808.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2013%20June/IMG_20200613_181656.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2013%20June/IMG_20200613_181341.jpg" width=400>
+<img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2003%20June/IMG_20200606_165744.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2003%20June/IMG_20200606_165753.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2003%20June/IMG_20200606_173313.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2003%20June/IMG_20200606_173334.jpg" width=400>
 
 
 
-### DIY Droners #10 : 30 May 2020
+
+# DIY Droners #10 : 30 May 2020
 
 Weekly Update
 3 PM - 3:30 PM. Online and offline 
@@ -214,7 +219,7 @@ Join togther videos of past few weeks work - put on YouTube and link to GitHub h
 
 
 
-### DIY Droners #10 : 23 May 2020
+# DIY Droners #10 : 23 May 2020
 
 Weekly Update
 3 PM - 3:30 PM. Online and offline 
@@ -247,7 +252,7 @@ Join togther videos of past few weeks work - put on YouTube and link to GitHub h
 
 <img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/23%20May%201.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/23%20May%202.JPG" width=400>
 
-### DIY Droners #9 : 16 May 2020
+# DIY Droners #9 : 16 May 2020
 
 Weekly Update
 3 PM - 3:30 PM. Online and offline 
@@ -297,7 +302,7 @@ TO DO
 
 
 
-### DIY Droners #8 : 09 May 2020
+# DIY Droners #8 : 09 May 2020
 
 3 PM - 4 PM. Coral Presentation by Maxine
 
@@ -319,7 +324,7 @@ Weekly Updates
 To do before next DIY Droner Saturday Session
 * **All:** [Create profile for GITHUB](https://github.com/join)
 
-### DIY Droners #7 : 5 May 2020
+# DIY Droners #7 : 5 May 2020
 
 Weekly Updates 3 PM - 4 PM. 
  
