@@ -1,4 +1,4 @@
-# DIY Droners #13: 20 June 2020
+# DIY Droners 20 June 2020
 
 ## Agenda 
 
@@ -58,7 +58,7 @@ For this Saturday Session we would like to spilt the HKOY up: 1 or 2 per team an
 
 
 
-# DIY Droners #12: 13 June 2020
+# DIY Droners 13 June 2020
  
 ## Weekly Updates 
 3 PM - 3:30 PM. Online and offline 
@@ -96,7 +96,7 @@ Need to to print of pictures of corals and a color chart
 
 
 
-# DIY Droners #11: HKU Gallant Ho Group  06 June 2020
+# DIY Droners: HKU Gallant Ho Group  06 June 2020
 HKU group introduction. 
 2 PM - 3 PM. Online and offline 
 
