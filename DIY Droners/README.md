@@ -1,32 +1,50 @@
 ### DIY Droners #13: 20 June 2020
 
-pool dimenions 180com x 3m 
-Get the V step down
-get the card reader
-buy camera pi 4 
-think about webacam - ask abhi what cam he metinoned 
-Sanjeew will write shpping list
-Snj share the team 
-Coral team will print and laminate photos - Snj will chase 
-set up the gimbal - snj talk to mike about how long that will take 
+## Agenda 
 
-SAT afternoon get to approach beach 
-test camera 
-test way point point mission 
-second beach little palm nect weekend 
+* **10 am - 12 pm:** Make electrical and mechanical updates to robot as per action items below 
+* **12 am - 1 pm:** Pool test / prpeare for beach trip 
+* **1 am - 2 pm:** Lunch Break
+* **3 am - 6 pm:** Beach trip to [Approach beach](https://www.google.com/maps/place/Approach+Beach/@22.3674087,114.0842736,17z/data=!3m1!4b1!4m5!3m4!1s0x3403f91871ddc579:0xaea5bea2d3a23a3b!8m2!3d22.3674554!4d114.0860115)
 
-10 am 
-fix lower tube bracket 
-intergrate V step down 
-get gimbal working 
-intergrate card reader 
-water proof the telemetry '
-coral photos in pool and test 
-way point tuning 
- 
- lunch 
- 
- 3 pm taxi to beach 
+For this Saturday Session we would like to spilt the HKOY up: 1 or 2 per team and pair up with a mentor.
+
+## Electrionics Team 
+### Priyank, Abhi 
+- Integrate the [Voltage regulator](https://www.pololu.com/product/2850) 
+- Intergrate [Logitech webcam](https://www.amazon.com/Logitech-Webcam-Portable-Calling-Autofocus/dp/B004WO8HQ4/?tag=androidcentralb-20&ascsubtag=UUacUdUnU80123YYwYg) \
+- Intergrate SD card reader 
+- Charge battery and prepare spare batteries for the beach
+- Python tutorials for HKOY 
+
+## Rpi and Camera Team 
+### Mike, Justin, Shraa, Ken, Kimberly
+- Set up gimbal 
+- Set up r-pi camera for pool test and beach test OR intergrate 
+- Python tutorials for HKOY 
+
+## Mechanical Team 
+### Brad, Paul, Duy 
+- Fix lower tube bracket for 4 inch  
+- Laser cut new [electronics tray](https://bluerobotics.com/store/watertight-enclosures/4-series/wte4-etray-r1/) for 4 inch tube, 5 mm / wood. This is to fit the new Logitech webcam if needed. 
+- Water proof the telemerty housuing. 
+- Make prototype V3 ['paul' variation](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/issues/52)
+
+## Biology Team
+### Natasha, Sabrina, Joan, Vincent, Christie 
+- Print and laminate photos of corals (pool dimenions 1.8m x 3m)
+- Print and laminate [color calibration chart](http://jason-jones.com/articles/107-photography/303-color-calibration-chart)
+- Fix photos to the bottom of the pool 
+- Prepare go-pros for filming at beach
+- Find and water proof a torch for testing at the beach
+
+
+## Software: Navigation / Ardupilot  
+### Sanjeew, Alastair, 
+- Set Way point mission for [Approach beach](https://www.google.com/maps/place/Approach+Beach/data=!4m2!3m1!1s0x3403f91871ddc579:0xaea5bea2d3a23a3b?sa=X&ved=2ahUKEwja0pnN243qAhWEw4sBHU4XBa8Q8gEwEnoECA4QBg)
+
+
+
 
 
 ### DIY Droners #12: 13 June 2020
@@ -36,7 +54,7 @@ way point tuning
 
 ## Software: A.I Computer Vision
 
-* **Sanjeew:** research, move the google doc onto github. New member 
+* **Sanjeew:** research, move the google doc onto github.
 * **Abhi:**  
 * **Priyank:** 
 
@@ -64,7 +82,7 @@ Need to to print of pictures of corals and a color chart
 
 ## Electrionics: Hardware and Circuit Design
 
-* **Abi:** 
+* **Abhi:** 
 * **Dietmar:** 
 * **Priyank:** 2 components, will revise all the cables and connectors, 
 
