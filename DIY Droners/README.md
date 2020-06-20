@@ -44,6 +44,8 @@ For this Saturday Session we would like to spilt the HKOY up: 1 or 2 per team an
 - Fix photos to the bottom of the pool 
 - Prepare go-pros for filming at beach
 - Find and water proof a torch for testing at the beach
+- Set up and test the Power Dolphin
+
 
 
 
