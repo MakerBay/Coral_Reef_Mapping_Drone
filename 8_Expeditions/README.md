@@ -17,5 +17,8 @@
 |Morong Reef, Bataan| 25 - 31| N/A| 178.6| Nov - April|
 |Apo Reef (between Palawan & Mindoro)| 26 - 31| North Lagoon: 2-10; Average: 20, can reach up to 61| 147.5| March-May|
 |Anilao Reef, Batangas| 25 - 32| Average: 5 - 30| 123.7 | April - May (Also Nov)|
+|Bolinao-Anda Reef Complex| ~30 | Average: 5 / 30 | 123.7 | March-May |
+|Twins Rock| ~ 27-29 | 17 | ~121.5 | January, March, May and October |
+|Kirby's Rock| 25-30 | 42 | 87.8 | Febuary, June and December| 
 
 Read up on markup language
