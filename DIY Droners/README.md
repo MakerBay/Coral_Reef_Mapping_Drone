@@ -32,6 +32,7 @@ All these components needs to sourced and intergrated into drone electrical syst
 ## Rpi and Camera Team 
 ### Mike, Justin, Shraa, Ken, Kimberly
 - Mike added wifi to R-Pi
+- Set up other scriptt on r-pi 
 
 ## Software: Navigation / Ardupilot  
 ### Sanjeew, Alastair, Naman
