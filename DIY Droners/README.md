@@ -1,3 +1,59 @@
+# DIY Droners 4 July 2020: Feild trip to Hoi Ha Wan Marine Reserve 
+Add link on Map 
+https://www.wwf.org.hk/en/whatwedo/community_engagement_and_education/hoi_ha_wan/
+
+
+https://www.google.com/maps/place/Jockey+Club+HSBC+WWF+Hong+Kong+Hoi+Ha+Marine+Life+Centre/@22.2776178,114.024483,11z/data=!4m8!1m2!2m1!1shhw+wwf!3m4!1s0x34040e1feb894bbb:0x5d8cbe8ad4e158ac!8m2!3d22.4632762!4d114.333429
+
+
+9 am Start at HHW 
+
+## Pack list 
+- Drone: spare parts and battery and battery chargers 
+- Tool kit: Pliers, Screwdrivers, tape, Zip ties, Hose Clamps, wires and electrical connectors etc 
+- Power Dolphin (white drone), other go pros / dji camera 
+- Personal: Raincoat, umbrella, Swimming / snorkelling gear, sunscreen, mosquito repellent 
+- 
+
+# DIY Droners 27 June 2020
+
+## Electrionics Team 
+### Sanjeew, Priyank, Abhi 
+- Source voltage step down with correct connector for the R-Pi 
+- Gimbal reseach and source and or add adjust current gimbal. 
+- Source lens for R-Pi
+- Source extra battey
+- Interfgate card reader 
+
+All these components needs to source and intergrated into drone electrical system before friday 3rd July 
+
+## Rpi and Camera Team 
+### Mike, Justin, Shraa, Ken, Kimberly
+- Mike added wifi to R-Pi
+
+
+## Software: Navigation / Ardupilot  
+### Sanjeew, Alastair, 
+
+
+## Mechanical Team 
+### Brad, Paul, Duy, Michael
+
+
+## Biology Team 
+### Natasha, Sabrina, Joan, Vincent, Christie 
+
+
+## Admin 
+### Sabrina
+- Michael share HK divers and WWF Hoi Ha Wan mananger. 
+
+
+
+
+
+
+
 # DIY Droners 20 June 2020
 
 ## Agenda 
