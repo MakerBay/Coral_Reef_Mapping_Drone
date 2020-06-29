@@ -9,23 +9,25 @@
 
 
 ## Pack list 
-- Drone: spare parts and battery and battery chargers 
+- Prototype v2 Drone: spare parts and spare battery and battery chargers 
 - Tool kit: Pliers, Screwdrivers, tape, Zip ties, Hose Clamps, wires and electrical connectors etc 
-- Power Dolphin (white drone), other go pros / dji camera 
-- Personal: Raincoat, umbrella, Swimming / snorkelling gear, sunscreen, mosquito repellent 
+- Power Dolphin (white drone), other go pros / dji camera
+- Colorful rope for making quandrants
+- Personal: Raincoat, umbrella, hat, Swimming / snorkelling gear (fins, mask, snorkel, Rash top), sunscreen, mosquito repellent 
 - A few laptops installed wih ArduPilot Mission Planner
 
 # DIY Droners 27 June 2020
 
-## Electrionics Team 
+## Electronics Team 
 ### Sanjeew, Priyank, Abhi, Naman
 - Source voltage step down with correct connector for the R-Pi 
 - Gimbal reseach and source and or add adjust current gimbal. 
 - Source lens for R-Pi
-- Source extra battey
-- Interfgate card reader 
+- Source extra battey and compatible connecter for battery 
+- Source waterproof lamp for testing underwater in low light/ low visability
+- Intergrate card reader 
 
-All these components needs to source and intergrated into drone electrical system before friday 3rd July 
+All these components needs to sourced and intergrated into drone electrical system before friday 3rd July for testing 
 
 ## Rpi and Camera Team 
 ### Mike, Justin, Shraa, Ken, Kimberly
@@ -33,25 +35,24 @@ All these components needs to source and intergrated into drone electrical syste
 
 ## Software: Navigation / Ardupilot  
 ### Sanjeew, Alastair, Naman
-- Naman set up 
+- Naman set up Autopilot on mission planner 
 
 ## Mechanical Team 
-### Brad, Paul, Duy, Michael
-
+### Brad, Paul, Duy, Michael, Cesar 
+- Cut out back section of Protoype V2 for access 3 inch tube 
+- Working 'suitcase' and pontoon idea 
+- Working on 
 
 ## Biology Team 
 ### Natasha, Sabrina, Joan, Vincent, Christie 
-
+- Working on tagging coral images for A.I
 
 ## Admin 
 ### Sabrina
 - Michael share HK divers and WWF Hoi Ha Wan mananger. 
+- Sabrina will contact WWF 
 
-
-
-
-
-
+<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2027%20June%202020/IMG_20200627_135702.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2027%20June%202020/IMG_20200627_152028.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2027%20June%202020/IMG_20200627_152054.jpg" width=400> <img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2027%20June%202020/IMG_20200627_162745.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2027%20June%202020/IMG_20200627_162750.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2027%20June%202020/IMG_20200627_165534.jpg" width=400> 
 
 # DIY Droners 20 June 2020
 
@@ -101,21 +102,7 @@ For this Saturday Session we would like to spilt the HKOY up: 1 or 2 per team an
 - Find and water proof a torch for testing at the beach
 - Set up and test the Power Dolphin
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# DIY Droners 13 June 2020
+<img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2020%20June%202020/1.2.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2020%20June%202020/1.1.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2020%20June%202020/4.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2020%20June%202020/5.jpg" width=400> <img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2020%20June%202020/6.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2020%20June%202020/9.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2020%20June%202020/10.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2020%20June%202020/11.jpg" width=400> <img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2020%20June%202020/12.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2020%20June%202020/13.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2020%20June%202020/15.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2020%20June%202020/14.jpg" width=400> 
  
 ## Weekly Updates 
 3 PM - 3:30 PM. Online and offline 
