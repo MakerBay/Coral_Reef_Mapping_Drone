@@ -1,24 +1,24 @@
 # DIY Droners 4 July 2020: Feild trip to Hoi Ha Wan Marine Reserve 
-Add link on Map 
-https://www.wwf.org.hk/en/whatwedo/community_engagement_and_education/hoi_ha_wan/
 
+## 9 am Start at Hoi Ha Wan 
 
-https://www.google.com/maps/place/Jockey+Club+HSBC+WWF+Hong+Kong+Hoi+Ha+Marine+Life+Centre/@22.2776178,114.024483,11z/data=!4m8!1m2!2m1!1shhw+wwf!3m4!1s0x34040e1feb894bbb:0x5d8cbe8ad4e158ac!8m2!3d22.4632762!4d114.333429
+- [Jockey Club HSBC WWF Hong Kong Hoi Ha Marine Life Centre, Hoi Ha Nature Trail](https://www.wwf.org.hk/en/whatwedo/community_engagement_and_education/hoi_ha_wan/)
+- [How to get there](http://awsassets.wwfhk.panda.org/downloads/directions_to_hoi_ha_wan_marine_life_centre_chi_eng_20180418.pdf)
+- Address: Hoi Ha Marine Life Centre, c/o 1/F, House 2A, Hoi Ha Village, Sai Kung, New Territories
+- [WWF Hoi Ha Wan Marine Life Centre on Google maps](https://www.google.com/maps/place/Jockey+Club+HSBC+WWF+Hong+Kong+Hoi+Ha+Marine+Life+Centre/@22.2776178,114.024483,11z/data=!4m8!1m2!2m1!1shhw+wwf!3m4!1s0x34040e1feb894bbb:0x5d8cbe8ad4e158ac!8m2!3d22.4632762!4d114.333429)
 
-
-9 am Start at HHW 
 
 ## Pack list 
 - Drone: spare parts and battery and battery chargers 
 - Tool kit: Pliers, Screwdrivers, tape, Zip ties, Hose Clamps, wires and electrical connectors etc 
 - Power Dolphin (white drone), other go pros / dji camera 
 - Personal: Raincoat, umbrella, Swimming / snorkelling gear, sunscreen, mosquito repellent 
-- 
+- A few laptops installed wih ArduPilot Mission Planner
 
 # DIY Droners 27 June 2020
 
 ## Electrionics Team 
-### Sanjeew, Priyank, Abhi 
+### Sanjeew, Priyank, Abhi, Naman
 - Source voltage step down with correct connector for the R-Pi 
 - Gimbal reseach and source and or add adjust current gimbal. 
 - Source lens for R-Pi
@@ -31,10 +31,9 @@ All these components needs to source and intergrated into drone electrical syste
 ### Mike, Justin, Shraa, Ken, Kimberly
 - Mike added wifi to R-Pi
 
-
 ## Software: Navigation / Ardupilot  
-### Sanjeew, Alastair, 
-
+### Sanjeew, Alastair, Naman
+- Naman set up 
 
 ## Mechanical Team 
 ### Brad, Paul, Duy, Michael
