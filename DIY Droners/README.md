@@ -1,4 +1,4 @@
-# DIY Droners 4 July 2020: Feild trip to Hoi Ha Wan Marine Reserve 
+# DIY Droners 4 July 2020: Field trip to Hoi Ha Wan Marine Reserve 
 
 ## 9 am Start at Hoi Ha Wan 
 
@@ -15,6 +15,26 @@
 - Colorful rope for making quandrants
 - Personal: Raincoat, umbrella, hat, Swimming / snorkelling gear (fins, mask, snorkel, Rash top), sunscreen, mosquito repellent 
 - A few laptops installed wih ArduPilot Mission Planner
+
+
+## Debrief of Field Trip
+### What Went Well
+- Remote control
+- Visibility at site location: lots of corals
+
+### Areas of Improvement / Problems / Concerns 
+- Team work: better job distribution: can have more than 1 test going on simutaneously
+- Tangled rope - need to brainstorm ways to ensure rope does not get tangled in water if it is to be used next test
+- Battery - need more spare batteries
+- Autopilot connection: failed to connect throigh telemetry
+- First aid: shoes, cuts, sunburn - bring along next trip
+- Pi connection issue
+- Condensation in the battery pack - use silicone beads?
+- Accessibility to parts: needs mechanical design rework
+
+### Test Site
+- Inconvenient to get there
+- Best test site so far for corals, but we came in unprepared: need to get basic navigation sorted
 
 # DIY Droners 27 June 2020
 
