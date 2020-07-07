@@ -28,7 +28,7 @@ Climate change is the biggest threat to the world’s coral reefs, causing mass 
 
 ![Coral Reefs](https://user-images.githubusercontent.com/58210744/80578411-fe746a80-8a3a-11ea-8785-430a610e751d.JPG "Office for Coastal Management, National Oceanic and Atmospheric Administration")
 
-* **So far the human race (yes, that includes you) has done a pretty good job of destroying nearly all of the earth's coral reefs.       Don't beleive me? Read on.**
+* **So far the human race (yes, that includes you) has done a pretty good job of destroying nearly all of the earth's coral reefs.       Don't believe me? Read on.**
 
 The third global bleaching event, from 2014 to 2017, brought mass bleaching-level heat stress to more than 75 percent of global reefs; nearly 30 percent also suffered mortality level stress. This bleaching event was the longest, most widespread, and most destructive on record. [State of the Climate 2017](https://www.ametsoc.net/sotc2017/StateoftheClimate2017_lowres.pdf)
 
