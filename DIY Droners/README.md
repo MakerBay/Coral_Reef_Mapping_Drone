@@ -1,3 +1,12 @@
+# DIY Droners 11 July 2020: 
+## 
+
+New meeting time 12:30pm every saturday 
+25th July is the date for deciding direction. 
+
+
+
+
 # DIY Droners 4 July 2020: Field trip to Hoi Ha Wan Marine Reserve 
 
 ## 9 am Start at Hoi Ha Wan 
