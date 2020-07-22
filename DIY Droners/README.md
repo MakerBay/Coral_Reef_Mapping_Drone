@@ -1,8 +1,15 @@
+# DIY Droners 18 July 2020: 
+## 
+
+## Mechanical Team 
+### Brad, Paul, Duy, Michael, Cesar 
+- Michael to update
+
 # DIY Droners 11 July 2020: 
 ## 
 
-New meeting time 12:30pm every saturday 
-25th July is the date for deciding direction. 
+- New meeting time 12:30pm every saturday 
+- 25th July is the date for deciding direction. 
 
 
 
