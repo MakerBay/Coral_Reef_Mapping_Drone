@@ -18,7 +18,7 @@
 ## Mechanical Team 
 ### Brad, Paul, Duy, Michael, Cesar 
 - Brad and Duy researched various new concepts (see photos of sketches below) 
-- Decided to develop "Bow and Arrow" concept with 5 "faux" gro pros and fins
+- Decided to develop "Bow and Arrow" concept with 5 "faux" gro pros and fins, instead of "pink-bot" concept. 
 - Wide surface of "Bow and Arrow" concept area mean GPS will be easier to lock and calibrate
 - [Testing the bow and camera arrows concept](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/wiki/Testing-the-bow-and-camera-arrows-concept) Issues to consider and resolve listed here
 - Saturday 25th Cesar to bring an RC boat and hack it for adding to the front of 'Bow and Arrow" concept, attach with bearing to allow steering (see photos of sketches below) 
