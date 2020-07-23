@@ -21,7 +21,7 @@
 - Brad and Duy researched various new concepts (see photos of sketches below) 
 - Decided to develop "Bow and Arrow" concept with 5 "faux" gro pros and fins
 - Wide surface of "Bow and Arrow" concept area mean GPS will be easier to lock and calibrate
-- Link to Bow and Arrow - note the issues that need to be resolved with this concept
+- Issues to consider and resolve  for Bow and Arrow concept listed here (https://github.com/MakerBay/Coral_Reef_Mapping_Drone/wiki/Testing-the-bow-and-camera-arrows-conceptand Arrow)
 - Saturday 25th Cesar to bring an RC boat and hack for 
 - Need to get thicker tent poles for stronger and more rigid 
 
