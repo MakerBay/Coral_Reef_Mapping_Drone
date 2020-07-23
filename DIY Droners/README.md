@@ -22,7 +22,9 @@
 - Wide surface of "Bow and Arrow" concept area mean GPS will be easier to lock and calibrate
 - [Testing the bow and camera arrows concept](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/wiki/Testing-the-bow-and-camera-arrows-concept) Issues to consider and resolve listed here
 - Saturday 25th Cesar to bring an RC boat and hack it for adding to the front of 'Bow and Arrow" concept, attach with bearing to allow steering (see photos of sketches below) 
+- Cesar will bring a android phone to hack for the GPS device for this test
 - Need to get thicker tent poles for stronger and more rigid frame and structure
+- We will test RC bow and arrow at outside the patrolled area at [Approach beach](https://www.google.com/maps/place/Approach+Beach/@22.3674087,114.0842736,17z/data=!3m1!4b1!4m5!3m4!1s0x3403f91871ddc579:0xaea5bea2d3a23a3b!8m2!3d22.3674554!4d114.0860115) on 25th July 
 
 ## Biology Team 
 ### Natasha, Sabrina, Joan, Vincent, Christie 
