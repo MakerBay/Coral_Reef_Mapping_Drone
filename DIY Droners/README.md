@@ -10,7 +10,6 @@
 ## Rpi and Camera Team 
 ### Michael T, Justin, Shraa, Ken, Kimberly
 - Michael T Please update Pi Progress 
-- 
 
 ## Software: Navigation / Ardupilot  
 ### Sanjeew, Naman
@@ -21,9 +20,9 @@
 - Brad and Duy researched various new concepts (see photos of sketches below) 
 - Decided to develop "Bow and Arrow" concept with 5 "faux" gro pros and fins
 - Wide surface of "Bow and Arrow" concept area mean GPS will be easier to lock and calibrate
-- Issues to consider and resolve  for Bow and Arrow concept listed here (https://github.com/MakerBay/Coral_Reef_Mapping_Drone/wiki/Testing-the-bow-and-camera-arrows-conceptand Arrow)
-- Saturday 25th Cesar to bring an RC boat and hack for 
-- Need to get thicker tent poles for stronger and more rigid 
+- [Testing the bow and camera arrows concept](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/wiki/Testing-the-bow-and-camera-arrows-concept) Issues to consider and resolve listed here
+- Saturday 25th Cesar to bring an RC boat and hack it for adding to the front of 'Bow and Arrow" concept, attach with bearing to allow steering (see photos of sketches below) 
+- Need to get thicker tent poles for stronger and more rigid frame and structure
 
 ## Biology Team 
 ### Natasha, Sabrina, Joan, Vincent, Christie 
@@ -35,8 +34,8 @@
 ### Sabrina
 - Sabrina / Sanjeew please update the plan based on the email from Gallant Ho 
 
-<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2027%20June%202020/IMG_20200627_135702.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2027%20June%202020/IMG_20200627_152028.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2027%20June%202020/IMG_20200627_152054.jpg" width=400> <img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2027%20June%202020/IMG_20200627_162745.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2027%20June%202020/IMG_20200627_162750.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2027%20June%202020/IMG_20200627_165534.jpg" width=400> 
-
+<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/20200723/IMG_20200718_151051.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/20200723/IMG_20200718_151044.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/20200723/IMG_20200723_134333.jpg" width=400> <img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/20200723/IMG_20200723_134337.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/20200723/IMG_20200723_134339.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/20200723/IMG_20200723_134342.jpg" width=400> 
+<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/20200723/IMG_20200723_134346.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/20200723/IMG_20200723_134349.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/20200723/IMG_20200723_134357.jpg" width=400> <img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/20200723/IMG_20200723_134402.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/20200723/01.jpg" width=400>  
 
 
 # DIY Droners 11 July 2020: 
