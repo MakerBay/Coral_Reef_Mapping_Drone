@@ -1,9 +1,43 @@
 # DIY Droners 18 July 2020: 
 ## 
 
+## Electronics Team 
+### Sanjeew, Priyank, Abhi, Naman
+- Electronics team was not in attendance
+- PLEASE UPDATE progress and status 
+- What components were sourced and what still needs to be sourced 
+
+## Rpi and Camera Team 
+### Michael T, Justin, Shraa, Ken, Kimberly
+- Michael T Please update Pi Progress 
+- 
+
+## Software: Navigation / Ardupilot  
+### Sanjeew, Naman
+- Naman please update progress on Autopilot on Mission Planner 
+
 ## Mechanical Team 
 ### Brad, Paul, Duy, Michael, Cesar 
-- Michael to update
+- Brad and Duy researched various new concepts (see photos of sketches below) 
+- Decided to develop "Bow and Arrow" concept with 5 "faux" gro pros and fins
+- Wide surface of "Bow and Arrow" concept area mean GPS will be easier to lock and calibrate
+- Link to Bow and Arrow - note the issues that need to be resolved with this concept
+- Saturday 25th Cesar to bring an RC boat and hack for 
+- Need to get thicker tent poles for stronger and more rigid 
+
+## Biology Team 
+### Natasha, Sabrina, Joan, Vincent, Christie 
+- Maxine coral specialist session 
+- Natahsa / Joan Please update Biology team progress 
+- PLEASE add notes from what was learnt from Maxines session and or add link notes on Github 
+
+## Admin 
+### Sabrina
+- Sabrina / Sanjeew please update the plan based on the email from Gallant Ho 
+
+<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2027%20June%202020/IMG_20200627_135702.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2027%20June%202020/IMG_20200627_152028.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2027%20June%202020/IMG_20200627_152054.jpg" width=400> <img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2027%20June%202020/IMG_20200627_162745.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2027%20June%202020/IMG_20200627_162750.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2027%20June%202020/IMG_20200627_165534.jpg" width=400> 
+
+
 
 # DIY Droners 11 July 2020: 
 ## 
@@ -89,7 +123,6 @@ All these components needs to sourced and intergrated into drone electrical syst
 - Michael share HK divers and WWF Hoi Ha Wan mananger. 
 - Sabrina will contact WWF 
 
-<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2027%20June%202020/IMG_20200627_135702.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2027%20June%202020/IMG_20200627_152028.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2027%20June%202020/IMG_20200627_152054.jpg" width=400> <img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2027%20June%202020/IMG_20200627_162745.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2027%20June%202020/IMG_20200627_162750.jpg" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2027%20June%202020/IMG_20200627_165534.jpg" width=400> 
 
 # DIY Droners 20 June 2020
 
