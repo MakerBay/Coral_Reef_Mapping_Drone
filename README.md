@@ -132,7 +132,7 @@ This is a forebearer project made by some of our team.
 
 [GitHub Readme Images Tutorial](https://www.youtube.com/watch?v=hHbWF1Bvgf4&t=128s). Look at this video for how to place images and size them in Github README files.
 
-[Project managment](https://docs.google.com/spreadsheets/d/1fuoXyMHSuvo87rrXIIrsM-g60LUAh8bwrJWMOnM1X2o/edit#gid=1437098180). Browse our internal project managment doccument for things like a Road-Map / Feature List, Timeline, Purchasing List, Components Wish-list, etc.
+[Project managment](https://docs.google.com/spreadsheets/d/1fuoXyMHSuvo87rrXIIrsM-g60LUAh8bwrJWMOnM1X2o/edit#gid=1516222924). Browse our internal project managment doccument for things like a Road-Map / Feature List, Timeline, Purchasing List, Components Wish-list, etc.
 
 
 ## Step 3: Show-Up
