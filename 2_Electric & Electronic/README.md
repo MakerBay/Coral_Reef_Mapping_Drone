@@ -13,6 +13,12 @@ This diagram shows the current version of the electronic assembly of the 'brain 
 This diagram shows the main function of the drone, with the 
 ![Diagram of functions](20200401_Diagram.png)
 
+
+
+# Video of Electrical Assembly
+
+[![Electrical Assembly](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/20200422%20Coral%20Reef%20Mapping%20Drone%20V2%20Prototype.JPG)](https://www.youtube.com/watch?v=2fxCnrwdv6g&t=5s)
+
 # Future updates
 * List of components
 * Assembly instructions
