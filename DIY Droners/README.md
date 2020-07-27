@@ -1,3 +1,55 @@
+
+# DIY Droners 25 July 2020: 
+## 
+
+## Electronics: Hardware Team 
+### Sanjeew, Priyank, Abhi, Naman
+
+- Place holder text
+- Place holder text
+
+## Electronics: Rpi and Camera Team 
+### Michael T, Justin, Shraa, Ken, Kimberly
+
+- Place holder text
+- Place holder text
+
+## Navigation Software Team 
+ ### Sanjeew, Priyank, Abhi, 
+ 
+- Place holder text
+- Place holder text
+
+## A.I and Software Team: Rpi and Camera Team 
+ ### Sanjeew, Priyank, Abhi, 
+ 
+- Place holder text
+- Place holder text
+
+## Biology Team 
+### Natasha, Sabrina, Joan, Vincent, Christy
+
+- Place holder text
+- Place holder text
+
+## Mechanical Team 
+### Brad, Paul, Duy, Michael OB, Cesar 
+
+- Cesar and Michael, stengthened the 'Bow and Arrow' concpet with an extra tent pole, purchashed a small RC Boat and attached to the 'Bow' 
+- Tested at the beach. Video results below. 
+
+<a href="https://www.youtube.com/watch?v=g0wsQ2PKoyQ&feature=youtu.b
+" target="_blank"><img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/20200725%20Bow%20and%20Arrow%20Test%203.JPG" 
+alt="BOW AND ARROW TEST 3" width="300" height="180" border="10" /></a>
+
+### Main takeaways for next revision
+- Stronger telescopic poles to increase tension
+- Raise pole above water
+- Propulsion boat needs to be a lot more stable
+- Camera and rope flippped in wave, consider rigid camera rope/ pole
+- Trial a circle structure instead of arc
+
+
 # DIY Droners 18 July 2020: 
 ## 
 
