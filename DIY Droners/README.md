@@ -35,7 +35,7 @@
 ## Mechanical Team 
 ### Brad, Paul, Duy, Michael OB, Cesar 
 
-- Cesar and Michael, stengthened the 'Bow and Arrow' concpet with an extra tent pole, purchashed a small RC Boat and attached to the 'Bow' 
+- Stengthened the 'Bow and Arrow' concpet with an extra tent pole, purchashed a small RC Boat and attached to the 'Bow' 
 - Tested at the beach. Video results below. 
 
 <a href="https://www.youtube.com/watch?v=g0wsQ2PKoyQ&feature=youtu.b
