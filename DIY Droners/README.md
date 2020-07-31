@@ -3,34 +3,30 @@
 
 
 ## Electronics: Hardware Team 
-### Sanjeew, Priyank, Abhi, Naman
+### Sanjeew, Priyank, Abhi
 
-- Place holder text
-- Place holder text
+- Working on reassembling robot 
 
 ## Electronics: Rpi and Camera Team 
 ### Michael T, Justin, Shraa, Ken, Kimberly
 
-- Place holder text
-- Place holder text
+- Exploring FPV options 
 
 ## Navigation Software Team 
- ### Sanjeew, Priyank, Abhi, 
- 
-- Place holder text
-- Place holder text
+ ### Sanjeew, Priyank, Abhi, Naman
 
-## A.I and Software Team: Rpi and Camera Team 
+-Reading up on mission planner 
+
+## A.I and Software Team
  ### Sanjeew, Priyank, Abhi, 
  
-- Place holder text
-- Place holder text
+- Building different models to detect corals
 
 ## Biology Team 
-### Natasha, Sabrina, Joan, Vincent, Christy
+### Natasha, Sabrina, Joan, Christy
 
-- Place holder text
-- Place holder text
+- Annotating images from Hoi Ha
+- Reaserching methods to clean up images using opencv and photoshop
 
 ## Mechanical Team 
 ### Brad, Paul, Duy, Michael OB, Cesar 
