@@ -35,10 +35,9 @@
 ## Biology Team 
 ### Natasha, Sabrina, Joan, Christy
 
-- Natasha add here 
-- Sabrina add here 
-- Joan add here 
-- Christy add here 
+- Annotate Images from Hoi Ha Wan (https://drive.google.com/folderview?id=1gkco2yOEm4JkPtcFdpVCiSaYDRPZKJFK) 
+- Research more on the best ways to clean up images using photoshop and other softwares
+- Link to notes from Maxine Coral Specialist Session (https://github.com/MakerBay/Coral_Reef_Mapping_Drone/tree/master/6_Biology) 
 
 ## Mechanical Team 
 ### Brad, Duy, Michael OB, Cesar 
