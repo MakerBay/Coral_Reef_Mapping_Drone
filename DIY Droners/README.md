@@ -1,4 +1,59 @@
 
+# DIY Droners 01 August 2020: 
+
+
+## Electronics: Hardware Team 
+### Sanjeew, Priyank, Abhi
+
+- Sanjeew add here 
+- Priyank add here 
+- Abhi add here 
+
+## Electronics: Rpi and Camera Team 
+### Michael T, Justin, Shraa, Ken, Kimberly
+
+- Michael T add here
+
+## Navigation Software Team 
+ ### Sanjeew, Priyank, Abhi, Naman, Simran 
+
+- Sanjeew add here 
+- Priyank add here 
+- Abhi add here 
+- Naman add here 
+
+
+## A.I and Software Team
+ ### Sanjeew, Priyank, Abhi, Simran
+ 
+- Priyank add here 
+- Sanjeew add here 
+- Abhi  add here 
+- Simran add here 
+ 
+
+## Biology Team 
+### Natasha, Sabrina, Joan, Christy
+
+- Natasha add here 
+- Sabrina add here 
+- Joan add here 
+- Christy add here 
+
+## Mechanical Team 
+### Brad, Duy, Michael OB, Cesar 
+
+- Michael OB will add here after test of new platform 
+- Duy Add here- please add some 
+- Cesar will add here after test of new platform 
+
+
+
+
+
+
+
+
 # DIY Droners 25 July 2020: 
 
 
