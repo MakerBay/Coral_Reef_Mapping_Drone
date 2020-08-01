@@ -39,16 +39,20 @@
 - Annotate Images from Hoi Ha Wan (https://drive.google.com/folderview?id=1gkco2yOEm4JkPtcFdpVCiSaYDRPZKJFK) 
 - Research more on the best ways to clean up images using photoshop and other softwares
 - Link to notes from Maxine Coral Specialist Session (https://github.com/MakerBay/Coral_Reef_Mapping_Drone/tree/master/6_Biology) 
+- Experimenting with Photoshop and Lightroom for color correction of HHW images 
+- Basically the goal is try to remove excess green in HK coral images
+
 
 ## Mechanical Team 
-### Brad, Duy, Michael OB, Cesar 
+### Brad, Paul, Duy, Michael OB, Cesar 
 
-- Michael OB will add here after test of new platform 
-- Duy Add here- please add some 
-- Cesar will add here after test of new platform 
+- Michael OB will add here after test of new platform (image below)
+- Duy Add here- please add some more images of you CAD work of the fin, and anything else you have to add 
+- Cesar will add here after test of new platform (image below)
 
 
 
+<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2001%20August%202020/Brad%20circle%20sketch.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2001%20August%202020/Duy%20cad%20image.jpeg" width=400>
 
 
 
