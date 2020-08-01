@@ -12,7 +12,8 @@
 ## Electronics: Rpi and Camera Team 
 ### Michael T, Justin, Shraa, Ken, Kimberly
 
-- Michael T add here
+- No Update
+- Justin, Shraa, Ken, Kimberly now under HKOY team
 
 ## Navigation Software Team 
  ### Sanjeew, Priyank, Abhi, Naman, Simran 
@@ -30,7 +31,7 @@
 - Sanjeew add here 
 - Abhi  add here 
 - Simran add here 
- 
+- Michael: draw comparisons for different image enhancement models: https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration
 
 ## Biology Team 
 ### Natasha, Sabrina, Joan, Christy
