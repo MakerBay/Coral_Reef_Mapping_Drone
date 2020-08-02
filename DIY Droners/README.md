@@ -5,7 +5,7 @@
 ## Electronics: Hardware Team 
 ### Sanjeew, Priyank, Abhi
 
-- Sanjeew add here 
+- Sanjeew add here
 - Priyank add here 
 - Abhi add here 
 
@@ -18,19 +18,13 @@
 ## Navigation Software Team 
  ### Sanjeew, Priyank, Abhi, Naman, Simran 
 
-- Sanjeew add here 
-- Priyank add here 
-- Abhi add here 
-- Naman add here 
-
+- Work on simulations
 
 ## A.I and Software Team
  ### Sanjeew, Priyank, Abhi, Simran
- 
-- Priyank add here 
-- Sanjeew add here 
-- Abhi  add here 
-- Simran add here 
+
+- Try different models
+- Test photo stitching software
 - Michael: draw comparisons for different image enhancement models: https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration
 
 ## Biology Team 
