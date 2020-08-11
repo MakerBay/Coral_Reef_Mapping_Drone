@@ -1,13 +1,44 @@
 
+# DIY Droners 08 August 2020: 
+
+
+## Electronics: Hardware Team 
+### Sanjeew, Priyank, Abhi
+
+- Wiring diagram started
+
+## Electronics: Rpi and Camera Team 
+### Michael T, Justin, Shraa, Ken, Kimberly
+
+- FPV system ordered
+
+## Navigation Software Team 
+ ### Sanjeew, Priyank, Abhi, Naman, Simran 
+
+- Reinstalling firmaware (https://ardupilot.org/rover/) and setup pixhawk.
+
+## A.I and Software Team
+ ### Sanjeew, Priyank, Abhi, Simran
+
+- Michael: draw comparisons for different image enhancement models: https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration
+
+## Biology Team 
+### Natasha, Sabrina, Joan, Christy
+
+- Annotate Images from Hoi Ha Wan (https://drive.google.com/folderview?id=1gkco2yOEm4JkPtcFdpVCiSaYDRPZKJFK) 
+- Research more on the best ways to clean up images using photoshop and other softwares
+
+## Mechanical Team 
+### Brad, Paul, Duy, Michael OB, Cesar 
+- Design and test of 'Delta Force' model (https://makerbay.net/coral-reef-mapping-robot_delta-force/)
+
 # DIY Droners 01 August 2020: 
 
 
 ## Electronics: Hardware Team 
 ### Sanjeew, Priyank, Abhi
 
-- Sanjeew add here
-- Priyank add here 
-- Abhi add here 
+- Remove components from robot frame 
 
 ## Electronics: Rpi and Camera Team 
 ### Michael T, Justin, Shraa, Ken, Kimberly
