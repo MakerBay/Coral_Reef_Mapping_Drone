@@ -22,3 +22,29 @@
 "image" is the name of the photo 
 * "10000" is in miliseconds so 10000 is 10 seconds
 * "video.h264" is the name of the video
+
+# Editing Photos in Lightroom
+
+### How to Edit Underwater Photos in Lightroom 
+* White Balancing the image 
+  * Using the White Balance Selector tool, estimate the ‘Temp’ and ‘Tint’ sliders to fine tube the image until it has a natural look without any colour cast
+* Correct the Exposure 
+  * Using the Exposure slider, adjust the individual light levels of the ‘highlights’, ‘shadows’, ‘whites’ and ‘blacks’ sliders
+* Colour Correction through HSL (general instructions)
+  * Since we are working with underwater images, use Blue, Aqua, purple and yellow mostly
+  * Saturate the blue and push Aqua closer to blue 
+  * Increase the hue of the aqua, yellow and green channels
+  * Decrease it in the blue purple channels 
+  * Adjust luminescence of each colour depending on the photo itself
+* Manual Cleanup (This step is optional as it isn’t recommended to have brush tools inserted into Batch edits)
+  * Make local adjustments such as using a radial filter to create a focus on the desired area of the image 
+  * Make further adjustments such sharpening it 
+* Export final image
+  * It is important to note that all these individual specific steps are dependable on the image itself
+  
+### How to Batch Edit Photos in Lightroom 
+* Highlight the photo which contains all the edits that you want to apply to the other images
+* Select the multiple photos you want to edit as well and sync the changes (Settings —> Sync Settings)
+* Check the settings you want to sync and enter 
+* Changes should now be applied to all photos selected 
+
