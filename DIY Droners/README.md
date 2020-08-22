@@ -1,4 +1,80 @@
 
+# DIY Droners 22 August 2020: 
+
+
+## Electronics: Hardware Team 
+### Sanjeew, Priyank, Abhi
+
+
+
+## Electronics: Rpi and Camera Team 
+### Michael T, Justin, Shraa, Ken, Kimberly
+
+
+
+## Navigation Software Team 
+ ### Sanjeew, Priyank, Abhi, Naman, Simran 
+
+.
+
+## A.I and Software Team
+ ### Sanjeew, Priyank, Abhi, Simran
+
+
+
+## Biology Team 
+### Natasha, Sabrina, Joan, Christy
+
+
+
+## Mechanical Team 
+### Aidina, Rama, Brad, Duy, Michael OB, Cesar 
+- Aidina and Rama developing "scissor" idea 
+
+
+
+
+
+# DIY Droners 15 August 2020: 
+
+
+## Electronics: Hardware Team 
+### Sanjeew, Priyank, Abhi
+
+
+
+## Electronics: Rpi and Camera Team 
+### Michael T, Justin, Shraa, Ken, Kimberly
+
+
+
+## Navigation Software Team 
+ ### Sanjeew, Priyank, Abhi, Naman, Simran 
+
+.
+
+## A.I and Software Team
+ ### Sanjeew, Priyank, Abhi, Simran
+
+
+
+## Biology Team 
+### Natasha, Sabrina, Joan, Christy
+
+
+
+## Mechanical Team 
+### Aidina, Rama, Brad, Duy, Michael OB, Cesar 
+
+
+
+
+
+
+
+
+
+
 # DIY Droners 08 August 2020: 
 
 
