@@ -59,3 +59,42 @@ We have also uploaded the testing video in YouTube, where people can easily get 
 ## Things to Improve
 * The shape will be hard to carry if the size increases
 * The shape still has a lot of flexibility, which can be unacceptable when the bigger waves coming
+
+
+# Ladder Shape
+To further simplify the triangle shape, we consider the ladder shape. Here is the illustration of the shape.
+![Ladder Shape Sketch](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Ladder/Ladder%20Sketch.JPG)
+
+By using an alumunium pipe, we create a collapsable ladder shape, the overall prototype looks like this.
+![Ladder Shape Assemble](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Ladder/Ladder%20Assemble.jpg)
+
+## Videos
+We have also uploaded the testing video in YouTube, where people can easily get access to it. Here is the video.
+[![Ladder shape testing](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Video%20Screenshot/Ladder.JPG)](https://www.youtube.com/watch?v=5pk2QncF_Y4)
+
+## Good things
+* Simpler shape than last prototype
+* Similar package size with the last triangle shape after the width increase to 5 metres
+
+## Things to Improve
+* Connection need to be stronger, one of the propeller didn't work
+* Need to further reduce the size
+
+
+# Scissor Shape
+After the last test, we need some shape that even more collapsable. This inspiration comes from scissor mechanics and we decide to illustrate it with wooden stick. Here is the illustration of the shape.
+![Scissor Shape Illustration](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Scissor/Scissor%20Inspiration.png)
+
+By using an alumunium pipe, we create a collapsable scissor shape, the overall prototype looks like this.
+![Scissor Shape Assemble](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Scissor/Scissor%20Assemble.jpg)
+
+Before we did the final test, we had a test in the local beach to make sure every components is working fine.
+![Scissor Shape Test](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Scissor/Scissor%20Beach%20Test.jpg)
+
+## Good things
+* Significantly more compact structure
+* Boat is uniformly manufactured
+
+## Things to Improve
+* Weight of the boat
+* Might want to look for different materials option
