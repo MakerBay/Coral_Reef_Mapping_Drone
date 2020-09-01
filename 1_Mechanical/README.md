@@ -14,6 +14,7 @@ We are considering a new assembly of the drone, looking like this:
 Drawing
 ---
 This is the illustration of Version 1.0. 
+
 ![1.0](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/V1/Drawing.JPG)
 
 Prototyping
@@ -28,7 +29,7 @@ We have also uploaded the testing video in YouTube, where people can easily get 
 [![1.0 Test](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Video%20Screenshot/V1.JPG)](https://www.youtube.com/watch?v=qmXehnyCjJo)
 
 ---
----
+
 
 
 # Version 2.0
@@ -54,6 +55,8 @@ We have also uploaded the testing video in YouTube, where people can easily get 
 
 ## Things to Improve
 
+---
+
 
 # Full-Circle Shape
 As a continuation of the last version progress, we consider to double the shape into the full-circle shape. Here is the illustration of the shape.
@@ -70,7 +73,7 @@ We have also uploaded the testing video in YouTube, where people can easily get 
 
 ## Things to Improve
 
-
+---
 
 # Triangle Shape
 Our next prototype is having a triangle shape, where the brain is located at the middle and two propellers in the left and right boat. In this prototype, we use the collapsable camping pole, which makes the distance between the two sides around 1.8 metres. Here is the illustration of the shape.
@@ -89,6 +92,7 @@ We have also uploaded the testing video in YouTube, where people can easily get 
 * The shape will be hard to carry if the size increases
 * The shape still has a lot of flexibility, which can be unacceptable when the bigger waves coming
 
+---
 
 # Ladder Shape
 To further simplify the triangle shape, we consider the ladder shape. In this ladder shape, we tried to implement the real-scale prototype, which is 5 metres in width. Here is the illustration of the shape.
@@ -109,6 +113,7 @@ We have also uploaded the testing video in YouTube, where people can easily get 
 * Connection need to be stronger, one of the propeller didn't work
 * Need to further reduce the size
 
+---
 
 # Scissor Shape
 After the last test, we need some shape that even more collapsable. This inspiration comes from scissor mechanics and we decide to illustrate it with wooden stick. Here is the illustration of the shape.
