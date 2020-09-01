@@ -85,16 +85,25 @@ We have also uploaded the testing video in YouTube, where people can easily get 
 After the last test, we need some shape that even more collapsable. This inspiration comes from scissor mechanics and we decide to illustrate it with wooden stick. Here is the illustration of the shape.
 ![Scissor Shape Illustration](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Scissor/Scissor%20Inspiration.png)
 
-By using an alumunium pipe, we create a collapsable scissor shape, the overall prototype looks like this.
+By using an alumunium pipe, we create a collapsable scissor shape. The boat is once again made of styrofoam and wood. However, this time we decide to use a thicker wood. The overall prototype looks like this.
 ![Scissor Shape Assemble](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Scissor/Scissor%20Assemble.jpg)
 
 Before we did the final test, we had a test in the local beach to make sure every components is working fine.
 ![Scissor Shape Test](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Scissor/Scissor%20Beach%20Test.jpg)
 
+# Videos
+Here are some videos from the Hoi Ha Wan Final test.
+
 ## Good things
 * Significantly more compact structure
 * Boat is uniformly manufactured
+* Visibility is good
+* Batteries lasted great for thrusters and cameras
+* Two or three prototype away from minimum viable product
 
 ## Things to Improve
 * Weight of the boat
 * Might want to look for different materials option
+* Scissors consider to be too flexible
+* Nuts and bolts are falling off, might want to search for connectors alternatives
+* Waterproofing technique
