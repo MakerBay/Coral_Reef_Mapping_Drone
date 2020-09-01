@@ -24,8 +24,11 @@ Prototyping
 
 Testing
 ---
+We have also uploaded the testing video in YouTube, where people can easily get access to it. Here is the video.
+[![1.0 Test](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Video%20Screenshot/V1.JPG)](https://www.youtube.com/watch?v=qmXehnyCjJo)
 
-
+---
+---
 
 
 # Version 2.0
