@@ -10,6 +10,32 @@ We are considering a new assembly of the drone, looking like this:
 * Better buoyancy at the back
 
 
+# Version 1.0
+Drawing
+---
+This is the illustration of Version 1.0. 
+![1.0](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/V1/Drawing.JPG)
+
+Prototyping
+---
+<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/V1/Sketch.jpg" height=320>   <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/V1/V1.jpeg" height=320>
+
+![Prototype+Drawing](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/V1/Complete.jpg)
+
+Testing
+---
+
+
+
+
+# Version 2.0
+This is the illustration of Version 2.0 in CAD. 
+![2.0 CAD](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Realease%202.0%20CAD%20assembly%20Screenshot.JPG)
+
+Overall Look and Testing
+---
+<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2020%20June%202020/1.1.jpg" height=300>   <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2013%20June/IMG_20200613_181337.jpg" height=300>
+
 # Half-Circle Shape
 Inspired by a bow and arrow shape, we consider the half circle shape. Here is the illustration of the shape.
 ![Half-Circle Shape Sketch](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Half%20Circle/Half%20Circle%20Sketch.jpg)
@@ -44,7 +70,7 @@ We have also uploaded the testing video in YouTube, where people can easily get 
 
 
 # Triangle Shape
-Our next prototype is having a triangle shape, where the brain is located at the middle and two propellers in the left and right boat. Here is the illustration of the shape.
+Our next prototype is having a triangle shape, where the brain is located at the middle and two propellers in the left and right boat. In this prototype, we use the collapsable camping pole, which makes the distance between the two sides around 1.8 metres. Here is the illustration of the shape.
 ![Triangle Shape Sketch](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Triangle/Triangle%20Sketch.jpg)
 
 
@@ -62,10 +88,10 @@ We have also uploaded the testing video in YouTube, where people can easily get 
 
 
 # Ladder Shape
-To further simplify the triangle shape, we consider the ladder shape. Here is the illustration of the shape.
+To further simplify the triangle shape, we consider the ladder shape. In this ladder shape, we tried to implement the real-scale prototype, which is 5 metres in width. Here is the illustration of the shape.
 ![Ladder Shape Sketch](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Ladder/Ladder%20Sketch.JPG)
 
-By using an alumunium pipe, we create a collapsable ladder shape, the overall prototype looks like this.
+By using an alumunium pipe, we create a collapsable ladder shape. With the ladder method, the longest tube we need to carry is about 1.4 metres. The overall prototype looks like this.
 ![Ladder Shape Assemble](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Ladder/Ladder%20Assemble.jpg)
 
 ## Videos
