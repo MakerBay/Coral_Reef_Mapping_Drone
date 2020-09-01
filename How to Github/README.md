@@ -80,4 +80,12 @@ alt="MAKERBAY DIY DRONER VIDEO" width="300" height="180" border="10" /></a>
 ![Bow and Camera](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Bow-and-camera-arrows.jpg)
 
 # with sizing requirement
-*
+* large size
+<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Coral%20Bot%20Team.jpeg" width=600>
+
+* medium size
+<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Coral%20Bot%20Team.jpeg" width=400>
+
+## Testing for video
+[![Coral Reed Mapping Robot](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Screenshot%20Coral%20Reef%20Makerbay.JPG)](https://www.youtube.com/watch?v=mx4KxE6xEQM&t=12s)
+
