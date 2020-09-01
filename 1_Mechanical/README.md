@@ -35,6 +35,7 @@ We have also uploaded the testing video in YouTube, where people can easily get 
 
 # Version 2.0
 This is the illustration of Version 2.0 in CAD. 
+
 ![2.0 CAD](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Realease%202.0%20CAD%20assembly%20Screenshot.JPG)
 
 Overall Look and Testing
