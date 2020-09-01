@@ -63,3 +63,21 @@
 alt="MAKERBAY DIY DRONER VIDEO" width="300" height="180" border="10" /></a>
 
 
+# This is Rama testing
+# Largest size text
+## Large size
+### Medium size
+#### Small size
+
+**Bold text**
+* a dot 
+
+## Testing for link 
+[image collection](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/tree/master/Wiki/images)
+
+## Testing for image
+# no sizing requirement 
+![Bow and Camera](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Bow-and-camera-arrows.jpg)
+
+# with sizing requirement
+*
