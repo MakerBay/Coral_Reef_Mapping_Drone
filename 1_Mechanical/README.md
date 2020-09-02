@@ -38,6 +38,7 @@ This is the illustration of Version 2.0 in CAD.
 
 ![2.0 CAD](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Realease%202.0%20CAD%20assembly%20Screenshot.JPG)
 
+
 Compared to Version 1.0
 ---
 <div align="center">
@@ -51,7 +52,7 @@ Overall Look and Testing
 <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2020%20June%202020/1.1.jpg" height=300>   <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2013%20June/IMG_20200613_181337.jpg" height=300>
  </div>
 
-# Half-Circle Shape
+# "Bow and Arrow" (Half-Circle Shape)
 Inspired by a bow and arrow shape, we consider the half circle shape. Here is the illustration of the shape.
 
 ![Half-Circle Shape Sketch](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Half%20Circle/Half%20Circle%20Sketch.jpg)
@@ -72,7 +73,7 @@ We have also uploaded the testing video in YouTube, where people can easily get 
 ---
 
 
-# Full-Circle Shape
+# "Dreamcatcher" (Full-Circle Shape)
 As a continuation of the last version progress, we consider to double the shape into the full-circle shape. Here is the illustration of the shape.
 
 ![Full-Circle Shape Sketch](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Full%20Circle/Full%20Circle%20Sketch.JPG)
@@ -91,7 +92,7 @@ We have also uploaded the testing video in YouTube, where people can easily get 
 
 ---
 
-# Triangle Shape
+# "Delta Force" (Triangle Shape)
 Our next prototype is having a triangle shape, where the brain is located at the middle and two propellers in the left and right boat. In this prototype, we use the collapsable camping pole, which makes the distance between the two sides around 1.8 metres. Here is the illustration of the shape.
 
 <div align="center">
@@ -113,7 +114,7 @@ We have also uploaded the testing video in YouTube, where people can easily get 
 
 ---
 
-# Ladder Shape
+# "V-Ladder"
 To further simplify the triangle shape, we consider the ladder shape. In this ladder shape, we tried to implement the real-scale prototype, which is 5 metres in width. Here is the illustration of the shape.
 
 <div align="center">
