@@ -33,10 +33,12 @@ As more insight was brought to the project, it was concluded to use 5 cameras in
 
 # Assembly diagram 
 The diagrams show how the electronic components were allocated on the boats. The diagram only shows components placement without pin numbers or wirings. 
+
 <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/Electronic%20assembly1.png" width=400> <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/Electronic%20assemblybottom.png" width=400>
 
 # Connection diagram 
 The diagram shows the connections to be made between components to make everything functionable. It includes all the components that we have used in this version 
+
 <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/Electronic%20connections.png" width=400>
 
 # Radio controller
@@ -47,6 +49,7 @@ Top right: down - manual mode
            middle - loiter mode (stay in one place) 
            up - auto mode (start waypoint mission) 
 Other two do not affect anything
+
 <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/radio_controller_front.jpeg" width = 400> <img src= "https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/radio_controller_top.jpeg" width = 400>
 
 # Further improvements
