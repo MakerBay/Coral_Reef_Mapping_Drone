@@ -33,7 +33,7 @@ We have also uploaded the testing video in YouTube, where people can easily get 
 # Version 2.0
 This is the illustration of Version 2.0. 
 
-![2.0](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/V1/Drawing.JPG)
+![2.0](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Drawing.JPG)
 
 
 This is the illustration of Version 2.0 in CAD. 
