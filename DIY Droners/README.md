@@ -22,6 +22,12 @@
 - Scissor shape maybe too flexible, too much buoyancy, not stable enough
 - GPS accuracy: overlap between cameras coverage
 
+## Some documentations from the site
+<div align="center">
+<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Scissor/Packaging.jpg" width="400"> <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Scissor/Setting%20Up%20in%20the%20Pier.jpg" width="400"> 
+</div>
+
+
 ### Full Team Photo 
 ![Full Team Photo](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Coral%20Bot%20Team.jpeg)
 
