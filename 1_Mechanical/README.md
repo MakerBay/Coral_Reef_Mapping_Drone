@@ -135,7 +135,7 @@ We have also uploaded the testing video in YouTube, where people can easily get 
 * Connection need to be stronger, one of the propeller didn't work
 * Need to further reduce the size
 
----
+--- 
 
 # Scissor Shape
 After the last test, we need some shape that even more collapsable. This inspiration comes from scissor mechanics and we decide to illustrate it with wooden stick. Here is the illustration of the shape.
