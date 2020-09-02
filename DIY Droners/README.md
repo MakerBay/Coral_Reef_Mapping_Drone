@@ -1,5 +1,13 @@
 
-# DIY Droners 22 August 2020: 
+# DIY Droners 30 August 2020: 
+## Hoi Ha Wan Beach Test
+
+
+# DIY Droners 28 August 2020: 
+
+
+
+# DIY Droners 17-29 August 2020: 
 
 
 ## Electronics: Hardware Team 
@@ -31,6 +39,7 @@
 ### Aidina, Rama, Brad, Duy, Michael OB, Cesar 
 - Aidina and Rama developing "scissor" idea 
 
+<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Scissor/Scissor%20Inspiration.png" height=320>   <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Scissor/Scissor%20Assemble.jpg.jpeg" height=320>
 
 
 
@@ -66,9 +75,7 @@
 ## Mechanical Team 
 ### Aidina, Rama, Brad, Duy, Michael OB, Cesar 
 
-
-
-
+- Develop and design the ladder shape of the robot (https://makerbay.net/v-ladder-coral-reef-mapping-robot/)
 
 
 
