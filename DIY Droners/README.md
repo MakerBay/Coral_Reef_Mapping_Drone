@@ -29,7 +29,8 @@
 # DIY Droners 28 August 2020: 
 
 ## Local Beach Test 
-- https://drive.google.com/drive/u/6/folders/1dV1poCPlWb6TXahxzouH6gvj5lPo6WW3
+- Photos and video for the test: 
+>> https://drive.google.com/drive/u/6/folders/1dV1poCPlWb6TXahxzouH6gvj5lPo6WW3
 
 
 ## Electronics: Hardware Team 
@@ -126,7 +127,9 @@
 
 - Develop and design the ladder shape of the robot (https://makerbay.net/v-ladder-coral-reef-mapping-robot/)
 
+- YouTube video available here.
 
+[![Ladder shape testing](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Video%20Screenshot/Ladder.JPG)](https://www.youtube.com/watch?v=5pk2QncF_Y4)
 
 
 
@@ -163,6 +166,10 @@
 ## Mechanical Team 
 ### Brad, Paul, Duy, Michael OB, Cesar 
 - Design and test of 'Delta Force' model (https://makerbay.net/coral-reef-mapping-robot_delta-force/)
+
+- YouTube video available here.
+
+[![Full-circle shape testing](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Video%20Screenshot/Triangle.JPG)](https://www.youtube.com/watch?v=mx4KxE6xEQM&t=12s)
 
 # DIY Droners 01 August 2020: 
 
@@ -208,12 +215,16 @@
 - Cesar will add here after test of new platform (image below)
 
 
+<div align="center">
+<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Full%20Circle/Full%20Circle%20Sketch.JPG" width="800">  
+ 
+<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2001%20August%202020/Duy%20cad%20image.jpeg" width="800">
 
-<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2001%20August%202020/Brad%20circle%20sketch.JPG" width=400>  <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2001%20August%202020/Duy%20cad%20image.jpeg" width=400>
 
-
-
-
+<a href="https://www.youtube.com/watch?v=g0wsQ2PKoyQ
+" target="_blank"><img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Video%20Screenshot/Full%20Cirle.JPG" 
+alt="DREAMCATCHER" width="800"/></a>
+</div>
 
 # DIY Droners 25 July 2020: 
 
