@@ -39,12 +39,16 @@ This is the illustration of Version 2.0 in CAD.
 
 Compared to Version 1.0
 ---
-<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/V1/Complete.jpg" height=640>   
-
+<div align="center">
+<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/V1/Complete.jpg" height=640>  
+  <p> Design comparison between the Version 1.0 and 2.0 </p>
+</div>
 
 Overall Look and Testing
 ---
+<div align="center">
 <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2020%20June%202020/1.1.jpg" height=300>   <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/DIY%20Droners%2013%20June/IMG_20200613_181337.jpg" height=300>
+ </div>
 
 # Half-Circle Shape
 Inspired by a bow and arrow shape, we consider the half circle shape. Here is the illustration of the shape.
@@ -148,6 +152,8 @@ Before we did the final test, we had a test in the local beach to make sure ever
 ![Scissor Shape Test](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Scissor/Scissor%20Beach%20Test.jpg)
 
 # Videos
+Here is the video of the local beach test (https://drive.google.com/drive/u/6/folders/1dV1poCPlWb6TXahxzouH6gvj5lPo6WW3)
+
 Here are some videos from the Hoi Ha Wan Final test.
 
 ## Good things
