@@ -1,6 +1,11 @@
 
 # DIY Droners 30 August 2020 (Hoi Ha Wan Beach Test): 
 
+## Brad, Rama, Duy, Michael T, Aidina
+- Transport the robot to Hoi Ha Wan (Michael T drove)
+- Set up the robot in the pier
+
+
 ## Debrief of Field Trip
 ### What Went Well
 - Weather and visibility are good
@@ -22,6 +27,10 @@
 
 
 # DIY Droners 28 August 2020: 
+
+## Local Beach Test 
+- https://drive.google.com/drive/u/6/folders/1dV1poCPlWb6TXahxzouH6gvj5lPo6WW3
+
 
 ## Electronics: Hardware Team 
 ### Sanjeew, Priyank, Abhi
