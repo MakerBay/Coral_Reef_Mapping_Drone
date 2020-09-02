@@ -11,11 +11,6 @@ We are considering a new assembly of the drone, looking like this:
 
 
 # Version 1.0
-Drawing
----
-This is the illustration of Version 1.0. 
-
-![1.0](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/V1/Drawing.JPG)
 
 Prototyping
 ---
@@ -34,6 +29,10 @@ We have also uploaded the testing video in YouTube, where people can easily get 
 
 
 # Version 2.0
+This is the illustration of Version 2.0. 
+
+![2.0](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/V1/Drawing.JPG)
+
 This is the illustration of Version 2.0 in CAD. 
 
 ![2.0 CAD](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Realease%202.0%20CAD%20assembly%20Screenshot.JPG)
