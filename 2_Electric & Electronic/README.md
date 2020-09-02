@@ -36,5 +36,22 @@ The diagrams show how the electronic components were allocated on the boats. The
 <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/Electronic%20assembly1.png" width=400> <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/Electronic%20assemblybottom.png" width=400>
 
 # Connection diagram 
-The diagram shows the connections and wirings to be made 
+The diagram shows the connections to be made between components to make everything functionable. It includes all the components that we have used in this version 
+<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/Electronic%20connections.png" width=400>
+
+# Radio controller
+Controller has 4 arms at the top that need to be set properly to be able to control the thrusters. 
+Bottom left: down - unarmed (not ready to use)
+              up - armed (ready to use) 
+Top right: down - manual mode 
+           middle - loiter mode (stay in one place) 
+           up - auto mode (start waypoint mission) 
+Other two do not affect anything
+<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/radio_controller_front.jpeg" width = 400> <img src= "https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/radio_controller_top.jpeg" width = 400>
+
+# Further improvements
+1. More neat and efficient wiring - use waterproof connectors that can be opened/closed easily 
+2. Add and connect telemetry
+3. Add component specifications
+
 
