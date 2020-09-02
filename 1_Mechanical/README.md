@@ -117,7 +117,7 @@ We have also uploaded the testing video in YouTube, where people can easily get 
 To further simplify the triangle shape, we consider the ladder shape. In this ladder shape, we tried to implement the real-scale prototype, which is 5 metres in width. Here is the illustration of the shape.
 
 <div align="center">
-![Ladder Shape Sketch](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Ladder/Ladder%20Sketch.JPG)
+<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Ladder/Ladder%20Sketch.JPG" height=700>
 </div>
 
 
