@@ -53,7 +53,8 @@ Other two do not affect anything
 <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/radio_controller_front.jpeg" width = 400> <img src= "https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/radio_controller_top.jpeg" width = 400>
 
 # Video explanation and demonstration 
-![Electrical Assembly](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/eletronics_video.jpg)(https://www.youtube.com/watch?v=VI-w2Kh_qkE&feature=youtu.be)
+
+[![Electrical Assembly](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/eletronics_video.jpg)](https://www.youtube.com/watch?v=VI-w2Kh_qkE&feature=youtu.be)
 
 # Further improvements
 1. More neat and efficient wiring - use waterproof connectors that can be opened/closed easily 
