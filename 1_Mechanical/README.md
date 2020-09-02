@@ -11,12 +11,17 @@ We are considering a new assembly of the drone, looking like this:
 
 
 # Version 1.0
+Drawing
+---
+This is the illustration of Version 1.0. 
+
+![1.0](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/V1/Drawing.JPG)
 
 Prototyping
 ---
 <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/V1/Sketch.jpg" height=320>   <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/V1/V1.jpeg" height=320>
 
-
+![Prototype+Drawing](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/V1/Complete.jpg)
 
 Testing
 ---
@@ -29,21 +34,9 @@ We have also uploaded the testing video in YouTube, where people can easily get 
 
 
 # Version 2.0
-
-Drawing
----
-This is the illustration of Version 1.0. 
-
-![1.0](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/V1/Drawing.JPG)
-
 This is the illustration of Version 2.0 in CAD. 
 
 ![2.0 CAD](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Realease%202.0%20CAD%20assembly%20Screenshot.JPG)
-
-Compared to the Version 1.0
----
-
-![Prototype+Drawing](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/V1/Complete.jpg)
 
 Overall Look and Testing
 ---
@@ -154,14 +147,14 @@ Before we did the final test, we had a test in the local beach to make sure ever
 Here are some videos from the Hoi Ha Wan Final test.
 
 ## Good things
-* Significantly more compact structure
+* Significantly more compact structure compared to the ladder design
 * Boat is uniformly manufactured
 * Visibility is good
 * Batteries lasted great for thrusters and cameras
 * Two or three prototype away from minimum viable product
 
 ## Things to Improve
-* Weight of the boat
+* Weight of the boat is too heavy
 * Might want to look for different materials option
 * Scissors consider to be too flexible
 * Nuts and bolts are falling off, might want to search for connectors alternatives
