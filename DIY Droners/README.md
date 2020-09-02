@@ -39,7 +39,7 @@
 ### Aidina, Rama, Brad, Duy, Michael OB, Cesar 
 - Aidina and Rama developing "scissor" idea 
 
-<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Scissor/Scissor%20Inspiration.png" height=320>   <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Scissor/Scissor%20Assemble.jpg.jpeg" height=320>
+<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Scissor/Scissor%20Inspiration.png" height=340>   <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Scissor/Scissor%20Assemble.jpg" height=340>
 
 
 
