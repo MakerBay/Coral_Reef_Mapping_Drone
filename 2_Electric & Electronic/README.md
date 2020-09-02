@@ -1,6 +1,7 @@
 # Description
 This folder contains the specifications of the Drone's electronic  & electrical hardware.
 We chose to present the electrical assembly as a diagram, in order to facilitate understanding. A PDF file with annotated pictures is also available in this folder.
+# v2.0
 # New assembly
 We working on a new assembly, allowing to put batteries in the bottom, for a more stable drone. Here's what it looks like
 ![New assembly](New-Assembly.png)
@@ -18,6 +19,17 @@ This diagram shows the main function of the drone, with the
 # Video of Electrical Assembly
 
 [![Electrical Assembly](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/20200422%20Coral%20Reef%20Mapping%20Drone%20V2%20Prototype.JPG)](https://www.youtube.com/watch?v=2fxCnrwdv6g&t=5s)
+
+# Electronics description for 'Scissors' version 
+Following part describes how electronic and electrical asembly was designed for the last version 'Scissors'. Both photos from the final product and its schematic drawings can be found to facilitate understanding. This part doesn't include Raspberry Pi and camera tilt. 
+
+# From single camera to multiple 
+As more insight was brought to the project, it was concluded to use 5 cameras instead of just 1. Hence, instead of using Raspbryy camera, in this design we use 5 GoPro cameras located at the bottom of each boat which are not connected to Raspberry Pi and the whole system in general. 
+
+# Assembly diagram 
+The diagram shows how the electornic components were allocated on the boat. Below is the real photo of the product with wires and cables. 
+[!Assembly diagram top](Electronic assembly1.png)
+[!Assembly diagram bottom] (Electronic assemblybottom.png)
 
 # Future updates
 * List of components
