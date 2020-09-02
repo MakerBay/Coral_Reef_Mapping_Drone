@@ -261,9 +261,11 @@ alt="DREAMCATCHER" width="800"/></a>
 - Stengthened the 'Bow and Arrow' concpet with an extra tent pole, purchashed a small RC Boat and attached to the 'Bow' 
 - Tested at the beach. Video results below. 
 
+<div align="center">
 <a href="https://www.youtube.com/watch?v=g0wsQ2PKoyQ&feature=youtu.b
 " target="_blank"><img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/20200725%20Bow%20and%20Arrow%20Test%203.JPG" 
-alt="BOW AND ARROW TEST 3" width="400" height="250" border="10" /></a>
+alt="BOW AND ARROW TEST 3" width="800" border="10" /></a>
+</div>
 
 ### Main takeaways for next revision
 - Stronger telescopic poles to increase tension
