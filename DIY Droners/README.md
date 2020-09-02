@@ -368,6 +368,7 @@ alt="BOW AND ARROW TEST 3" width="800" border="10" /></a>
 # DIY Droners 27 June 2020
 
 [Link to Cesars Presentation](https://docs.google.com/presentation/d/1Gbi0aJ4Vl7JpxQnYKQ8d5tqMiQxHmllFJwHnoP3lXTk/edit#slide=id.g8a2d52cd2e_0_57)
+
 <img  src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/DIY%20Droners/Photos/Cesars%20Update.JPG" width=400>
 
 ## Electronics Team 
