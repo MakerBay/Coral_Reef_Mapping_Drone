@@ -1,6 +1,23 @@
 
-# DIY Droners 30 August 2020: 
-## Hoi Ha Wan Beach Test
+# DIY Droners 30 August 2020 (Hoi Ha Wan Beach Test): 
+
+## Debrief of Field Trip
+### What Went Well
+- Weather and visibility are good
+- Battery lasted great for thrusters and cameras
+- The scissors structure is relatively easy to pack
+- Maybe 2 or 3 prototype away from minimum viable products
+
+
+### Areas of Improvement / Problems / Concerns 
+- Issures with the controller at the beginning: Didn't work because the buttons are all reversed
+- Waterproofing techniques need to be upgraded, hot glue is great, but probably not reusable
+- Structural integrity is a concern: nuts and bolts are falling off
+- Boats are pretty heavy, especially when we carries 5 of them all together
+- Scissor shape maybe too flexible, too much buoyancy, not stable enough
+- GPS accuracy: overlap between cameras coverage
+
+
 
 
 # DIY Droners 28 August 2020: 
