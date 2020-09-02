@@ -148,8 +148,9 @@ After the last test, we need some shape that even more collapsable. This inspira
 
 By using an alumunium pipe, we create a collapsable scissor shape. The boat is once again made of styrofoam and wood. However, this time we decide to use a thicker wood. The overall prototype looks like this.
 
-![Scissor Shape Assemble](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Scissor/Scissor%20Assemble.jpg)
-
+<div align="center">
+<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Scissor/Scissor%20Assemble.jpg" height=1000>
+</div>
 
 Before we did the final test, we had a test in the local beach to make sure every components is working fine.
 
