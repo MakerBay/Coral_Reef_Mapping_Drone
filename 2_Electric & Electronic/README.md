@@ -32,9 +32,9 @@ Following part describes how electronic and electrical asembly was designed for 
 As more insight was brought to the project, it was concluded to use 5 cameras instead of just 1. Hence, instead of using Raspbryy camera, in this design we use 5 GoPro cameras located at the bottom of each boat which are not connected to Raspberry Pi and the whole system in general. 
 
 # Assembly diagram 
-The diagrams show how the electornic components were allocated on the boat. Below is the real photo of the product with wires and cables. 
+The diagrams show how the electronic components were allocated on the boats. The diagram only shows components placement without pin numbers or wirings. 
 <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/Electronic%20assembly1.png" width=400> <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/Electronic%20assemblybottom.png" width=400>
 
-
-
+# Connection diagram 
+The diagram shows the connections and wirings to be made 
 
