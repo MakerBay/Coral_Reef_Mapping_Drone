@@ -116,7 +116,9 @@ We have also uploaded the testing video in YouTube, where people can easily get 
 # Ladder Shape
 To further simplify the triangle shape, we consider the ladder shape. In this ladder shape, we tried to implement the real-scale prototype, which is 5 metres in width. Here is the illustration of the shape.
 
+<div align="center">
 ![Ladder Shape Sketch](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Ladder/Ladder%20Sketch.JPG)
+</div>
 
 
 By using an alumunium pipe, we create a collapsable ladder shape. With the ladder method, the longest tube we need to carry is about 1.4 metres. The overall prototype looks like this.
