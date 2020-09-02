@@ -14,8 +14,9 @@ We are considering a new assembly of the drone, looking like this:
 
 Prototyping
 ---
+<div align="center">
 <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/V1/Sketch.jpg" height=320>   <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/V1/V1.jpeg" height=320>
-
+</div>
 
 
 Testing
