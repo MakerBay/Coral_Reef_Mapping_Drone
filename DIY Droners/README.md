@@ -29,7 +29,7 @@
 # DIY Droners 28 August 2020: 
 
 ## Local Beach Test 
-- Photos and video for the test: 
+> Photos and video for the test: 
 >> https://drive.google.com/drive/u/6/folders/1dV1poCPlWb6TXahxzouH6gvj5lPo6WW3
 
 
