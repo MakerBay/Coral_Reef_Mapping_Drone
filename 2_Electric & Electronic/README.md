@@ -39,7 +39,7 @@ The diagrams show how the electronic components were allocated on the boats. The
 # Connection diagram 
 The diagram shows the connections to be made between components to make everything functionable. It includes all the components that we have used in this version 
 
-<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/Electronic%20connections.png" width=400>
+<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/Electronic%20connections.png" width=600>
 
 # Radio controller
 Controller has 4 arms at the top that need to be set properly to be able to control the thrusters. 
