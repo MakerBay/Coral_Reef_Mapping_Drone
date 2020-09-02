@@ -94,8 +94,9 @@ We have also uploaded the testing video in YouTube, where people can easily get 
 # Triangle Shape
 Our next prototype is having a triangle shape, where the brain is located at the middle and two propellers in the left and right boat. In this prototype, we use the collapsable camping pole, which makes the distance between the two sides around 1.8 metres. Here is the illustration of the shape.
 
-![Triangle Shape Sketch](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Triangle/Triangle%20Sketch.jpg)
-
+<div align="center">
+<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/Triangle/Triangle%20Sketch.jpg" height=700>
+</div>
 
 ## Videos
 We have also uploaded the testing video in YouTube, where people can easily get access to it. Here is the video.
