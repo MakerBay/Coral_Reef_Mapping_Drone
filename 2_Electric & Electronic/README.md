@@ -20,7 +20,12 @@ This diagram shows the main function of the drone, with the
 
 [![Electrical Assembly](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/20200422%20Coral%20Reef%20Mapping%20Drone%20V2%20Prototype.JPG)](https://www.youtube.com/watch?v=2fxCnrwdv6g&t=5s)
 
-# Electronics description for 'Scissors' version 
+# Future updates
+* List of components
+* Assembly instructions
+* Integration of the Raspberry Pi, the tilt controller and the camera
+
+# 'Scissors' version 
 Following part describes how electronic and electrical asembly was designed for the last version 'Scissors'. Both photos from the final product and its schematic drawings can be found to facilitate understanding. This part doesn't include Raspberry Pi and camera tilt. 
 
 # From single camera to multiple 
@@ -31,7 +36,4 @@ The diagram shows how the electornic components were allocated on the boat. Belo
 [!Assembly diagram top](Electronic assembly1.png)
 [!Assembly diagram bottom] (Electronic assemblybottom.png)
 
-# Future updates
-* List of components
-* Assembly instructions
-* Integration of the Raspberry Pi, the tilt controller and the camera
+
