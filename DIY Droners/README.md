@@ -19,9 +19,30 @@
 
 
 
-
 # DIY Droners 28 August 2020: 
 
+## Electronics: Hardware Team 
+### Sanjeew, Priyank, Abhi
+
+
+
+## Electronics: Rpi and Camera Team 
+### Michael T, Justin, Shraa, Ken, Kimberly
+
+
+
+## Navigation Software Team 
+ ### Sanjeew, Priyank, Abhi, Naman, Simran 
+
+.
+
+## A.I and Software Team
+ ### Sanjeew, Priyank, Abhi, Simran
+
+
+
+## Biology Team 
+### Natasha, Sabrina, Joan, Christy
 
 
 # DIY Droners 17-29 August 2020: 
