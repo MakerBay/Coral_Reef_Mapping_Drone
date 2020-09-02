@@ -39,8 +39,8 @@ This is the illustration of Version 2.0 in CAD.
 
 Compared to Version 1.0
 ---
+<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/V1/Complete.jpg" height=640>   
 
-![Prototype+Drawing](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/Wiki/images/Photos/V1/Complete.jpg)
 
 Overall Look and Testing
 ---
