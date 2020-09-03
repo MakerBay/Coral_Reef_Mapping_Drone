@@ -4,15 +4,15 @@ We chose to present the electrical assembly as a diagram, in order to facilitate
 # v2.0
 # New assembly
 We working on a new assembly, allowing to put batteries in the bottom, for a more stable drone. Here's what it looks like
-![New assembly](New-Assembly.png)
+![New assembly](images/New-Assembly.png)
 
 # Electronic assembly diagram
 This diagram shows the current version of the electronic assembly of the 'brain casing'. The Raspberry Pi, the camera and the camera tilt control are not connected to the rest of the drone yet. This assembly shows their final position, but doesn't show the cabling. This drone doesn't have any camera function yet, it can simply be seen as an RC boat for now. 
-![Diagram of functions](Electronic_Assembly_Diagram.png)
+![Diagram of functions](images/Electronic_Assembly_Diagram.png)
 
 # Diagram of main functions
 This diagram shows the main function of the drone, with the 
-![Diagram of functions](20200401_Diagram.png)
+![Diagram of functions](images/20200401_Diagram.png)
 
 
 
