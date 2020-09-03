@@ -51,6 +51,9 @@ Top right: down - manual mode
 Other two do not affect anything
 
 <img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/radio_controller_front.jpeg" width = 400> <img src= "https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/radio_controller_top.jpeg" width = 400>
+# Radio controller setup
+
+[![Controller channel setup](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/channel_video.jpg)](https://youtu.be/8FlCgviHshE)
 
 # Video explanation and demonstration 
 
