@@ -39,7 +39,7 @@ The diagrams show how the electronic components were allocated on the boats. The
 # Connection diagram 
 The diagram shows the connections to be made between components to make everything functionable. It includes all the components that we have used in this version 
 
-<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/Electronic%20connections.png" width=600>
+<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/images/Electronic%20connections.png" width=600>
 
 # Radio controller
 Controller has 4 arms at the top that need to be set properly to be able to control the thrusters. 
@@ -50,14 +50,14 @@ Top right: down - manual mode
            up - auto mode (start waypoint mission) 
 Other two do not affect anything
 
-<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/radio_controller_front.jpeg" width = 400> <img src= "https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/radio_controller_top.jpeg" width = 400>
+<img src="https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/images/radio_controller_front.jpeg" width = 400> <img src= "https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/images/radio_controller_top.jpeg" width = 400>
 # Radio controller setup
 
-[![Controller channel setup](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/channel_video.jpg)](https://youtu.be/8FlCgviHshE)
+[![Controller channel setup](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/images/channel_video.jpg)](https://youtu.be/8FlCgviHshE)
 
 # Video explanation and demonstration 
 
-[![Electrical Assembly](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/eletronics_video.jpg)](https://www.youtube.com/watch?v=VI-w2Kh_qkE&feature=youtu.be)
+[![Electrical Assembly](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/2_Electric%20%26%20Electronic/images/eletronics_video.jpg)](https://www.youtube.com/watch?v=VI-w2Kh_qkE&feature=youtu.be)
 
 # Further improvements
 1. More neat and efficient wiring - use waterproof connectors that can be opened/closed easily 
