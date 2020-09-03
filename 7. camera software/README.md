@@ -48,3 +48,7 @@
 * Check the settings you want to sync and enter 
 * Changes should now be applied to all photos selected 
 
+### How to stitch images
+* Software used for stitching is webODM (https://webodm.net/) 
+* Add all images and make sure lighting is consistent
+* Render 3d and 2d images
