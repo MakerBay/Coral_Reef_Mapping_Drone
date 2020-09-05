@@ -8,7 +8,6 @@ Here you can access the time lapse videos shot by the cameras on the robot while
 Full robot tested at North Hoi Ha Wan. Version 'Bow and Arrow' has been used with 5 cameras on it. Read the video description for details about the video settings and specific location.  
 
 **SD#1 content**
-
 [![video 1](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/9_Camera%20images/13-Jun-20/SD1_screenshot.jpg)](https://www.youtube.com/watch?v=FwHSxIsrswg)
 
 **SD#2 content**
@@ -22,3 +21,16 @@ Full robot tested at North Hoi Ha Wan. Version 'Bow and Arrow' has been used wit
 
 **SD#5 content**
 [![video 5](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/9_Camera%20images/13-Jun-20/SD5_screenshot.jpg)](https://www.youtube.com/watch?v=hFF-tgWg3f8)
+
+## 30 August 2020
+Final testing of the robot at North Hoi Ha Wan with 5 cameras. 'Scissors' version of the robot has been used. 
+
+**SD#1 content**
+
+**SD#2 content**
+
+**SD#3 content**
+
+**SD#4 content**
+
+**SD#5 content**
