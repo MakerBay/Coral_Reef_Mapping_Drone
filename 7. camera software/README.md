@@ -42,6 +42,10 @@
 * Export final image
   * It is important to note that all these individual specific steps are dependable on the image itself
   
+### Short video tutorial
+Here is a video tutorial to show and explain in details how the editing goes. It is simple and basic so that even complete beginners in Lightroom can do it. 
+[![Tutorial video](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/7.%20camera%20software/photo_edit_screenshot.jpg)](https://www.youtube.com/watch?v=nOCerZy6DG4)
+  
 ### How to Batch Edit Photos in Lightroom 
 * Highlight the photo which contains all the edits that you want to apply to the other images
 * Select the multiple photos you want to edit as well and sync the changes (Settings —> Sync Settings)
