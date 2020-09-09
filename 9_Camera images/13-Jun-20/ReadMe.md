@@ -26,11 +26,16 @@ Full robot tested at North Hoi Ha Wan. Version 'Bow and Arrow' has been used wit
 Final testing of the robot at North Hoi Ha Wan with 5 cameras. 'Scissors' version of the robot has been used. 
 
 **SD#1 content**
+[![video 1](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/9_Camera%20images/13-Jun-20/SD1_new_screenshot.jpg)](https://www.youtube.com/watch?v=V19V_4NBoso&t=11s)
 
 **SD#2 content**
+[![video 2](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/9_Camera%20images/13-Jun-20/SD2_new_screenshot.jpg)](https://www.youtube.com/watch?v=Y6CyoRPJun4)
 
 **SD#3 content**
+[![video 3](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/9_Camera%20images/13-Jun-20/SD3_new_screenshot.jpg)](https://www.youtube.com/watch?v=H82YT-Q3bLs)
 
 **SD#4 content**
+[![video 4](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/9_Camera%20images/13-Jun-20/SD4_new_screenshot.jpg)](https://www.youtube.com/watch?v=epXIg7hkm28)
 
 **SD#5 content**
+[![video 5](https://github.com/MakerBay/Coral_Reef_Mapping_Drone/blob/master/9_Camera%20images/13-Jun-20/SD5_new_screenshot.jpg)](https://www.youtube.com/watch?v=5i_dwGD2gzk)
