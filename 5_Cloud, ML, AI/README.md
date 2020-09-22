@@ -33,4 +33,4 @@ If the water qaulity is bad dont label the image and it will not be included int
 ## Steps 
 
 1. Anoation 
-2. Train he model 
+2. Train the model 
