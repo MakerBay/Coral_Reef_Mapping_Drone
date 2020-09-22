@@ -162,7 +162,7 @@ contact@makerbay.org
 Michael, Paul, Ming, Brad, Abbas 
 
 ## Electric, Electronics
-Cesar, Matthew, Alvaro 
+Cesar, Matthew, Alvaro, Abhinandan
 
 ## IT, Software, UX/UI
 Adel, Matthew, Celine, Philippe
