@@ -19,3 +19,18 @@ Will use image sementation to detect corals - corals will be clearly outlined
 ## Proposed Pipeline 
 
 Data collection ----> Collabrative image tagging -----> Training ----> Deployment 
+
+## Software Used 
+https://cloud.annotations.ai/login
+https://app.roboflow.com/
+
+
+Start an account 
+2 Types of Classification : we used "Localisation" 
+Label 
+If the water qaulity is bad dont label the image and it will not be included into the set 
+
+## Steps 
+
+1. Anoation 
+2. Train he model 
