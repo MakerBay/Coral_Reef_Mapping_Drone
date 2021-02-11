@@ -1,0 +1,6 @@
+name: lfseec
+channels:
+  - anaconda
+dependencies:
+  - numpy
+  - flask
