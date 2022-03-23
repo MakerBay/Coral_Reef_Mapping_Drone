@@ -63,7 +63,6 @@
 alt="MAKERBAY DIY DRONER VIDEO" width="300" height="180" border="10" /></a>
 
 
-# This is Rama testing
 # Largest size text
 ## Large size
 ### Medium size
